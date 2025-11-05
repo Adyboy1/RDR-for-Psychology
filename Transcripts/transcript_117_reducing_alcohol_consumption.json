@@ -1,0 +1,374 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hello, nice to meet you again. And, uh, and what seems to be the-the problem or what-what prompted you to come along?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, just I'm sick of my drinking. I'm drinking too much. Um, I just thought, uh, maybe I need someone to talk to, get some help about it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so you feel as if drinking is a problem for you at the moment?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, it's just- it's just got worse over the last six months?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Wh-What makes you say that it's gotten worse?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I guess, I drank, you know, like most people do before, um, but I broke up with my boyfriend, uh, about a year ago and then six months ago I guess I wanted to go out again and see if I can meet people."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And I've been, yeah, getting into this habit of going out every Friday and Saturday, now, uh, drinking a lot."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, to try to meet guys."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sure."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And, uh, in the last few months I've been, you know, just drinking even more on week nights, and I never even used to do that before."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, okay, so you've noticed over, I guess, uh, the last six months in particular since you decided, you know what? I'm going to take a risk and-a-and go out to try to meet a-a-a pot-potential partner again that it's with an increase in drinking."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Well, I just, I don't feel comfortable talking to guys normally. [chuckles]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't know what to say, um, and I just, drinking helps."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sure, sure. So you're noticing that the drinking at the moment is a way of perhaps calming the nerves?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, for sure."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "To-to-to speak to-to potential partners?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, definitely."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Who-who-who, boys?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean, I guess, like most people do when they go out they drink."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I've been doing that and just drinking more and more I guess."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sure."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, and it's just-- it's not even working, I'm not really meeting people and I just end up with massive hangover for the rest of the weekend and\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That's interesting isn't it? You-- 'cause you kind of mentioned it there, like, you know, on one side of the coin, um, it helps calm the nerves to get yourself get out there and-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-talk to guys at the same time, on the other side it's not working you're finding. And i-i-it results in hangovers or?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I mean, I've maybe talked to people but it's just, uh, that I've just I think I'm just too-too drunk and I just, my friends drive me home and just the end of the night I don't-- yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, and so I guess, you know, what would you like to do given the circumstances?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I guess I just wanna stop. I just feel like I'm drinking more and more 'cause I'm doing it now in the weekdays-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and I mean, I just don't-- I don't wanna do that every now and now I just think it's a bit too much."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I'm just I'm not eating properly anymore, I'm just eating less or just getting takeaway, getting crap food and-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-um, I'm just, I feel like I'm not exerc-- well I'm not exercising like I used to. So, I just wanna cut, you know, stop drinking so much."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, okay, so, uh, sounds like you really want to stop drinking, particularly during the weekdays?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Yeah I do. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right, because you're noticing it's having a negative impact on what you're eating."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I don't wanna- I don't wanna, I mean, I don't wanna stop altogether, so."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "No, I get it. Yeah. I mean, you know, it sounds like it's, it is helpful to a degree for you when you go out because it makes you feel a little bit more calm to talk to-to guys is that right?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah and just and all my friends go out and drink. Like I-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-I'd have no social life if I didn't."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "If I just said-said, \"No, I'm not drinking at all,\" and, you know, I don't feel like I'm an alcoholic-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sure."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-or I don't feel like I need to"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, yeah. So, you've got, you know, some benefits there then, you know. The social element, hanging with friends and-and going out together is something which is-is quite enjoyable. So, it's not a case of removing it completely but it\u2019s a case of, \"Okay, I\u2019m noticing this is impacting on me more than what I\u2019d like to.\" Yeah. Yeah, okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, it just got a bit out of control."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Has there been times in the past where you\u2019ve tried to cut back on drinking?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, this hasn\u2019t happened before."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, this is the first time anything like this has come up?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, due to just circumstance of, I mean, I just yeah, had my boyfriend for six years before that and-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yes, yes."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, before that yeah just my friends weren't drinking so much, and yeah it\u2019s just not, it's just new. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, yeah. Well, it\u2019s great that you\u2019re able to identify, you know, what\u2019s going on at the moment and you've-- not only know that, you almost picked up on a bit of a pattern too you're in-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-as to why you\u2019re-you're drinking. In terms of looking at cutting back on-on drinking, you know, on a scale of 0 to 100 and 100, uh, meaning it\u2019s tremendously important for you and 0 not important at all. How important is it for you to cut back on the drinking?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I believe 80, I mean I guess that\u2019s why I\u2019m here so\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, yeah yeah sure, you're already taking a huge step forward in many ways by coming along to-to start talking about it."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, I guess 80 is quite high, what makes you say an 80 over say 50?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I don\u2019t know, I just-just I don\u2019t know, it just sort-- it just got up to a point where just, um, it seemed just too much, like no-nobody else is really drinking as much in the week as well and-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-it seemed, as just, yeah, for the reasons I was saying, just seeing like I need to do something about it now."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, yes, so you\u2019ve got this real sense of, \"I've gotta do something.\""
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Just seeing it\u2019s just gonna get worse, uh, wha-- that\u2019s what it seems like."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That\u2019s what it seems like."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, at the moment, it's been a case of the last six months, this is a pattern that you\u2019ve been noticing more and more, um, a sign that it has had negative impacts on your lifestyle which you\u2019re not happy with and you are in you're in a position where, you know what? I wanna do something about it."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, I mean what do you think that next step is?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I guess that\u2019s why I\u2019m here. [chuckles]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Just to, uh, but um-- I is-is-- I think the weekdays is what I really need to do."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, and then, I don\u2019t know, try to plan it out a little bit more on the weekends-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-so it just doesn\u2019t go crazy."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, okay, so you\u2019re thinking about perhaps looking at trying to keep weekdays free of alcohol? Was that what you were saying?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah. Yep."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, how does that sound like a first step goal for you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, that\u2019s good, that\u2019s-that's, yeah, that's- that is definitely what I\u2019m gonna do."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I just, you know, I'm so out of the routine, not exercising, I need to get back into things."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, you sound really mad about it to-to turn it around."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, but I mean, I guess, just talking about it makes me think oh yeah, I need to- I need to do something about it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, oh, that-that's excellent, okay."
+  }
+]

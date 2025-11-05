@@ -1,0 +1,186 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, hard part's over. So the good news is no cavities."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, great."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yes, always happy to hear that. I do have some concerns though because I'm seeing some irritation in your mouth in the palate that's called nicotinic stomatitis and-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That sounds bad."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, it is. It's some damage to the roof of your mouth that happens from tobacco smoking and so I'm wondering if you can tell me a little bit how-- about how tobacco fits in your life right now."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Tobacco. Well, I don't smoke cigarettes. I've never smoked cigarettes. I do go out with my friends. Um, you know, we go out to bars and, you know, we'll have a few drinks and smoke some of those little cigarillo-type things. I mean I wouldn't even think of them as cigars and they're certainly not cigarettes. Um, and I mean I'll have one or two of those in an evening with, uh, with my friends but certainly not 20 or 30 of them a day like you would with cigarettes and that's the only thing that could possibly have anything to do with tobacco."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So you've made a decision in your life not to smoke cigarettes, that's something you didn't want to do. It sounds like you're kinda concerned about the health effects of cigarettes. But you have been smoking the little cigarillos at least one or two every time you go out."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "But that's- that's just like a- a social thing. That's something that my friends and I do. We-- We-- It's not habit or something that I have to have and, you know, talking about one or two when we go out for an evening. Not packs of them."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, so you're not-- You're not like those chain smokers, you're not smoking packs and packs a day."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, no. No."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "The amount you smoke is so miniscule you can't even imagine that it would cause any harm and yet here it is damaging the roof of your mouth."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, we've-- you have a point there. Mm, now that you mention it, um, I have started having one or two at work, you know, when we have break since I have a couple of friends at work that smoke and so every time we have a break, you know, we all go out to the- the break place outside, um, and so I- now I go with them and I have one of these Swisher Sweets. Um, I like the peach flavor [unintelligible 00:02:32] they're so cute. But that's really only pretty recently."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh. So smoking has kind of become a big part of your social life now. When you go out, you're smoking, and even during breaks at work, you're smoking."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, yeah, yeah. You know now that you say it like that it's true. Um, I am smoking on a daily basis."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So aside from that social aspect, what are the things you like about it?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, it's relaxing and it's just nice to be with people, um. Um, and you know, when, you know, I like to go to Las Vegas, and so when we go to Vegas, it's really fun to go to the cigar bars, is kind of sophisticated and fun and so, you know, it's mostly a social thing."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I wouldn't say I was a chain smoker."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. How about the other side? Have you noticed any not-so-good things about the smoking?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I was going to ask you about, um, whitening my teeth because I've noticed that they have more stains on them up than a few years ago, and so I imagine that has something to do with the smoking."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. So we're noticing some pretty negative effects in terms of your oral health with the smoking. Are there any other things that you're concerned about?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um. Well, there's the expense, you know. Wi-with the economy and all, um, I- I have to be careful about my money and so, um, there is the extra expense of if I'm buying more of them than I used to. So the-the money aspect is also a concern."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. So there's your oral health, there's the financial aspect, and then e-earlier you brought up some concerns about smoking cigarettes and how that can be harmful for you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Were you aware of the fact that smoking these little cigarillos, the Swisher Sweets, can have some of the same negative health effects?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, absolutely not. I mean I thought of it more as a- a fun thing to do with my friends, certainly not a smoking habit or anything that would be harmful."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. So it's kind of surprising to you that something you've been doing and you've been doing more and more of it is actually pretty bad for you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, yes. I checked the box on your form when you asked if I use tobacco, I checked \"No,\" because I never thought of myself as a smoker."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. What do you kind of make of that now that you realize that you're actually a tobacco user and that you might actually be causing some pretty se-serious health effects."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'm really concerned, I mean, I don't want to, um, develop cancer, lung cancer, or any of the awful things that happen from smoking, and, you know, really, until this conversation, I never really thought of myself as a smoker at all. So-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-I'm very concerned."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, the good news is in terms of the nicotinic stomatitis, at the point in which you stop smoking, you can actually reverse all the negative effects that occurred and you might also know that you can stop the progression of any other diseases that had started, just by quitting smoking."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Really?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Is that something you'd be interested in?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, I would. I really would because, like I said, I'm a brand new smoker. I didn't know I was a smoker until I came to see you."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. Well, if you think about it on a scale of 1 to 10 where 1 is really don't think you could do it at all and 10 is really confident that you could quit if you tried, where do you think you fall?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, I think I will probably be in seven or eight. I'm-I'm pretty confident that I could stop doing this."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, what made you choose seven or eight as opposed to a-a five?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Because it's not a part of my daily life. I don't have to have, uh, a smoke when I get up in the morning. I don't smoke 20 or 30 of them a day, so it's not that much exposure and I-I feel pretty confident that I could stop."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. So, it sounds like just to kind of summarize, you've noticed some negative effects of the smoking, you have some concerns about health effects that could occur, there's the financial aspect, and yet you feel pretty confident that you could quit if you tried. So, where do you think we should go from here?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I'd really like some more information about quitting. I mean, I've heard there's some-some new medications, there are some new things that can be done to help people make quitting more comfortable and I-I really wanna quit."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, well, I'd be happy to talk to you more about that and give you some tips and advice and give you some suggestions about where you can get some support with quitting."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That'd be wonderful. Thank you."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I really appreciate you talking to me about this today."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Thank you."
+  }
+]

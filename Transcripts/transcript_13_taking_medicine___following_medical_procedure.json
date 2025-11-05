@@ -1,0 +1,58 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hi, Mrs. Smith. I wanted to let you know that at this appointment, we're gonna be giving Lilly some vaccines."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, I-I don't know if I'm comfortable with that. I've been reading a bunch of stuff lately about them."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm. Can you tell me more about your concerns about vaccines?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, yeah, well, I was just- I was reading that it's better to let them build up their immunity, like, naturally and stuff in their immune systems."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so you were thinking that maybe exposing Lily naturally to these diseases would be a better choice than using vaccines to help her get stronger?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, yeah. I mean, I had chickenpox as a kid, and now I'm immune. Right? So."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That's right. Having chickenpox as a child means that you are less likely to have chickenpox as an adult because you've developed a-a natural immunity. Uh, but is it okay if I offer you a little bit more information about the other vaccines that we're- we were going to give her Lily today?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So, uh, before vaccines were developed, often when children had a natural exposure to some of these diseases, they ended up with, uh, sometimes death, disability, measles caused brain damage and, uh, deafness and blindness. Polio caused, uh, paralysis in children. And so, allowing children to have natural exposure to these diseases, sometimes was a little bit of a gamble, it could be dangerous."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Wow, I didn't realize it was so dangerous. I've never heard of polio."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm. Some of these things I've mentioned to you, you're-you're not familiar with. Uh, and I think that's because we've done such a good job of eliminating some of these diseases that a lot of people your age, and even my age, are unfamiliar with those things.  Um, so having shared this information with you, what do you think about the idea of vaccines for-for Lilly?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, I guess it's okay. I mean, I just I want her to be healthy and safe."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It's really important for you to make sure that she's protected and that you make good decisions and do your research before you make any medical decisions for her."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I just want to do what's right."
+  }
+]

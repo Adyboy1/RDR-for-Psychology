@@ -1,0 +1,242 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, Jacob, everything looks very normal on your physical exam. Do you have any questions for me?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. I see that you filled out our, um, alcohol and drug questionnaire. Is it okay if we go through this together?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Sure."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. What we talk about is confidential. I only tell your parents about what we say if you give your permission or if I become worried about a danger to-to you or to someone else. Does that make sense?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So, let's take a look. So I see that you have marked that you sometimes use alcohol, and that you have used alcohol to relax, feel better about yourself or fit in. Do you mind telling me a little bit more about your alcohol use?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's not a big deal. Sometimes with my friends, we'll drink a few beers and when we're hanging out or when we're at a party, and sometimes rum and cokes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so how many do you usually have at a time?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, three or four, probably. I don't keep track."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. And how often?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, probably about once or twice a month."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So, you drink with friends, sort of three or four beers or mixed drinks, one or two times a month. How long have you been doing that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Probably since last October."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, for about six months. I'm curious. What do you like about drinking alcohol?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "What do I like about it?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I don't know. It's just fun to drink with my friends, like when we're at a party at someone else's house, and we're drinking with other people that we don't know. It tastes good."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So, it sounds like you feel relaxed and have fun when you're drinking with friends and you like the taste."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. I'm also curious, are there any parts about your alcohol use that you don't like?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I don't like when I get sick in the mornings 'cause of hangovers and-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-when I start throwing up, that's not- I don't like that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Have you ever experienced a-a blackout, like when you've been drinking and you wake up and you don't remember what happened?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, but that happened to someone I know, though."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. And have you had any problems related to-to your drinking alcohol, like at home or school or somewhere else?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, one time I missed first period of school 'cause I had a hangover and I was late getting up."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm, mom got mad at me 'cause I wouldn't get out of bed and she said she knew I had a hangover."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. Have you told your mother that you drink with your friends?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, but I got grounded for two weeks after that. [chuckles]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So more negative things about your drinking, like getting into trouble with your mom and missing a class at school when you had a hangover?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, but I only missed school once."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. I see on the questionnaire that you have not ridden in a car with someone who's been drinking and you haven't driven a car, um, after you've been drinking. Is that correct?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That's great. And I hope you continue to avoid those things. As your doctor, I want you to know that I'm concerned about your drinking. When teens drink, things can go wrong, like injuring yourself. Even when you don't drink too excess, though, your brain is still developing and is very sensitive to the effects of alcohol."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That's why I recommend that all my adolescent patients not drink at all. So if you were thinking today about how ready you feel to stop drinking alcohol on a scale of zero to ten, with zero not being ready at all and ten feeling very ready, what number would you pick?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, probably a five."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "A five? So, I'm curious. Why didn't you pick a lower number like a two or three that would mean you're only a little bit ready to stop drinking?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I guess I'm just tired of getting in trouble."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. What could you do to avoid getting into trouble?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, not drink."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "[chuckles] Have you ever tried not drinking or stopping drinking?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, not really."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. What some people your age do is try stopping drinking for a period of time just to see what that feels like."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I could probably do that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, how long do you think you could go without drinking?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Do you think you could go two months without drinking?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, probably."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. What things would make it easier for you to not drink?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I could probably drink something else when my friends are drinking, like just coke."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Anything else to make things easier for you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I can probably hang out with some of my friends who don't drink or inviting them to parties and having fun 'cause not everyone drinks at parties."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Is there anybody in your life that you can talk to about this, who give you some support for not drinking?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. The-- My friends who don't drink would probably be happy that I'm not drinking either and yes, they'd support me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Great. So you've come up with some reasons to stop drinking, like having hangovers and throwing up and getting into trouble. And you've developed some strategies to-to try to not drink, like spending more time with friends who don't drink or having non-alcoholic drinks when people around you are drinking alcohol. I think that's a great plan. I'm really proud of you for giving this a try. How about if I have you make an appointment for two months from now and then I'll see you back and we can see how things are going?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  }
+]

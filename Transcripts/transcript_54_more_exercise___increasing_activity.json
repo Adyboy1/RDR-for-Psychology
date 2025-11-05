@@ -1,0 +1,166 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, hello Scott."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Hi."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, we were talking a little bit earlier, and you said you wanted to talk about exercising."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I do."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What's going on with that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I just can't seem to get back in the gym. I don't wanna-- I-I used to work out quite a bit, and in the last, I dunno, couple of years I've just-- I stopped going. I got busy, and now I'm out of the habit, and I-I really, I dunno, I feel like I need to get back."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, I mean, I think you just need to maybe sit down and write down a list of reasons why you need to get back to the gym, and then on the other side of the list, put down, you know, um, ideas about what's going to help you get there."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay. Um. All right. Um\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What gym do you belong to?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, I belong to the-the Sport Fitness Center."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. And-and how far away is it from your house?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Just a couple of miles."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Just a couple of miles. Mm. So you-- you know, you could, like, ride your bike or walk there, and it would be [unintelligible 00:01:12] too."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "If I walked that far, I probably wouldn't even need to go to the gym, right?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, I don't know about that. Um. That-- you know, it's really important that you get your, um, not just your cardiovascular-- that's a good idea for the cardiovascular, but also, you know, your, um, weightlifting, the [inaudible 00:01:32] [crosstalk]"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "[inaudible 00:01:33] training."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It-it-it would be important."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. So why-why do you want to-- what do you wanna do with that? You want to look different, or--?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I-I-I-I would feel better. My-- I'd-I'd be able to wear more my clothes. I've been growing around the middle and I'd like to, uh, you know, go back to where I was, you know, get into a 34, 36 waist, you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I-I'm more comfortable-- I feel better. I think that's the main thing."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Yeah, because your-your health really, to me, it's more important than your-your looks. I mean, don't get me wrong, I understand what you're saying, but, you know, it'd be great to get back in those jeans, but\u2014"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah. It-it-it-- I-I am- I'm not getting any younger than I [unintelligible 00:02:18]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. Well, I think you know what to do. You've done it before."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Just a matter-- You just gotta do it."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I've gotta make time."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I've gotta make time."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. And so that might mean, you know, like giving up an hour's sleep, getting up an hour earlier in the day, and going there and getting it done then. That's what I do."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "All right."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So when I see you next time, you know, that's what I'd like you to do is to, uh, experiment with getting up an hour earlier and, um-- You know, 'cause, uh, getting healthier is more important than sleep, you know. I mean, I know sleep is important, but-- And then bring that list back that we talked about."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right, so I'll see you next week."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay. Very good. Thanks."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. All right. Bye."
+  }
+]

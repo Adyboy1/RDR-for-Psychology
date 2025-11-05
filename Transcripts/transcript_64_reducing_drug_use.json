@@ -1,0 +1,1050 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, welcome, Ricky."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Thank you."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Nice to meet you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, you too."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And you found us okay?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Yeah, yeah, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Alright."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Yeah. pretty straightforward-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-always good."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Have you been here before?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No. No, not at all."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm. Okay. Alright. Well, um, I know a little about why you're here today-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-um, but it's great to see you, and so maybe a good point to start with is, tell me why you're here."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Sure. Um, I guess, you know, maybe two or three weeks ago, I had sort of like this group of friends come around to my place, and um, you know, they-they were sort of saying that it was just like a night to hang out and watch DVDs and stuff, and then they sort of sat me down and were like, \"You know, maybe you need to get a bit of help for, you know, drug stuff.\" Then, you know, I was sort of like, \"Well, mm.\" And I was quite annoyed by that at first, but I-I suppose, you know, I thought about it for a bit and then I was like, \"Well, I guess it can't hurt to talk to someone about it, maybe.\""
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And that's led you to being here today?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Alright."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I just sort of did a bit of search on the internet and stuff and just read about this place, so I just thought I'll\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. So it sounds like you thought there was something that, uh, that you needed to look at, something that was concerning you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I guess. I-I suppose I hadn't really thought about it till they sat me down, and you know- I mean I could, uh, I could understand a little bit of where they were coming from, so yeah, I thought I'd\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "They were concerned for you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Alright."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Yeah, which kind of was a bit of a sh-shock, I suppose."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You were surprised?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Yeah, 'cause, you know, I don't know. You know, you see on movies when people sort of intervene or say, \"You know, you need to go and get help.\" And then-- I don't know. Like you know those characters and, they-they do need help, you know-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yep."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-because they're fucked."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And you kind of go, \"Woah. That's not me.\" So it's about am I\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You're not sure that applies to you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, or well, not to that extent, you know what I mean? Like, I-I would-- l didn't think I was at anywhere near a point that I would need to be sat down and intervened with-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-if you know what I mean."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Alright."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I suppose."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I'm trying to understand you so far, something's concerning you and something's concerning your friends-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-but you're not sure whether it's- whether-- just how bad it is or- and you're just wanting to check that out?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Yeah. Yeah, 'cause, I mean, you know, they are my friends and-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- you know, I'm not gonna be so narrow-minded as to say for sure that, you know, they're entirely wrong 'cause there's a big group of them, you know? And they do care, so obviously, there's something there that I might have overlooked. But on the other hand, I'm sort of like, \"Well, was it that bad?\" And you know, \"Was that- was that really necessary?\" But I, you know, I thought I'd give them the benefit of the doubt and-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and just check it up, yep."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Because they care about you and-and you respect what they say, and you're wondering whether something about what they're saying may be right, but let's check that out a bit?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, pretty right."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Alright."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, let's do some checking out."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay, cool."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So tell me a little bit about what you're doing, what is- what is the concern that they are raising."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, dr-drugs, I guess."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm, yeah. Sort of kind of do a bit of P now and again-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Alright."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and, um, I guess less often, I do a bit of, you know, I smoke a little bit and, um, party pills in the- in the weekend sometimes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Tell me a little bit about what now and again means, and-and-and how often."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, a couple of times a week maybe."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Is this- is this with, uh, with the drug?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "This is meth you're talking about? A couple of times a week?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm, yeah. Yeah. So I guess when I put it that way, it does sound quite a lot, but it doesn't feel a lot, you know? If you know what I mean?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, maybe, we c-- we can check that out to see whether-whether it's a lot or-- But maybe also importantly to-to discuss with you what the effects are and-and-and what your concerns are about it. But help me to understand a little bit more of what it's like for you. Tell me- tell me what are the things about your, uh, use of meth that you- that you've liked that you found good for you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right. Um, I suppose it's kind of hand-in-hand with just hanging out with, sort of, some new scene that I've-- Like, um, I moved to Auckland maybe three years ago."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And, um, I still live in Palmy and, so as you can imagine, it's sort of a bit different down there. And, um, kind of just when I first got here I was sorta introduced a little bit to, um, like do you know Family Bar on-on [unintelligible 00:06:49]?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I know Family Bar, yes."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. It's that sort of- that sorta scene, that kind of, um, gay scene, I guess. And, like, it's not something I'd really thought about before and-- But then kinda hung out there and just met these people that were sort of like you don't really get there much Palmy. Well, I mean I suppose you do, but they're not-- You know, in Auckland bars like that you can just-- Uh, you can just be it out in the open, you know, and I suppose in Palmy you can't as easily. Um, so just to arrive and see that and kind of meet these people that were just really friendly, you know, and-and not judge me into it. I don't know. You know, Palmy often is they're sort of like, \"Oh, you've gotta own a car, and soap it up, and drive up and down the Main Street,\" and I just couldn't give a shit about that, you know, so. Or play rugby and, you know, that didn't interest me at all and sorta come here and have people, you know, talk about interesting stuff and have a good time. I just want to go out and dance and stuff like that. Um, that was quite cool for me to know that that existed because I hadn't seen that before and-and I suppose there's a lot of that that goes on there, you know?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's quite a heavy party scene most weekends and stuff. So it kind of goes hand in hand with that really, and just, you know, I guess when I have-have a slight-- I don't know, you just feel really good, I guess. Just feel, like, happy, and excited, and just to be surrounded by people that, you know, really care about you, and love you and-- Coming from a place where y-you didn't-- don't get that as much, it's just really cool, you know, to-to be able to go, \"Okay, on this day I can take this.\" And it's just that instant, like, \"I know- I know I'll feel good.\" I guess that's part of it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So Auckland, coming to Auckland from Palmerston for you was-was like taking charge of something that you were going to look to make something different in your life?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, in-in a way. Although I wouldn't have been conscious of that really. I just sort of discovered it here. It's not like I came to Auckland looking for that kinda-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-lift to get away from, um, you know parents mainly, and that kind of lifestyle, that Palmy sort of lifestyle. But then yeah, I discovered this other thing, um\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Which you weren't aware of in Palmerston?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No. I didn't really know. I guess you see sort of things like that in-in movies from America you know, but you don't really-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- think that it would exist in your own country. Well, not if you grew up in Palmy."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Palmerston. Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I don't mean to be mean about Palmy but, you know, it's just the different kinda attitude, I guess, kinda- this done-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-to that sort of thing."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It sounds like you're ready to move up to something that was different."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And-and you came-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-plus-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-here to Auckland."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah. I definitely wanted to get away from something. I didn't know what too, but then I arrived here and found this thing that was like actually, this was obviously, fate or whatever was pulling me to this thing-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Alright."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-'cause-'cause like I found something in myself or something that was missing."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And how does that feel for you now?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, now, I guess, now, I'm just a little used to it. [clears throat] When I first got here, I was like, \"Wow, this is amazing.\" This is hard, I guess, but, you know, it's been three years now, so it's just kinda like I've gotten used to it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean, I guess, I'm, let's say I take it for granted but, um, yes, it's just comfortable now. And, um, it's just a sort of what I do really. Yeah, so, I guess that the drugs are linked to that, I suppose. It's j-- Well, it's just a part of it, I don't really think-- I didn't really differentiate it. It's just kinda, \"Okay, I'm gonna go hang with my friends,\" and that sort of thing, you know, that Saturday, Friday night thing. And then it just happens really as part of that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So coming out, feeling-- being gay-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yep."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-being part of a gay culture here in Auckland, is feeling good-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-for you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And at the same time, it's-it's linked closely with the- with the drug scene with the meth scene for you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yep."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And you're not experiencing where these two things are separate? They just seem to be together more often than not?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I guess, now, that I think about it, maybe it's sort of gone beyond that, maybe I didn't notice that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So\u2014"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean like I always-- Well, it's, you know it's kind of a thing that happens in the weekends but, I guess, sometimes in the weekdays. You know, I'll-I'll pretty much every weekend I'll have a big night, um, maybe two but sometimes, you know, in the weekdays like on a Tuesday or Wednesday or something if I just kinda feel like doing something then I might do that sometimes to see if someone else wants to come round and join me or, you know, occasionally by myself I might have a smoke by myself or something like that. And I guess that isn't entirely linked to that scene, I suppose."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It just sounds like something's worrying you about that there's-there's a part link there but there's not a link and that-that maybe that the drugs is-is becoming a more important part in your life."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm. Maybe. I suppose I hadn't really thought about it-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-until recently."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So something's changed recently?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I suppose just since that kind of intervention thing or I started to give them the benefit of the doubt. And it's-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-maybe noticing some things that I hadn't noticed but\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Tell me about those things you're noticing that you hadn't noticed before."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, I mean, e-even just now, you know, when you asked me how often."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That surprised you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm. S-surprised me to-to think about, you know, when there's stuff, and you don't really think about it, but then if someone asked you, you know, how often or-- and then you kind of have to quantify it, I suppose it kinda sound shocking, you know, if I- if I imagine myself sort of saying, \"I do this, you know, a few times a week.\" It-it-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-sounds shocking. But to me it-it's- it doesn't feel that way, you know, that's kind of where that, where it kind of doesn't sit right. I, [clears throat] that's why I kind of got a bit miffed at my friends a little bit, or I dunno, a bit defensive there. 'Cause you know, it sounds a lot, but it doesn't feel out of control or anything, you know. It doesn't feel, I dunno, people that need to go and see therapists or whatever you kind of go, \"Oh, they're an addict.\" You know. They-- Their health is really bad and they need urgent help right now quickly, Uh, well, at least that's kind of the-the feeling you get. And I don't feel that at all. I don't feel like it's a real urgent thing. So that-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Alright."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-felt a bit weird."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So you're worried a little bit about it and you're going to find out more about it, but you're-you're not gonna take on this notion of being a headache or anything as yet\u2014"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Definitely."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So tell me then, um, Ricky, what- what's the other side of the good things that-that using meth or doing some smoking does for you? Is there a downside to it? Are there problems that you're experiencing?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yep. Um. Uh, I suppose money is quite a big thing. Like, I used to have a lot more money sorta last year. I had a, quite a good job, like a, quite a regular acting job."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, and it was like quite a lot of money that la-last year. So it wasn't such a problem then. And I suppose I sort of blew that money a little bit. Um, so now I don't have that acting income coming in as frequently and I'm working in a cafe like a sort of part-time and it's not bringing in as much. So now it's kinda like, and sometimes I need to borrow a bit of money or sorta need a bit of help with the rent sometimes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Quite a lot's changed over the last year from\u2014"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Yeah. A little bit."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It doesn't sound like it was part of the plan."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No. But you know, that's the life of an actor, I suppose, ups and downs works and not works."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sure. [chuckling] It's not a secure profession-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-and it's-it's hard-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's not."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-it's hard. But is-is there, I just wonder, is there a connection at all between the-the-the-the acting and the meth use in terms of the effect of the meth use on your- on your ability to get work?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Hmm. Could have been a couple of auditions that I didn't do so well and as I could have 'cause of that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "The drug may have had an effect on that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, maybe. Maybe it's just my general sort of state. Um,I dunno, sometimes I suppose just kind of weighs on my mind a little bit like, \"What am I doing or why am I spending my money on this?\" I mean, when it's happening, it's like, this is amazing."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm. Hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know am I-- You go in- you go into places, interesting places, but you know, I could just as well have saved that money and actually gone to interesting places I suppose. But I don't know. I wonder if it- if-if it's having an effect. I-I don't know. I can't say for sure, but maybe it's not so good for the face, I dunno. [crosstalk] Dunno if I look tired or-or run down or-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Alright."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-or if I actually am tired or run down, I suppose. Again, this is things that I haven't really thought about-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Alright."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-but now I'm starting to think about."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. And they got questions too-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-to ask are they\u2014"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You're beginning to-to think about those things and-and-and what effect they may have on you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And the choices that you might have about it."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What else? Are the-the-the-the problem of around the use of money, you know, the choices that you make around money, and the meth use has taken up quite a lot of the money-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yep."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-over the last year and maybe also the effect on-on um, your job and being able-- maybe you're not auditioning as well as you might."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yep."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And maybe the effects um, also on-on your physical appearance. An interesting question around the effect of meth use on physical appearance."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, what-- are there any other problems? Any other things that-that are a bit of a downside to this?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, I guess it's obviously having some sort of effect on my friends and my flatmates, 'cause, you know, they set me down and said, \"Look you gotta-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-look into this or else we can't hang out anymore.\""
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And that's a problem?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That would be a problem, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Why?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "If they didn't wanna hang out, well, then what have I got, I suppose?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "They're important."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Yeah, and I mean part of it, yeah. Part of it I just wonder 'cause, you know, a lot of those friends that set me down are obviously the ones that are not part of that scene. I mean there were a couple there that-that are, but mostly they were the ones that sort of have always sorta been a bit judgy. You know, like when I first started all this stuff, you know. And clearly, there wasn't a problem like-- 'cause I used to be that guy as well you know, like, \"No never do that 'cause it's bad,\" and then you try it the first time and you go, \"Actually, it's not that bad.\" It's not the end of the world if you're sensible with it, then it's not gonna be, you know."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You have to take a stupid amount to do any kind of like, or, you know, to die or to end up in a hospital."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "YHmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So it's provided you don't-- you're not stupid with it. Then it's just a bit of fun but you can't really explain that to people who are-- have their walls up. So it's hard not to sit in this room full of people kind of going, \"Oh, you know, you really should stop the drugs, they're bad.\" It's like, \"Well actually, you don't know what you're talking about.\""
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm. But Ricky, let me just check, 'cause I may got this wrong, just check with you that um, there are some friends that you've got who do use who are still concerned about you. Did I get that right from what you said earlier that-that those who are concerned about you and were part of this intervention some of them use."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yep. Yeah, a couple."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And you-- So they have their concerns and-and you are beginning to-to ask questions of this use as well and-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-it's just that that we're gonna try and drill down a little more into just to pick up for you what-what you think might be going on and what you think might be some of the options for you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yep."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And we're g- we're gonna leave labels all that kind of stuff aside 'cause, you know, I'm picking up from you that that's not what that's about."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yep."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I'm happy with that. What do you think will happen, what might happen if you can turn your-your uses- you're on now? What-what concerns do you have about not making any kind of change?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, well I suppose the acting thing is a really big concern."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Alright."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "'Cause I want that to be my job, you know. I'm fucking sick of cafes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "This is gonna be your career. This is the career-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-you want to make."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'd like it to be, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. It's harder when you're trying to create your career, get that going. You gotta- you gotta be at your- at your top, top pitch."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, 'cause I mean it's all you know, it's partly lacking and partly being at the right place at the right time. And if you're at the right place and at the right time and it is not on your game then there could have been a\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, and-and maybe the meth use is-is compromising that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, it could be."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, and then I suppose also like money is linked into that as well, you know, I've-- I'm not doing as many courses and stuff as I used to be doing, 'cause it's, you know, don't have the money."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Alright, so it's back to the money thing again which is-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, yeah, I mean, obviously I don't wanna keep pissing my flatmates off."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know, and it's not- it's not cool to not pay the rent, obviously. It's not something I'm happy with."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That creates problems?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, and I don't wanna be that person."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Let's just come back to another thing, uh, that we were talking about a little bit earlier, and it's around your meth use as well and-and-and with your gay friends, with gay lifestyle. And-and that sounds like you're saying that-that-that when you party, when you go into the clubs, when you're being with friends that the meth use is always there?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "The-the availability of it is there."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And everyone, most people are using."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Not-not necessarily P or whatever but yeah most people are doing something. Yeah. I suppose yeah it's kind of part of that scene that there's not a huge like, you know, you go to normal bars and most people are just drunk and wasted and like spewing everywhere and stuff and whereas that's a different scene. Like, people drink but they don't drink to that excess but they take other things and have a good time. And, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And it might be hard to be part of that scene and not to be using drugs?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I mean there are people that do that. I suppose it-it would be hard. I-I haven't really thought about it, I suppose. That's all it is, all I've known that scene to be, you know, 'cause I'm quite new to it, you know-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-so from the beginning it was always there."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So there is a possibility that there are other parts of the scene that don't rely on drug use-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-or particularly on-on meth use?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh yeah, well, they must be. I can't imagine everyone is there, I guess just the ma-majority or at least p-- the majority of people that I know, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So that might be something that we can look at but later if you're interested in is maybe what are some of those other parts of the gay scene, whose still party and party medley, but when meth is not a- is not a dominant-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-factor in that partying, and we- where-where there are, uh, uh, uh, gay groups that support people who-who are not wanting to be-- they have a lifestyle that is heavily weighted to drug use. So there are some options there to look at some other ideas if you're interested and we might look at that, for you to think about-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-to consider, so it's not about giving up anything, it's not about huge major changes, it's about how can I improve the situation."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yep. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It's what I'm hearing you saying bring-- be a little bit more in control of what's-what's going on for me."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yep."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So that I can pursue that plan."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What could be a- what could be a first step towards that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, [coughs] I must say I was a bit, um, you know, at the start when I was sort of saying I, you know, this is how often I do it and then I found myself talking about the kind of the weekday stuff I kinda took myself back a bit there. I suppose, you know, on a Wednesday by yourself like it doesn't sound that good."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So that needs some thinking about, doesn't it?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "As to what-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-what would work for you-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-as an alternative."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Yeah, but I think you're right about, just something to look forward to, because it's that midweek slump, you know. So far away till people will be in their place where they can-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-hang out and have a good time."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Yeah. And there are things that have gotta work for you, so that-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-that's your ideas on there which are really important. But again there are some options, that if you wanted to look at, you know, just to at least be able to know what they are."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Because there are clubs and there are groups and there are all kinds of things that meet through the week."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And so, though they're not going to be necessarily like the party scene, they are other activities. Now I'm talking about gay groups and gay activities which are an option that-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-you know, good to know about and-and-and maybe in-- within those options or something you might say, \"Oh yeah, I'd give that a go. Have a look.\""
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Yep."
+  }
+]

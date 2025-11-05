@@ -1,0 +1,302 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hi. Are you Julie Thompson?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hi, I'm Bruce Berger. I work in the clinic and, uh, I noticed that you're in to pick up a prescription for Sarah's, uh, rescue inhaler-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-for her asthma. I noticed that she's been in the emergency room five times in the last year for her asthma. What's that- what's that been like for you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's been- it's been really difficult. Um, I hate to see her gasping for breath. And, um, I'm really worried, you know, when she has to go. Uh, so that's been-- it's really difficult when I have to take her."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, it sounds like you'd be willing to do whatever you can to try to prevent that from happening."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. I-I also noticed that, uh, it's been about three months or so since you picked up the prescription for her chronic inhaler."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Are you having some difficulties with that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I did research on the chronic inhaler and I found out that there were steroids in it and that-that I don't want her taking steroids. I did, uh, research on some of the potential side effects and some of the health problems that can result from taking steroids and I-I just don't want her to take those at all. I don't want her exposed to them at all. And then, uh, let me just go ahead and lay this out right now. Uh, because I'm sure it'll come up, but I-I do smoke. But I make sure that I do not smoke around her so that I make sure that it does not affect her. So-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-I just want to let you know that right off."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, it sounds like you care about Sarah a great deal. You-you don't want her, uh, using steroids. You're worried about what kind of effects those would have on her and you're- you're working hard to keep your smoking away from her so it doesn't affect her asthma."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Uh, would you mind if we talked a little bit about the chronic inhaler and the medicine that you're concerned about with, you know, the steroids because, you know, I certainly don't want her using a medicine that has steroids in it, like the ones that you're worried about for athletes. Uh, can we talk about that just a little bit?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Even though, uh, even though this medicine isn't the-the medicine that's in this is in the same broad family as the steroids you're worried about, and those are called anabolic steroids."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Which build people up and have masculinizing effects."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "If-if I can draw an analogy-- Again, even though this medicine is in the same family as those big broad-broad family. If I could draw an analogy, a grape and a watermelon are in the same family of fruits, you know, and obviously, grape is much smaller than a watermelon. And if you eat one grape, you'd be fine. If you ate an entire watermelon, it can make you very sick. If we look at the grape as the medicine your daughter's taking, again, it's in the same broad family, the amount of drug that your daughter is getting is very small. Uh, and not only that it's not an anabolic steroid, even though it's in the same big family. And what this drug does is actually reduces the inflammation in your daughter's lungs. And-and it doesn't even get absorbed into the body. It only goes to her lungs. And as I said, I wouldn't want your daughter taking a medication that could have the impact of those anabolic steroids. This is really safe for your daughter to use. So what-what are your thoughts about considering having her using this?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I-I guess I didn't realize that they weren't the same thing as the anabolic steroids."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Which are the ones that cause all the problems and everything. So, um, if-if you can assure me that it's not going to have those same side effects and health problems-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, def-definitely would not. I mean, probably you saw the name corticosteroid and thought, \"uh-oh.\""
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You know. And so-- yeah, and that- and that does concern people. But I do want to reassure you that this is medication that only goes to her lungs, and won't get in her body and they're not the same kind of drugs as the ones you're worried about."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Do you mind if I talk to you a little bit about what your daughter's lungs are like when she's having these inflammations and needing to go to the emergency room?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. When-when somebody has asthma, their lungs are like hypersensitive. If I could use an analogy, again, if-if you had the skin burnt off your arm, if somebody brushed up against you before he had the skin burned off your arm, it wouldn't bother you at all. But when the skin's burned off your arm, you literally react to it. Her lungs are exquisitely sensitive. Uh, and like the skin on your arm would be if the skin got burned off. And what this drug can do? This chronic inhaler is reduce the inflammation in her lungs so that her lungs don't remain exquisitely sensitive. Because otherwise, everything in the air like dust, pollen, uh, reacts with her, uh, in ways that it would not normally affect us."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And so this chronic inhaler can really prevent that from happening. Okay? Which is why it's so important to use it."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "The other thing I was going to tell you is that, unfortunately, uh, even though you are smoking outside and keeping the smoke away from her, the smoke on your clothes, because her lungs are so sensitive, can also affect her lungs and cause her to have a reaction. Now, something I'd like you to think about is that, if you use the chronic inhaler every day, she may not be sensitive to the smoke on your clothes, but she still maybe because her lungs are just very different than ours. Um, honestly, I'd love to see you quit smoking for you too because, you know, as you know, it's not real good for you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh, and it would certainly help her. Um, but what I'd like you to do is to, kind of, keep an eye on what happens when she uses the chronic inhaler. And if she's still flaring up when you're around her, if there are any, if there is smoke on your clothes because it-it can flare her up."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, even when it's just on my clothes?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "She's that sensitive. If I realized that\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It-it-it-- Yeah. It may not- it may not when she uses the chronic inhaler, uh, but you'll need to keep an eye on that. Obviously, it would be- what would be best if it didn't get on your clothes, or you quit smoking."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right. Um, so would it help, um-- You know, the thought of quitting smoking is a pretty daunting aspect."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean, I know people who've tried to quit and it's-it's just it's- it's really difficult, you know. So I know, it'd be better\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Very hard. It's very relaxing, and-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And-and it's hard to replace it with something."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, it is. Um."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, uh, any thoughts on what you may be able to do to-to help at this point, if you don't choose to quit right away?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I was thinking, um, if since it, you know, it affects her that it's on my clothes, if I only smoked while she was at school, and then changed my clothes before she came home. Would that help?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, that-that sounds like it would be great if you were able to do that. Obviously, don't smoke in the house, you know- you know."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, absolutely. I never. Never."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, so yeah. If you're willing to do that, that certainly would help."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh, again, if you get to the point sometime down the road where you're willing to quit for both you and her, uh, we'd be glad to help you do that. Because you're right it is- it's not an easy thing to do."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. [chuckles]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's really difficult."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So it sounds like right now where we are, is you're willing to-to have her use the chronic inhaler-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-to try to get the inflammation down, so she doesn't need to go to the emergency room and do whatever you can at this point to keep the smoke off your clothes. And I think you're gonna see big changes in terms of, uh, her not needing to go to the emergency room, and you probably won't need to use the rescue inhaler hardly at all."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, really?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, because you'll get that inflammation down."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, that's great-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-because that's always scary when she has to use that one."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. So we'll go ahead and get both of those prescriptions ready."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Use the chronic inhaler every day, keep the rescue inhaler around if she needs it. Uh, and let's see how that works."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That sounds good. Thank you."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. Good."
+  }
+]

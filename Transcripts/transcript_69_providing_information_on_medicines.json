@@ -1,0 +1,30 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hi, Dr. Martin. I heard you had a question for me. What did you want to talk about?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'm sorry, but are you the pharmacist? I just had a question about citalopram."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, I'm the pharmacist on duty. Citalopram, okay. It's an antidepressant and it comes in 10, 20, and 40-milligram strengths. It's excreted in the urine and it has a half-life of about 35 hours. For side effects, there are sexual side effects, heart side effects, and stomach side effects."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay, but I just wanted to know if it interacts with phenelzine?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, um, yeah, I think that should be fine."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay, thanks for that. I have an appointment to run to."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right, thanks. Call me anytime."
+  }
+]

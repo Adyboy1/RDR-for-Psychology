@@ -1,0 +1,346 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Thanks for coming in. Tell me what's been happening since we last spoke."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I, um, I did get an interview for a job. Um\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Wow, that's so great."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, but I wasn't able to go, um, cause my kids, I didn't have any one to watch them. And, um, you know, so the- that was sort of game over. I just, I had to cancel the interview and this, it's too bad because it was a really, a- actually was a job that would have been good, but I don't know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You sound disappointed."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, yeah, because it's- it's, you know, I didn't really have a choice. I guess I have to be- I have to make sure my kids are taken care of first. And, um, you know, I'm worried that this is gonna keep happening."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It's gonna keep happening that you have to turn down opportunities."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm, okay. Well, tell me, um, on a scale from one to 10, how important is it for you to get a job?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, it sits about at a 10 because yeah, I mean, I'm the only one supporting my kids and, um, you know, it's just, what I'm getting from welfare is just not cutting it. So I really need to have a job and soon."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. You're-you're-you're it."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You have to provide for your children."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, and tell me on a scale from one to 10, how confident are you that you could get a job?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean, right now, I think I'm about at a three. I just seems like, you know, even if I'm able to get into the interview and get childcare, you know, when I show up, I've got this resume that it's- it's not impressive and it's got all these gaps of employment and I'm not as educated as other people going in for the same job. So I just feel like I'm not, um, I don't know, that employable."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, it sounds like, you know, the childcare issue has been getting in the way, and so finding something that would work for you would be really helpful."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And then also it sounds like you're kinda feeling not so great about your resume and your experience."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Yeah, because it's so limited and I've been out of the workforce and even when I was working, I mean, it's not, I don't know, it's not stuff that I feel like can lead to the job that I want now."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. What is it that you- what is it that you want?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I just want something that is- is gonna be steady and where I can be, you know, even if my kids are in childcare during the day, that I can be home every night and spending time with them and, um, know you really like to get something where, um, I'm just making good money and- and I don't have to worry all the time about money."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Yeah. So, if you had- if you had consistent work, it would change your life in a lot of ways."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. It would be huge."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. It would provide the income that you need and you wouldn't worry so much."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. And it'd be nice to just know what I'm doing and just have my routine."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. So every day you know where you're going."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. And you know, what's- what's happening for the- for the day, for the week."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right. Well, it would be good if I knew, you know, that my kids are taken care of too-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- so I'm not worried about them while I'm at work."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. Yeah. Because you're- you're the kind of parent that wants to make sure your kids are doing well."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Um, so tell me, what would it take to get you to like a five in confidence, to feel a little bit more confident about getting work?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I mean, being able to make the interviews would be the priority."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, so chi- you know, taking care, having some childcare, having-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- having someone I trust that I can call when I know I've got an interview."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Because you definitely need to go to an interview in order to get the job."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So having taken care of that part, having some reliable childcare would definitely help."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What else would get you to a five?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I just wish that I had- I had more experience or, um, you know, more education. It seems like everyone's got a college education and I don't have that on my resume."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I get asked about education and training and \u2013"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm, mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- um, you know, I just, it, as soon as I asked about it, I just feel just like I'm not good enough-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- since I don't have that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, so if you had something on your resume that was around education training, maybe a certificate of some kind of a field that you're interested in, that you would feel proud of yourself."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Well, something I could talk about in the interview too. You know, even if I was some type of certification where I could say, I could, you know, with confidence talk about- about that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. Okay. What-- do you have any ideas as to what fields you might be interested in getting some more education, more training?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean, I guess, I just don't really know what it's gonna be because I need to have a job now so I'm not really sure."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Like what's going to be fastest."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right. I almost feel like that's more important than what I'm interested in, you know, because I'm like, I'm not going to go back to school for four years right now."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, and so if- if you were, it sounds like if you were going to do something you'd wanna to do something really quickly like a short- a short certificate."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah or something-- yeah, something that I could get immediate skills that would, you know, get me into some kind of a job now, even if it's not my long-term goal or, you know, career just- just get me into something and then I can always focus on."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, sort of like a short-term or transition into something else."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Great. Exactly."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "But that would be steady and pays well?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, and allow you to afford everything you need to afford."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, because even those jobs right now don't feel accessible for me. They seem like, you know-- seems like if-- maybe if I were better on the computer or you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so specifically getting some computer skills will help?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I think so- I think so because I don't-- I can't-- I don't really have anything on my resume that talks about\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "The technology."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. Okay. So whatever and so far it sounds like getting a job is really important right now and you really need the money and you really need to take care of your children and it sounds like you have some ideas as to how you could get to these interviews for one, and then once you're there at the interview, feeling more confident about your skills, um, getting some child-- reliable child care certainly sounds very important."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, as well as maybe doing some sort of certificate or getting some classes and training in computers?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, that would be great."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That would be great."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So what would you like to do next, you think?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, find the childcare resources-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- is- seems to be- that seems to be the\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That's a priority."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "The priority 'cause I can't even do an interview without that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And then, um, I mean-- I guess getting into some type of- some type of a training program that's, you know, short-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- like maybe there's a weekend, I mean\u2014"
+  }
+]

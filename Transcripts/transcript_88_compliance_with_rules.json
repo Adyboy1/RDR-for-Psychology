@@ -1,0 +1,278 @@
+[
+  {
+    "interlocutor": "client",
+    "utterance_text": "For me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, um, everyone that comes on the South Whisky program, we'd like them to pick at least three goals that they'd like to work on in the next 30 days. Because what we will do is we will monitor you and we'll check in 30 days to see how you're going with your goals. So with that being said, we want you to pick something that is relevant for you, something that you're willing to work on. So with that being said, is there anything that you would like to change your work on either at home or school, um, [unintelligible 00:00:30]?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I have to start getting the school on time for my first hour. I always miss that class."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so for you getting on time for first hour is something you'd like to work on the next 30 days?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. What a great goal. So why do you want to make this goal for yourself?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, so people will get off my back."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And who are these people?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "My mom she's always saying, you know, get to school. My PO will be like, you know, if you don't get the school on time, I can bring you back in for sanctions and I don't want to go back in."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So that's something you definitely wanna avoid?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So getting to school for your first hour is something that you're going to work on as your goal."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I will try."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So what are some specific steps you would need to take to get to school on time for first hour?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I can't ever get up in the morning. So that's hard and then by the time I do get up, and then I get ready and get dressed, I miss the bus. So then I usually end up walking or see if I can find a ride. So it could be a bunch of different reasons why I'm late."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so it's not just one major thing?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So knowing that a couple of things can really get in your way, what do you think would work best for you to get to school on time? What do you know you need to do?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Get up on time would probably be a good start of making me get there on time."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What time would you need to get up then?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "[sighs] If I'm gonna catch the bus I'll probably need to be up by 6:15 and sometimes that's just so hard to do, 'cause I go to bed so late and I don't know if I can do it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So you're still kind of unsure if this is something that you could do yet you're saying you really wanna do it because you don't wanna go back for sanctions."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right. I could try-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- and see how it goes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so you're willing to at least attempt it?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So what time would you have to go to bed at night to make sure you're up by 6:15?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I go about midnight now, so if I tried maybe 11:00. I can try 11:00."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Okay, so you're willing to go to bed at 11:00 and then you're going to set your alarm for 6:15 the next morning?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "When would be a great day for you to start this?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, either tomorrow or the next day."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so if I would write down here, um, what do you think- what would you want me to write? Tomorrow or the next day?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Let's start tomorrow."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Tomorrow. Okay, great. So who would be able to help you get to bed on time and make sure you're up on time by 6:15?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "My mom."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Your mom."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Anything that your mom could do to help you with that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "[sighs] She can after my alarm goes off, if I don't get up, she could come in and wake me up and remind me that I said to you that I'm going to get up so that I have to do it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So it's almost like you want your mom to make it say that this is for you. It's not because your mom's making you get up like you want your mom to remind you, \"Hey, remember, this is something that you want for yourself is to be in time for first-hour class\"."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Exactly. Yup."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Great. What could maybe get in the way of you not getting up by 6:15?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "[sighs] Not going to bed on time."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Not going to bed on time."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yup, that's gonna be a struggle for me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So if you are feeling tempted to stay up later-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "- how could you respond instead?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Just go to bed and turn off the lights, don't have my phone."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so a phone is a distraction for you. So keeping your phone away-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "- and even actually turning the lights off and making sure that it's dark?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Kind of a reminder it's time to go to bed."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Have my mom check on me to make sure everything's put away."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And-and also the support of your mom too."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Great. So how will you know that you-your plan is working?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "When I'm at school on time, when the bell rings and I'm in class."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So for you being in your class, when that bell rings, then you know, this is the goal."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Absolutely."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So what I've been hearing so far- what again, what a great goal. You've already had some insight of how to do this. So for you, it's really important that you're getting to your first hour because you don't want to go back to sanction days. You don't having- like having all these extra people checking up on you and all those things.You've already have a plan of going to bed by 11:00, turning off the lights, putting your cell phone away. Even the support of your mom is really gonna be helpful for you, um, getting up at 6:15 in the morning with that alarm. I know that seems really early in the morning, but you seem willing to do it. And if you're not able to do it, your mom's gonna help you out as well."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, yeah, I hope so."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What a great plan and you said you're going to start tomorrow."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'll give it a try."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Great. Well, thank you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You're welcome."
+  }
+]

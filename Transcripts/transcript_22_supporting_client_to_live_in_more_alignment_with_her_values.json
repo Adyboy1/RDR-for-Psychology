@@ -1,0 +1,534 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You did your values clarification handout, and that was part of what I wanted to go over with you today. I wanted to hear about your values and just talk to you a little bit more about that. Do-do you wanna tell me what some of your top five values are?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes, um, my top value is family happiness, um, that's-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That's number one?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-that's number one to me, especially now. I usually do this values clarification sheet, like, every two to three months-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-just to see if anything changed, and every time it has changed."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh. So, right now family value is the most important thing to you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Family happiness?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes, it's the most important because it's a little lacking, so I know that that's something that is very important to me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Would you like to talk more about that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Um, I can just pretty much say that my family hasn't been on one accord, so, like, if-- I feel like if we all just can fall in the middle, which I know everybody doesn't really follow that track. So, um, I think for my part, 'cause I can't change anybody, is to be more present and, um, just listen and understand my family members, and-and be able to voice what I feel as far as how important family happiness-happiness is to me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm. Because even though it's important to you, maybe they don't know it's important to you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Is that what you're saying? Yes?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And you want them to know?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And I want them to know how important it is to me, especially now, and I do this, like I said, every two to three months just to see where I am."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And, um, these definitely are different from-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-what I usually pick."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, and then the second one I said is religion. Um, it was number one at first, um, but somehow with a big situation that happened in my family you kind of lose sight of your faith a little bit, which is normal. And not a lot of people-- They, uh-- Well, in my church home, i-it just seems like, \"Oh, you lost touch of God, oh my gosh, you're the devil.\""
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know? And it's kind of like, well we all face those challenges every day, we're not perfect, you know? And I feel like my faith is still there but it's-- You know, as long as it's still there, that's all that matters."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. So, right now, it really is important to you to put the family values first? And religion is still very important to you, but you feel like maybe you're losing faith a little bit?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I lost faith, and so I'm not afraid to say it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know? And once you say [unintelligible 00:03:12] people that don't really feel like that's\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Because you know that other people experience it too."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I know that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, you know it's normal."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I know that it's normal."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "But sometimes it's not something that people talk about."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, well, it's a\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Especially in the church."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, it's like a shock to them when you say something like that. And it's like, \"Well, we all go through things where we're just not sure, and--\" I still have a little bit, I'm not saying that I'm off track, you know? I still have a little bit to go on. And the little bit that I do have are the positive things in my life that I look at and I'm like, \"Okay, well, I'm not in this situation, so I'm thankful,\" and-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-you know, I'd still have faith to keep going on, but sometimes you feel as though, \"Where is God?\""
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And it sounds like right now you're at a place of acceptance about that also."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh, that it's okay with you, and you-you know that it's gonna change because that's been your, uh, experience."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You've done numerous values clarification handouts and every time they're different-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-so you know that it's going to change."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And you accept that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I've accepted that. At first, I was like, \"Whoa,\" I think I was focused too much on the first time I did it-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-then the second time that I did it-- I did five of these total-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-but the second time that I did it I was so focused on, \"What did I read about last time?\" You know?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So, and I just went ahead and blanked that out and I just went and I-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-compared and I was like, \"Oh wow.\""
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I really applaud you for being open-minded enough to realize that where you are now is not necessarily where you are, that you don't have to always have it be the same."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm, and that's what I felt wasn't-- At first I was like, \"Is that not normal?\" You know?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "But, I noticed people go through things every day. I go through things in life. Things are gonna change."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Things do not stay the same. Um, you know, like, you may be here, you're gonna go there, you're gonna go over there, not necessarily saying you're gonna fall down, but your view on life changes the more experience, the more life, every day-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-every day your eyes-- Well, to me, my eyes have gotten broader, and broader, and broader. So\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't limit myself to change anymore, I just kind of fill it out, and then [unintelligible 00:05:38] I'm like, \"Okay.\""
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That's cool, so I'll focus more on that, than on the unnecessary stuff in my life."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. Do you feel that there are some parts of your life where you'd like to be more in line with your values, or do you feel like you're really on target with them?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I mentioned before that it was kind of, like, out of place for me, because when I did this one in particular, um, as-as-- I stated that there were-- The other three were important to me, but I haven't focused on it so I'm like, \"Okay, it's important to me,\" so I lost track of that and the other three\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "The other three?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, number three was health."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Number four is inner harmony, and number five is security."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Inner harmony, health, and security-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-are the other three?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And the top two are family happiness and religion?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And religion."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, and the three- the three other ones, inner harmony-- Let me see if I can remember them. Inner harmony, health and, what was the other one?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Security."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Security."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Inner harmony, health, and security."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You feel like you're not really paying as much attention to them as you would want to?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, because when I saw it I was like, \"Okay, yeah, that's one, that's one, and that's one.\""
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "But\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Is it because a lot of your time is being taken with the first two or?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "A lot of my time is being taken with, um, number one especially-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and, uh, I learned about the different way of looking at self-esteem."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and I've been definitely esteeming others."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So, I've had, um, less time to have some inner harmony."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh yeah, right. The family has been so much coming first that you have sort of taken a back seat?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You're not even on-- Are you on the schedule at all? Meaning of time in a day dedicated? Is most of it going to your family?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Most of it goes to everything else, but me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And, uh, like, I don't even\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It's gonna be hard to achieve inner harmony-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-if you're always running around taking care of everybody."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And I feel like inner harmony first comes with sleep. [laughter] I haven't been able to sleep lately."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "But, um-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-I think that's the first step, but I just, like-- Oh my gosh, I'm just overwhelmed, um, but I would like to gain that back, inner harmony, inner peace-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-because when I was, you know, 18 I was just so, like, free-spirited, open-minded. I was living life, now that I look at it, as a fairy tale."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm. Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And so I got knocked to reality and reality said, \"This is not a fairy tale.\" Um, you're now on board. Like\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And so I felt like, \"This is not about you, you know, this is about everyone else.\""
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm. So, something dramatic happened?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That kind of shocked you out of that fairy tale life-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-and into a take care of everyone else thing?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-definitely, and the shock just keeps getting."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Well, I really enjoyed having the time to be able to sit down and talk to you about your values. I hope that it's been helpful to you, and in the future, if I can support even any way in helping some of those other values get a little bit more attention, we can talk about that next time."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Thank you for listening."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. All right? You're welcome."
+  }
+]

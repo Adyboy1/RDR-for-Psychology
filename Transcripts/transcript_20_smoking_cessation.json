@@ -1,0 +1,190 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So I wrote a prescription for antibiotics for Aiden."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, I did wanna talk to you though. I'm a little bit concerned looking through his chart of how many ear infections he's had recently. And I-I noticed that you had checked the box that someone's smoking in the home. So I was wondering if you can tell me a little more about that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, um, It's just me and him and I do smoke. Um, I try really hard not to smoke around him, but I-I've been smoking for 10 years except when I was pregnant with him. But it-- everything is so stressful being a single mom and-and my having a full-time job. And so it's just-- that's why I started smoking again."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You have a lot of things going on and smoking's kind of a way to relax and destress."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Some people have a glass of wine. I have a cigarette."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sure. And it sounds like you're trying not to smoke around him. Why did you make that decision?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I know it's not good for him. I mean, I've read those things about ear infections and asthma and stuff and-and, uh, but other kids have ear infections and their parents don't smoke."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So on the one hand, you're worried about how your smoking might be affecting him and on the other hand, you're not so sure if it's really the smoking that's causing these problems?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right. Yeah. I mean, he doesn't have asthma. Yeah. He-- I don't-- he hasn't had a lot of other problems that his other friends have, so. And I've thought about quitting before in the past, but I just don't- I just don't see how it's possible right now."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What made you decide to quit smoking when you were pregnant?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, he was inside me and we were sharing everything and I knew that he would get some of that. And I didn't-- I just didn't-didn't think I could live with myself if something happened to him."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right now, though, it feels almost too difficult to even manage or even to try?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, exactly."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "How were you successful when you quit before?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't know. I-I think about it now, I don't even know how I did it. I just- I just did it. You know, I just- I just couldn't imagine like him not being born or going into labor early-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and-and him having problems and stuff like that, all the stuff that they talk about with women who smoke. So I-- that was just enough to-to say, \"Okay, you know what, I'm-I'm not going to risk that.\" so."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. The risks were so scary then that you were able to stop?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "But they don't feel as scary to you now?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, I mean, we're two separate people. And like I said, I don't, I try really hard not to smoke around him. I'm pretty good about that. I-I don't let other people smoke around him. Um, so I, you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You're doing the best you can do."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. But it sounds to me too like part of you really does want to quit?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I-I know that I need to, and I, you know, keep every new year I say, \"Okay, this year I'm gonna quit smoking\" but then something happens and it-it just doesn't. And quitting doesn't happen."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It's on your to-do list. It's just not making it to the top?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "If you did decide to quit on a scale of 1 to 10, where 1 is not at all confident, and you don't think you could do it and 10 is you feel pretty certain that you could, where do you think you fall right now?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Probably like a 5 . Kind of in the unsure area. Like I know I've done it before, so I know I can do it, but at the same time, it just seems really hard. And it's not the same situation."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, what made you say five rather than two or three?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I know- I know all the ways it's bad for me. And I don't want him to grow up thinking that it's okay to smoke. I don't want him to-to use any kind of-- I don't want him to chew or anything like that. Um, so I know I need to, especially before he gets old enough to understand what mommy's doing, but I just don't know if I can do it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So it sounds like you have a lot of reasons why you'd like to quit. You have been successful quitting in the past, and right now you're just feeling a little bit hesitant about your ability to do it?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Where do you think we should go from here?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't know. I-I'd like some help. I just don't know what kind of help I need."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sure. Well, if you'd be interested, that's something I can definitely talk to you about. There are a lot of new options that can actually help people be way more successful in their attempt at quitting. There's different medications you can try."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't like medicine."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. There's also a lot of support groups and classes that you can take where you have other people to go through it with you. And sometimes just having that support can be a big part of it, especially for people like you where smoking is such a stress reliever."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That sounds nice, but I'm not sure if I have the time for all that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sure. It feels like something that would take up a lot of time and maybe not fit into your life. I wonder if we could talk about some options that might fit into your life."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That would be really nice."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Well, if you're willing, then we could set up another appointment where you could come in and we could talk more about that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I would like that. That would be great."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Great."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Thank you."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sure."
+  }
+]

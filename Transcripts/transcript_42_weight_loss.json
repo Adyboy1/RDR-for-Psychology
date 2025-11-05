@@ -1,0 +1,62 @@
+[
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't know, I'm just having a lot of hard trouble trying to lose the rest of the weight. Um, right now, it's like no matter how much I try to exercise, run, or whatever, it doesn't matter like nothing else is coming off."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right, so you've hit a plateau in your weight and despite all the things that you're trying to do to increase your activity, it doesn't seem to be working on the scale?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, and I don't know what I'm doing wrong because I keep trying the exercise but nothing's happening."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. So you feel like you're spinning your wheels, you're doing more exercising and it's not showing results on the scale?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And you're not feeling so good about that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, and even when I'm coming home, like, I'll go to the gym and then I'm noticing nothing is happening and I'll come home and I try to talk to my mama about it or even my father, and no one even cares about it. Like no one wants to support in it anyway."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh, so you feel like you're doing this all alone?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "At home or you think that they'll be supportive but they're not giving- they're not giving you what you need?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, and specifically my father, he just-- Not only does he not want to support me with it but at the same time, he feels like I need to be gaining my weight back."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So I\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Tell me about that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's as though by me losing weight, it's like I'm somehow disconnecting from my family, and he thinks that I'm trying to form myself to fit into like this perfect American picture and I just want to be healthy, I just want to have a good body and he doesn't think of it that way."
+  }
+]

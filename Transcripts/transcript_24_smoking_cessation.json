@@ -1,0 +1,90 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hey, can I help you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I hope so. Um, my workplace has just gone smoke-free. I-I'm not-not very happy about it. I'm gonna keep smoking, but I was wondering if there's anything that-that can help me like get through the day. It's like, you know, go get my beer and smoke cigarettes after work."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So your workplaces went smoke-free and you're not too pleased, huh?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No. I'm not gonna quit smoking. I mean, I like it. It helps me relax. So, I mean, I don't see what the big deal is."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Tell me a little bit about how smoking fits in your day. It'll help with the\u2014"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean, I smoke a little less than a pack a day. It's not too bad. Um, I've probably smoked for the last five years, but I-I-I mean, could quit if I wanted to, but I don't really want to right now."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So you feel like, right now, smoking's a pretty important part of your life. It's not something you're ready to change, but if the time came when you did decide to quit, you feel pretty confident that you could go ahead and do that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Sure. I can quit."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. What makes you so confident?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I mean, I don't see why I couldn't, I-- although I have not ever tried to quit, it's just something that I do for fun, you know, on breaks at work, in the morning, and after work."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. And so in terms of, uh, uh, readiness to actually go ahead and make a quit attempt, where do you think you fall on the scale of 1 to 10, where one is, I'm not considering it at all, and 10 is, I'm definitely ready, I wanna quit."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I am probably a two. I-I haven't even thought about quitting and until this great announcement at work today, I- I'm totally not gonna quit smoking."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. What made you say two instead of one?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I mean, anything's possible. I mean, I-I guess I could maybe be convinced. Yeah. Is there some-- I mean, are there things I can try that would make me like want to quit smoking?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, there are a lot of products available now that can actually help you curb that urge to smoke. We have products that can help to replace nicotine, which can help to decrease withdrawal symptoms that you might experience when quitting or cutting down and also some medications that your doctor could prescribe for you that might take away even some of the desire to smoke."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay. Well, that\u2019s good information. I mean, I'm not gonna do anything today. I just need to know my options, but that's encouraging. If I decided to quit smoking, I-I do have at least tools to help me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sure. And back to that scale, you mentioned, you said you were a two. What do you think it would take to move you up to a four or five?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't know. I guess if my friends, like if one of my friends decided to like quit with me, that would probably help too, but I-- all my friends love to smoke, so I don't see that happening in the near future."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sure. I wonder if now that your workplace is going smoke-free, if there will be some people at work who planning to quit."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That's a good point. I hadn't really thought about that. That-that's a good idea. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Well, it sounds like you're really here just for information today. I'm happy to help you pick out some of these products if and when you decide that the time is right for you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay. Well, thanks a lot."
+  }
+]

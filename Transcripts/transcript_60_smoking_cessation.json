@@ -1,0 +1,382 @@
+[
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's good."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, another thing-- Wait, what, I had something, it's just [inaudible 00:00:03] that I wanted to ask you, um, now a lot of my friends have quit smoking. They're getting like ostracized, but, you know, I tend to, like, gravitate, you know, towards-- Like my ex-husband smokes, you know-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-so I find it like acceptable in that regard."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You bond other smokers."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That's very common. I mean, you go where you know, um, no one's gonna look down on you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And you're instant friends."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, we share-- \"Okay, oh, a smoker, let's go out and have a smoke together,\" yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And now a total stranger will give you a cigarette-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-whereas like, you can't go up to him and say, \"Hey, can I have some of your McDonald's French fries,\" and take them out\u2014"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I like that piece of jewelry, can I? [laughs]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right, yeah, but with cigarettes, there is a sharing. You don't see that with any other drugs?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right. Right, yeah. You can't have my stash. [laughs]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You can't, no, not one of mine. So, um when are you thinking you might want to do this?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, you know, I guess I'll have to like, you know, get all of my information together."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Do your homework."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right, do my homework and set up my like to have everything available to me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And then maybe set up another appointment with you."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And maybe I don't know if-if that's like something that you'd be, you know, willing to do with me is to- help me set a date."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sure."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And then you know, the next time I see, see progress, or maybe write-- have like a diary or something, I don't know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Yeah, no, all those things are good. I mean, I think you know, the will- picking a quit date has been found to be really effective. And, um, uh, I know you had talked earlier and then we'll end in just a couple minutes, but about, you know, like, the willingness or the readiness and most-- a lot of people, a lot of my clients have shared with me that when they woke up that morning, they truly had no idea that was going to be their last cigarette."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, really? So they didn't have an exact date, they just decided."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "No. Or- or some of them didn't have an exact date, but m-more importantly, was they-they just didn't know that was the day."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, they didn't realize-- They didn't look at the calendar."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right, right. It's just like you-you-you-- Some people pick a quit date, like January 1st is still the most popular quit date\u2014"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And-and wait, I'm sorry, but\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "There's a smoke update coming up."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, yeah. [crosstalk] And you know what I've never done that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It's for the cancer society."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That's coming up in November-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-that's cool I'll have to find out about that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Because it's like people who will start and say, \"I'm going to stop drinking at New Year's Eve. After midnight, I'm not gonna drink.\""
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That seems to be like, uh, a false setting up, you know, like, come on."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Actually, you would be amazed how many people do it."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Really?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, yeah, they really do, and smokers. Yeah, and drinkers, they do, yes. Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Or, like, you know, setting up-- but what is that that they say? Um, you know, like, it's- it's the terminology, you know, with all the anxiety and letting go, you know, like I'm gonna [crosstalk]."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Like a new beginning."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Uh-huh, uh-huh. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, for you, it's your, you know, it sounds like you really want to be prepared."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right, right."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And yet, on some level, you know, that it's gonna be a lot of hard work for you because of, you know, you've already known how anxious you get about a stash-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So if you have a stash Nicorette gum if you decide to use it, I mean, you'd have to have other stashes, you know."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, and you know, another thing, uh, uh, you know, it's so so bang, but the weight gain is like\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That worries you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. So, so if-if your doctor says it's okay with the Wellbutrin, one-- uh, we see very little if any weight gain-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, really?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-with the Wellbutrin, yes."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, that's awesome, to know too."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. And, um, the same with the Nicorette gum, because it- nicotine is an appetite suppressant."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right, right. Just like [inaudible 00:04:06] Or your chocolate and all that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So just switching my addiction. [laughs]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "If you will. And that's if you decide you want to try a replacement therapy and that's what we call it and it-it kind of sounds from what you've described with your fear about you know, what it would be like of the withdrawal and everything like that. W-why you don't have to do it that way, you don't have to go cold-cold turkey."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, God, I don't think I could."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know, I mean like I said three days was like-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-three years, and all I could think about I was like obsessing about it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yes. Yeah, yeah. So I think that- I think, I'm just a really big advocate of w-whatever is gonna enhance the quality and the length of your life. And if somebody becomes addicted to nicotine go- gum, God bless them. They're still gonna live longer, you know what I mean?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So\u2014"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. That's true."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, we'll do that so we'll-we'll talk about the hypnosis a little bit more, you know, you'll talk to your doc. Um, you'll do your research, you know, about programs and stuff, I'll give you any information I have and we'll take it from there. But it's sounding like the quit date might be coming up fairly-- like within the next two, three months."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I, uh, mean that's up to you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. And I mean and that's-that's a reasonable thing- [crosstalk]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You get to decide."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-I don't feel like I'm like you know, it's gonna be-- I think gradually getting my- wrapping my brain around it will help, you know, before I just do, you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Is it appealing the thought of quitting with a group at the same time?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know, I always love, um, I've been in other group therapies-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and the feedback is really nice and the support-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-system is really good."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So, that really sounds like something we can do."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, that would be can- the Cancer Society. So, we can look into that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "All right, great. Good. Great."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. Well, I appreciate you coming in. We'll set up another appointment and, um, get our resources together. We'll take it from there and\u2014"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And thank you for all the information. I appreciate it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, you're welcome. My pleasure, thank you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Thank you."
+  }
+]

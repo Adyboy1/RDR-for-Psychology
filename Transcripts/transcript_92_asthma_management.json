@@ -1,0 +1,54 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hi, are you Julie Thompson?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hi, I'm Bruce Berger, I work in the clinic. I know you're here to pick up a prescription today."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, I noticed, uh, we noticed some of your records that, uh, you've been coming in and getting Sarah's resc-rescue inhaler for her asthma quite frequently, and you haven't got a chronic inhaler for quite some time now. I also know she has been in the emergency room several times this year. Is-- can you tell me what's going on there?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I did a research on the chronic inhaler, and I saw that there were steroids in it, and I do not want my daughter taking steroids. I read about all the side effects of steroids and all the potential health problems. I don't want her taking them, and I just want to tell you right up front, I do not want to hear anything about the fact that I do smoke. Um, I smoke outside, I smoke away from her. I do not ever do it around her. So I do not want to hear about that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, I-I need to tell you that the-the medicine that she's taking, the chronic inhaler, which is really essential to controlling her asthma does-- is not a steroid like you're thinking. It's-it's much safer, it's very safe, she-- and she needs to take it to get her asthma under control, and I also want to tell you that, uh, your smoking does affect her asthma, even if- even if it's outside, it gets on her clothes, and to be honest, I'd like to see you quit smoking for you anyway. But, uh, if you want to keep her out of the emergency room, she needs to use that chronic inhaler every day, and you need to watch your smoking."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay, I-I am not going to allow her to take any kind of steroid. I am not going to allow that to happen. She's my daughter. She's my responsibility, and I'm not going to allow that to happen, and I absolutely make sure that the smoking does not affect her."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, I, you know, I-I don't want to argue with you about this. I-I know that if you-you know, and if you want to keep Sarah out of the emergency room, uh, I-I just wish you'd heed what I'm saying. She needs to use that chronic inhaler every day to get her- to get her asthma under control, and the smoke on your clothes and the smoking flares her asthma up. So she really needs to use that chronic inhaler, and you really need to think about quitting smoking."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Fine. I'm in a really big hurry, and I need to get those prescriptions filled as soon as possible, please."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, well, I-I hope you really listen to what I'm telling you about her using that chronic inhaler, and I hope you consider quitting smoking."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Fine. I just need to get my prescriptions."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, Liz, what's something that you'd like to change or maybe that you're feeling two ways about right now?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I really want to start working out again. Definitely wanna get back in it, have a routine, and just be healthy."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, and-and why would you want to make this change?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I'm sick of feeling the way I do. I feel kinda sluggish. Especially with the winter coming, I think I want to have more energy."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I don't like the way my clothes fit or don't fit me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Just, I don't feel comfortable."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. So, you're not feeling comfortable with the way that, you said, your clothes fit."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What are some of the reasons why, um, it would be good for you to kinda make this change?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I know exercise is-- in the past, has always made me feel good. I felt good about myself, and just in general, exercise, I know, makes me feel good. I want to be a good example for my kids. I want them to feel like that's a part of life-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-exercising. So, I want-- I really just want to go get back in a routine."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, to heal-- feel healthy for yourself as well be a good role model for your kids?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, if you did decide to get exercising more into your daily routine, how would you go about doing it?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I don't know. I'd probably have to sit down maybe with my husband and try to figure out a good time for me to be able to do that, where he'd be home with the kids and I'd be going to do that, whether it's morning-time, evening, maybe the weekends."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Just to find the time to be able to do it, or what works in our schedule."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, it's that balance of doing something for yourself, but it sounds like you don't want that schedule to affect too much into your family routine."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, on a scale from 1 to 10, 1 being not important and 10 being very important, where would you rate yourself on how important it is to start exercising more?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm, I would like to say a seven or an eight, that that's how important it is to me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, and how come not at like a five or a six?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Because I'm really sick of being overweight."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Not ha-- I just don't like being unhealthy. It doesn't make me feel good, so I'm motivated to change, it's just getting there."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, to summarize, it's important for you to do this. You're starting to feel sluggish, you're not feeling healthy, and you know that you've got other people in your family watching you, and you want to be a good role model for them to know that this is gonna be just a part of your life, is your exercise. Yet for you, you're struggling just a little with the logistics of when to schedule time for you so it doesn't interfere too much with your family."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Exactly, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, knowing this, what do you think you'll do next?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm, I'll probably, I don't know, find-- Now, while it's still somewhat okay outside, maybe pick days I'm gonna go for walks or runs, um, maybe look for a gym close to the house so that I know I can go there quickly or maybe that has daycare, um, yeah, maybe I'll just start to look for that, and find ways I can do it first."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That's great. It sounds like you've got some options and leads on how- on how to get that done."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  }
+]

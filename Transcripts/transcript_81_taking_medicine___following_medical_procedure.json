@@ -1,0 +1,86 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Did you like how your parents raised you?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Tell me about how your parents raised you?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Tell me about how you've been feeling?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay. I guess I've been getting bigger."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm, what's that like for you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, scary I guess."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So you're feeling uncomfortable with changes in your body?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I-I know there's something in there, I just don't know much about him."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I know you want me to see the doctor, I haven't called yet."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Why do you think it makes you so hesitant to call?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't know. It seems overwhelming to me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What about it seems overwhelming?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I hate making phone calls and I know I need to fill out all this paperwork. I don't know how to get there and I hate needles."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm. So some of your feelings, uh, of being overwhelmed or about the logistics of the appointment, and some of it is you just don't like medical appointments and medical people?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "How can I help you with these things?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Can you help me make the call?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sure, we can do that together."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Can you go with me to the appointment."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I can try. I can't guarantee because it depends on my schedule, but we can brainstorm about ideas on who can go with you to support you so you feel better about attending."
+  }
+]

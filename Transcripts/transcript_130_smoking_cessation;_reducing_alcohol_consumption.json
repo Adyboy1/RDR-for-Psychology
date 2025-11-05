@@ -1,0 +1,90 @@
+[
+  {
+    "interlocutor": "client",
+    "utterance_text": "Wow. I can't believe he fell asleep after all of that crying, poor guy."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Well, the good news is he doesn't have pneumonia. It's just an upper re-respiratory tract infection and a cold. So there's some things you can do to make- to help him get better. You can avoid excessive dust. You can keep him hydrated, avoid over-the-counter cold remedies. Keep him away from people who have flu or cold-like symptoms and avoid smoke. And the last one should be easy because you quit smoking during your pregnancy."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, you're right. I-I did quit smoking when I was pregnant, but actually, um, a couple of weeks ago, I went out, my mom was able to take Jake for the night and my friends they were having a birthday party and we had a couple of glasses of wine and it felt like old times. So before I knew it, I was out having a cigarette with them. And since then I've been having a couple of cigarettes a day, you know, just at the end of the day after I put Jake to bed. But that sounds like it has nothing to do with what you're talking about, right?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "No, wait a minute. That has everything to do with what we're talking about. I can't believe at the end of this appointment, you're just slipping in the fact that you've resumed smoking again. That's very, very important information for me to know. And I'd like to spend some time talking about it now."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I had no idea that it was such a big deal. I-I didn't think it would have anything to do with Jake getting sick or, you know, hurting him."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Come on, Hailey. You're here because you thought he had pneumonia. You're telling me that Jake can't breathe, you're concerned about his breathing. And then you just slip in the fact that you're smoking cigarettes and you think there's no relationship? Do I really need to review all the risks of smoking in front of your-your child or exposing him to secondhand smoke not to mention the risks that you're posing to yourself and your own health?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, you know, I-I was doing perfectly well. It was just when I went out with my friends and, you know, usually, I'm fine with the cravings. It's just when I have a glass of wine at the end of the day. And if I have more than two or three, I just get that craving for a cigarette. And if I have cigarettes in the house, it just happens. You know, I'm doing pretty good."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So it sounds like if you have alcohol, then smoking is very difficult to avoid and you know what you need to do. You need to go home and as your-your son's doctor, I need to tell you you need to go home and throw out those cigarettes. You need to quit."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay. Um, well, yeah, I-I guess I can throw the cigarettes. And tomorrow night when I have my glass of wine, I'll-I'll just try to avoid that craving."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And let's talk some more about wine. You keep throwing wine into the conversation. It sounds like it's become a significant part of your daily routine. How much are you drinking?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Only a couple of drinks a night. You know, it's pretty rare if I have anything more than that. It's just my way of relaxing at the end of the day. It's been so stressful since Jake came along. It's just how I fall asleep at the end of the night."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, no one said motherhood was going to be easy, Hailey. So let's talk about these drinks. Are we talking about the-the low-risk drinking guidelines, one to two standard drinks a night or are we talking about a mug of Margarita's?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What are you drinking? What's the quantity that you're drinking."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I guess about- I have about a half a glass a night and maybe two. Very rarely I'll have more than that. You know, it just helps me kind of relax."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "There's other ways to relax. There's yoga. There's deep breathing. You need to stop raising the roof and raise your kid. This is not okay. You're not just worrying about Hailey anymore. It's Hailey and Jake. You're a mom now."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I didn't know it was such a big deal. I-I never thought that there would be any impacts on Jake because of it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I'm trying not to be hard on you, Hailey, but I've got to tell you as a position, it's a very big deal. Your drinking and your tobacco use are red flags for me and they need to stop immediately. So we've already talked about your plan for smoking. You're going home. You're throwing out your cigarettes. You're putting on the patches. What's the plan for the alcohol?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I guess I'll do the same thing. I'll go home and throw out the bottles of wine and stop having a glass at the end of the day."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sounds good. And if you need to relax, go for a walk, join a moms group, read a book. How about you come back in a week when we have Jake's six months checkup and you can let me know how that quit plan is going."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay, I'll try my best."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Thanks."
+  }
+]

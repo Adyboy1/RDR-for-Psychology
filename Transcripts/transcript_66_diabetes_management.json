@@ -1,0 +1,126 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hi, Mr. Stowe."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Hey."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "How are you doing today? I'm Bruce Berger."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Pleasure to meet you."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I, uh, I'm a case manager with your health plan. I understand that you came in today to talk about your diabetes."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I'm supposed to learn how to manage it. I just learned that I got diabetes and apparently, it's pretty bad 'cause, uh, she said my blood sugar was sky high, and then she laid all these huge consequences on things that can happen. That just sounds so disastrous and, uh, and then she told me I gotta do all this stuff. And man, I'm just sort of disappointed right now."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So you just- you just saw the doctor and, uh, you know, you sound like you just got blindsided, uh, with, uh, not only how, how frightening this seems that you have diabetes and that, uh, she-- you say she told you a whole lot of things that can happen with your eyes and circulation and all those kinds of things."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "She mentioned my legs having troubles and-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And so you're really kind of reeling right now from, uh, all of that. And you sound a little bit pretty, pretty scared actually."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, that's, yeah. It's not just being scared, you know. I don't want that to happen to me, but then when I, when-when she reels off all these things I gotta do and I'm sort of going oh, oh, you know, I'm not certain I can even get it done. So it's sort of sitting-- well, you know, I'm sitting here thinking that, oh my God, this is- this is what's gonna happen to me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So it sounds like-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And it is discouraging, just like discouraging."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So it sounds a lot like, uh, on top of the fact that you've got something you're really scared about having consequences in terms of everything that can happen, what worries you also is all the different things that she told you you're going to need to do to get it under control. Can't imagine doing all those things, so you almost feel like all that bad stuff's gonna happen."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. It looks like a massive task that I'm may not be able to handle. And then, yeah, all this horrible stuff happens to me. I mean, it's- it's a bleak-looking situation and a lot worse."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. And I-- And what I want to do is help you kind of break this up into some-some doable chunks so that we can get your blood sugar down. I, you know, on the one hand, your doctor is right, you know. Your blood sugar is very high and we do wanna get it down so that we don't have those consequences happen. Uh, and-and there are a number of things that you need to do in order to-to get your blood sugar down. Um, you know, on the other hand, we can take this a step at a time, so it's not so overwhelming."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And I'd like you to be able to tell me what kinds of things that you can do right now. You know, for example, there- there's basically three things that need to be worked out with diabetes. Taking your medicine as prescribed. And honestly, if I was gonna work on one thing right away, given that everything seems so overwhelming would probably that-that first, because that'll have the biggest impact. How-how does that sound so far?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I don't think too much trouble in taking the medicines, especially since I understand my blood sugar is really high. and-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So that's easy to do."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I'm pretty- I'm pretty good at taking drugs."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. 'Cause it looks like you need to just take your medicine, uh, uh, once a day from-from the prescription. So that sounds doable right now."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I think I could probably do that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. The other things that need to be worked on over time certainly would be changing your eating habits, you know, to eat- eat healthier, uh, not necessarily less, but healthier. And the other thing would be getting, um, some more physical activity. And by the way, that doesn't mean going to a gym. That means things like more walking, maybe using stairs instead of an elevator or an escalator, stuff like that. Uh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, she also mentioned monitoring my blood sugar and all this. And that just seemed like a lot of mumbo jambo to me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. And that really is to give you feedback about how those other things are doing so that it keeps you on task."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So it helps you know that when you're taking your medicine, when you're changing your eating habits, that it's really having an impact on your blood sugar 'cause getting your blood sugar down is going to keep you from having all of those other problems. How does all this-- where does this leave you now right now in terms of how you're feeling?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I like it that I, you know, that-that we can do it at a step at a time. I mean, that's-- that relieves some pressure."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And being able to talk with you and do this as we go along rather than-- I-I wasn't certain I could just, wham, put this huge program in[chuckles] into effect. Uh, but doing a step at a time and I, you know, that-- getting on the medicine, I don't think that's any big problem. That I can do I am pretty sure."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It sounds like you're very committed to that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I think I could do that. Uh, as long as there's no big-time side effects, but, uh-"
+  }
+]

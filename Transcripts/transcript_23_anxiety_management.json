@@ -1,0 +1,318 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hi, Hannah. Nice to meet you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Hi."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So I understand that you were referred to me by your GP because you've been experiencing some anxiety difficulties."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Um, yeah, I guess it kind of- it kind of started like five, six years ago."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, it kind of escalated a bit. Um, I've just recently moved out, um, from living with my parents. So just made it a bit worse, I think."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Is this the first time that you've left home?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I am- Yeah. It's the first time actually, yeah. Um, I was going to a few years ago. I just thought it'd be easier to stay at home, so."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So it has been quite a big step and a big change and it sounds like that that was what led you to go to your GP."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So how has that, uh, changed things for you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, don't know, it's kind of, I haven't really told anyone, so, I mean, it's made it like better in sense. I feel, hopefully this is, this is it like, it- it'll help, but I don't know. I don't like thinking that I've like have to do this. I never thought I'd like be the kind of person you'd have to actually go and like get help if that makes sense."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So how do you feel about being here today?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's like scared. I don't know. Hopefully, it will help."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So you'd, you're feeling a little bit anxious about today."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So I guess just going back to why you went to the GP and how you've ended up kind of coming here today. So it sounds like you've been experiencing anxiety for quite a few years. Um, but just recently you moved out of home for the first time and, um, and that was what kind of led you to go to the GP. So how did that change things? How were things after you moved out?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I thought that they'd be better, but 'cause I thought I'd have to kind of be independent and I suppose actually a lot worse. So I'm-I'm just kind of staying in the house a lot. I don't really have any friends or anything. I mean my family come and visit a bit, but it's not-- I don't know. It's kind of scary because I've just been kind of-- that should just end the flight by myself, which I always thought I'd like, but I don't actually like it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So what other kinds of difficulties that you have been experiencing?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I mean, I'm-I'm a photographer. Um, so I kind of-- It's-it's been stopping me a bit, my anxiety, from being able to get work and because every time, you know, there's, uh, an opportunity that is kind of involving me having to interact with people, I just tend to just turn it down. So it was kind of making things hard in that respect and um, just kind of friends wise and everything. I just feel like I'm just kind of increasingly more alone. So it's kind of stopping me from making friends and, you know, like relationships and stuff."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So you said that, um, your difficulties are getting in the way of you doing certain things. So they're, they're stopping you from taking up kind of certain types of work and as a freelance photographer, I guess that- that can be kind of a problem. And they're also stopping you or you feel like it's stunting you, uh, socially. You're not kind of able to make new friends and get to meet new people."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah. Um, it was kind of easier when I was at home because I was obviously, I mean, my parents, so it's fine, but you know, they would, I'd go to places with, um, or I'd kind of have people there, but more and more, I'm just finding myself just staying in a lot. I mean-- I went like two weeks ago for coffee with my friends and the whole time I was just kind of wanting to go home again. So I don't, I just don't want to-- I don't want that to happen. I don't want to lose everyone. So-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So you're kind of worried about how, where this is going to lead to."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Um, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So you said that you first noticed the anxiety kicking in about five or six years ago."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So you would have been about 19."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And what was happening around that time?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, I guess I'd finished school about a year before that. Um, and I mean, I-I've always been a bit shy, um, at school, but it was never ever, uh, like it didn't really affect the things as much as not at all as much as it has been doing the last few years ago, I guess. It just started when I- like my friends went to university, and, I don't know, I felt like I was expected to kind of move out or do something and then it just kind of escalated from there.I just stop going to parties or I'd just say no to invitations or I don't know, I thought my job would help because I mean, I love it. I've- I really like doing photography, but I'm just kind of getting less and less work as it goes on, so, which is my thing, you know, but\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What kind of work is the most difficult for you in your job?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I guess when it- I have to kind of be working with other people. Um, I don't like that. It's like when I'm trying to kind of- would do an event or something where there's a lot of people there, not just photographers, but actual, you know, if I'm like taking places with people that I don't know, I just kind of find myself saying, you know, I mean, I want to do them, but just is scary. So I just don't do it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So I guess, tell me a bit more about what happens then. So let's focus on maybe an invitation to do a job with, uh, you know, it's going to involve, uh, photography with- with a group of people and you're going to have to have social interaction. What kind of thoughts go through your head?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, just, I mean, I get really hot and sweaty, and I don't-- I feel like everyone's kind of looking at me and thinking that I'm just like really stupid, and I feel like they're all going to be staring and thinking, I just can't do my job. And I'm just an idiot. And I mean, they'll think that I just look like a weirdo and I just try and-- I mean, I just kind of just try and get out of the situation or just focus on something else. So that's why I like doing shots where it's just me and the camera 'cause I- then I can just put all my attention on that instead of having to, you know, be with other people."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So it sounds like you have quite a lot of thoughts rushing through your head then at the point where you get that invitation and you think, \"People will look, people will stare, people will think I'm a weirdo.\" So there's quite a lot about what you- what you think other the people will think. And how does that make you feel?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, just makes me feel like an idiot, makes me feel like I just shouldn't even bother trying to do it anymore. I should just go home and I just-- I think I just don't want to be in that situation. I just feel like everyone else is fine and they're normal and I'm just the freak, you can't, like do normal things and\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Can you give me an example of a-a recent situation? Maybe we can focus on that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, like a work situation or just--?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, time when you were maybe doing a job with some people and you felt the social anxiety, you know, that you're describing, you felt that kick in."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I was doing a job where it was kind of like a- a Nature issue and I was having to work with a lot of different people. Um, and, um, when they told me about the job, I thought it would be fine. I thought it was just going to be a few other photographers, but there were actually people and, you know, I was taking photos of people kind of in the trees and stuff like that. And I guess- they asked me to, um\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It's quite interesting. Was that a fashion shoot or something?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Yeah. It was a fashion thing. I think it was for some kind of-- I'm not sure if it was a campaign or something, but, it was-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, it was, yeah, it was really cool, but I find it- found it really hard to try and focus on that 'cause I was so- I was kind of feeling really anxious and\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So it wasn't what you expected?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No. No."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So how long ago was that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That was two weeks ago."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So it was quite recent."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So on that particular day, what were the thoughts that you had in your head when you were in that situation?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I just felt really- just really kind of hot. I couldn't really breathe and just felt like I wanted to just get out. And I was kind of trying really, really hard to just focus, and just, you know, like kind of hold the camera and just not think about anything, but I just felt like everyone was looking at me and like, when they'd say 'action' and they're trying to get me to start and I was just felt like everyone was just thinking I was really stupid and I shouldn't have been there and\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I can tell you're getting kind of anxious, even just thinking about that day."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So you're describing quite a lot there to me. So you're saying that you, you kind of got hot and sweaty, you said that you- you held the camera."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "W-what was, do you mean you kind of try to hide behind it or?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I was just trying to focus on it. I was just thinking if I could just hold it really tightly, it would just-- I don't know. I'd kind of just be able to just get through it and just focus."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So you're holding the camera very tightly."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "W-why was that? Why was that helpful?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Cause I felt like I was getting really like hot and flushed and I just thought, at least if I can just-- I don't know. It sounds weird, but I was just trying to keep my hands still on it. 'Cause my hands were kind of sweaty and like shaking like loads, like, and I could just tell everyone was looking and they could see, and I just thought if I just managed to hold onto it, it wouldn't be as noticeable, but\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So, okay. So it sounds like you had a lot of thoughts going through your head. Um, you said that you're worried that everyone's looking at you. What other thoughts were there that were in your mind?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Just-- I was just, just stupid and it was just really-- just felt really like kind of- like everyone was just going to be staring and just thinking that I-- Like- I just felt like everyone was looking at me and just, they could tell. And then just thinking of what was she doing?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "They could tell what\u2014"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I was just really like sweaty and just\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, it was all-all that they could see that-that was-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, um, I was trying to wear black so this kind of tries to cover it up and just like a lot of layers, so they can't tell but, I mean, my hands, like, they were so shaken. I was really red and just was-- Just wishing that I just wasn't there."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, I mean, you've already described it to me a little bit, but if you think about how you looked that day, how'd-how'd you say, how'd you think you looked?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I think just very stupid and, like, I think my face was really red. I could feel it flushing and I knew that I'd- I was probably sweating and shaking, like my hands were definitely really really shaking. Um, and af-- it was, like definitely really noticeable. Everyone could definitely see."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay and what-what did you do about-- How did you try and conceal that or hide that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, well, I again was trying to grip the camera, just look down, just trying not to do anything weird or-- 'Cause, I mean, they could probably tell I was being weird anyway, but hopefully if-- I just- I just tried really hard to just focus and look down, not trying, like not kind-- look at anyone else and just, yeah, just kind of trying get on with it as best as I could, but\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So you avoided looking at people. It sounds like you wore black as well in kind of preparation anyway."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, no, I-I always do that even if it's really hot or I wear just loads of layers and just 'cause otherwise I- I'll just be really sweaty and like, people would definitely be able to see, so."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay and how did it end?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, well, it kind of went on for like an hour or so, and then, um, people were going, um, just a-after every shoot people go out for drinks after just to kind of celebrate like that we've done it. I'd just- I went home straight away, just got on my car and went home. I just didn't want to be around them especially after they would've seen me being weird and I just wanted to get-get home straight away."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  }
+]

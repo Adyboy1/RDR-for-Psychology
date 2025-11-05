@@ -1,0 +1,62 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hey, Mary, how are you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Fine."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, I noticed some yelling going on in the house, what's going on?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's not really any of your business."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So nothing you want to talk about right now?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "My guess is you're probably involved in that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, I understand that sometimes if you're feeling angry or upset about something, the last thing you want to do is share with your caseworker at that time, but, um, you know I am here for you, and if there's anything you ever want to talk about or share with me, that is something that I would love to-to here, and I'll just see sit here and listen if that's something that you would find helpful."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. You know what? I-it seems like things have been really a struggle for you lately, and I have noticed that you haven't been in the best mood, so I'm really- I am concerned about you, but again, it's your choice if that's something that you feel like you want to share with me."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right, well, you know I will be by later today. If, um, you have any questions or if you want to talk, um, otherwise, again, I'll stop by and call you later."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right, take care, bye."
+  }
+]

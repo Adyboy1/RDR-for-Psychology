@@ -1,0 +1,154 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hi, Emily. How are you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'm doing all right. How are you?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I'm good. Um, wow, what's changed? What do we have here?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, I got my lip pierced."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Emily, why? Why did you get your lip pierced?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Why? I don't know. I wanted a change and-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You're-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-it seems kind of cool"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-gorgeous. Your teeth are lovely. You do not need a piercing."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I mean, nobody needs a piercing, I wanted one. It was a-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Do you know what-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-nice change."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-those oral piercings can do to your teeth?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, I mean, it's my lip that's pierced, not my teeth."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, yes, except that, you know what's gonna happen. See how-- Do you feel how when you're moving your lips-- Smile for me. Okay. So, do you see how when your muscles are moving, that piercing is rubbing against your gums-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-as well as your teeth. So, we can see some recession that's gonna start to happen-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-possibly, um, affecting the tooth itself, chipping the tooth, et cetera. So, it's something that we definitely don't like to see."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean, it's been okay so far. It hasn't caused me any problems."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, it's only been a month."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I think it [unintelligible 00:01:18] days yet, and it might not be a bad idea to reconsider the piercing."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean, I just put in-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Just-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-I'm not gonna take it right out. It's-- Like you said, I've only had it in for a month, I mean."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Emily, I've been seeing you for so long and you know that I really just-- I think you have lovely teeth and I've watched you, you know, just mature, et cetera, and I hate-- I'd hate to see you wreck your teeth for something like this. I really would."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I mean, if it starts to cause a problem, then maybe we talk about it, but at this point, I mean-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-it's fine."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. We'll continue with the exam, but you know where I stand on this. Okay?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "All right."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  }
+]

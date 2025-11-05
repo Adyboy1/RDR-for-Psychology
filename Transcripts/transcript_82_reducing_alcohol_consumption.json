@@ -1,0 +1,150 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Would you like to answer some questions and kind of do a self-evaluation about how you're feeling around alcohol and the contraception?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Sure."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So we're working on a 10 point of scale 1 to 10, 1 being not important, 10 being very important. One being not confident, one being very confident. So on a scale of 1 to 10, which number best reflects how important it is to you to drink the-- what risk limits?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I would say an eight."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You'd say an eight. Okay. And on a scale of 1 to 10, how confident are you at the present time that you can drink below risk levels?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I would say a four."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Amount of four."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. And so let's look at those two. You're-you're thinking it's pretty important, but your confidence is down here, uh, a four, but it's not a one. What makes you confident that you can drink below risk levels and you remember what those are?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I think it's because you've told me I'm at risk and I have alcoholism in my family and I really don't want to go down that path. So I'm-I'm confident that I can change that at this point."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So that gives you a good reason not to drink. Okay. Anything else?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, well, I have a group of friends that doesn't drink that I hang out with. And I think when I hang out with them, it's not an issue. So that also helps me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So you have a support group that gives you the ability to have fun and still drink below risk levels?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yep."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Anything else?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Nope."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Now let's look at your self-evaluation of your birth control. So now we're doing the risk of pregnancy and the use of birth control. So on a scale of 1 to 10, how important is it to you to use effective birth control every time you have sex to keep from getting pregnant?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I would say an eight."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "An eight. Okay. And on a scale of 1 to 10, how confident are you at the present time that you- that you can use effective birth control?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Every time,-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Every time."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-probably a six."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Correctly as it's prescribed."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Probably a six."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Probably a six. Okay. So you're pretty confident that you can do it. And why are you a six and not a two or three?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I'm a six because I think if I drink less, I'll be more reliable with using birth control. I tend to not use it when I'm-- I drank too much and I don't really care too much."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So it's kind of linked to your drinking, the fact that, um, that you can-- if you can take care of that drinking, you can take care of the-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-birth control issue and this importance comes down as your reason why you're not down here."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Very good. So it looks like, um, you're using a good method of birth control, you're just not able to use it effectively. And you've linked it back here to the drinking. So would you like to develop a plan around your alcohol use at this-- today?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Before I leave?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. And if you need more information, we can get that for you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "interlocutor": "client",
+    "utterance_text": "So, uh, I guess the issue is that, um, you know, my doctor seems to think that my-my blood pressure's a little high, but I really don't think that there's a problem. And you know, I eat really well. Um. And, you know, she suggested that, um, I watch my caffeine but really, caffeine is not a problem for me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Um, but we were talking a little bit earlier-- earlier in our conversation, you had said that you did feel like it was maybe causing some of your agitation. So it's a little bit of, I'm not sure of what-- Um, so where are we? Did-did you-- do you feel like you do have some agitation out of coffee, or is it just no problem at all?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, you know, sometimes it makes me a little jittery and, you know, I have to go to the bathroom more frequently than some of my co-workers, but-- And-and working, um, in the hospital, they don't really look so highly on-on going the bathroom frequently. But you know, it-it keeps me awake, it keeps me aware, it-it makes me more able to like, you know, do my job better. And so I really don't see that it's a-it's a real issue."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, you know, and-and-- I mean, maybe my blood pressure is a little high, but\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. So let me see if I had this. So y- so you got some positives, the-the awareness, and then you feel kinda on your game?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, and then there's some negatives with, um, you know, your-your co-workers, um, that they don't, you know-- then your boss may not want you, you know, checking out-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-on the hospital floor, you know, for frequently."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Gotta stay on, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, yeah, and then the blood pressure thing. Does that sound about right?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah. Well, you know, and sometimes, like I said, it does kind of make me a little jittery and, um, I don't know. I-I-I'm not- I'm not as happy and relaxed as I normally am. But you know, I-I really like it, and-and like I said, it makes me more aware of what's going on and-and I'm-- I-I feel like I'm much more observant."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. How about frequency? Do you feel like you're good on how much coffee you're drinking?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I have about four cups a day."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Okay. And that feels about right to you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I mean, I've-- I mean, it's the co-workers that-that work at night. Gosh, they bring in a carafe."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And, uh, I-I can only imagine-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-what-what their bodies are like."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, yeah. What would happen if you-- if you looked at, maybe reducing that with that habit? Would that get rid of maybe some of the things that are problematic?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Reducing it, like-- what do you mean?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "The number. Just the number."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah but, I mean, how-how much are we talking?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I don't-- you tell me. I mean, um, you're-you're drinking four a day."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You're probably-- you know, because I-I gotta have that morning cup, I really-- you know I really like waking up and-and that whole ritual. The, um-- you know, making the coffee and-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-I just really like the flavors."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So I-I definitely don't want to give that up, but\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I gotcha. Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So that one's important."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And then, of course, you know, working a 12-hour shift, I-I really think that, you know, the afternoon to keep me going until the evening is-is a really good idea too."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I could probably get up the mid-morning."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I think that's great."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I think so. So you've identified one of the four that might-- you might be willing to-to try-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-for a while to-to let go of. What do you- what do you think of that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I think that does sound all right."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Good."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I think I could do that."
+  }
+]

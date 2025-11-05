@@ -1,0 +1,126 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right, Chris, so I need to talk to you because as you know, we have a zero-tolerance policy for drugs and alcohol at this school. And as-as athletic director, it's my job to check in with our student-athletes and make sure everyone's adhering to that rule. And I've been hearing some chatter from some of the other kids about a party this weekend, and from what I hear, where you were there and, you know, I can't confirm or deny anything. So I'm not at the point where I can give you consequences, but I did want to talk to you about whether or not you're drinking and how, you know, you really can't be doing this as a member of one of our teams."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right. Actually, I do want to speak to you about something that happened during this past weekend. Usually, as, you know, I'm, um, I'm an honor student. I-I usually I'm studying over the weekend and my parents don't let me go out to parties, but I kind of use that to my advantage, to convince my parents to go to this party that my friends were pressuring me to go to. And when I- when I got there, like I'm not used to this like party environment where everything you see in the movies is kind of what happens, where you have people just drinking out of the bottle-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-or playing random games with alcohol, just to get drunk for no reason. And because I was there in the moment, I felt pressured to do and like conform to what everyone else was doing. So I wouldn't be- I wouldn't be ostracized."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, you know, I get it. Like, we've all been there. Okay. You know, I was in high school ones too, you know, I drank too. I get it. There's not a ton to do in this town a-and kids drink, but, you know, promise we have these rules-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I understand."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-and you're on a team, you have to stick by the rules."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay. Um, I know that it's bad for me. It's-it's bad for my body. It's bad for-for-for-for being on the team, for being an athlete. It hinders my performance. Just, I don't know. I-I feel that my-my friends pressure me. I don't know. I feel I should like go with different friend groups. Maybe. I don't know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Chris, come on. You're getting peer pressure?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't know, like being in a sports team, y-you feel very, you have to like be unified with the group."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, but you're one of the leaders."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right. And as being one of the leaders, my fellow teammates expect me to be-- I expect them to lead not only in the sports but also in social environments. And if that's a social- that's a social custom in our society. So it's like\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Well, maybe you can start leading as a non-drinker then."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I could, but that could also backfire on me. I feel that I could be ridiculed for being, having a stick up my butt, you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You're a star player, who's going to pick on you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean, it's just one-- I'm just one person against the voice of the mob."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. Well, yeah. So the issue again is I can't be hearing reports about you drinking. I can't be hearing that you're at parties and you can't be seeing pictures on Facebook. You know, there-there are rules at this school and in my job, I have to enforce them. So, you know, like I said, I get it, you know-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I understand."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-I'm not saying I know what it's like. I-I get that you want to have fun in your teenage years. I get that. But, you know, you are a star player, we want to keep you on the team. You know, we got to figure out a way to get through this."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I'll dedicate the time, not to party and night. Well, not-not-not party, but, you know, get involved with alcohol to that extent. And like, have it publicized on the internet."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What do you mean?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Like on Facebook, all the pictures that you saw on the internet. Like I w- I will avoid those situations where I have to go to a party where I feel pressured to actually drink alcohol and allow what I do in my own private time to put on the internet so others can see, even though."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. Yeah. I mean, we got to have a deal here if you're going to be on the team. Okay?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right. I'll stop."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. You promise?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I promise."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. Shake."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Shake."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. I'll see you later."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "See you later."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right."
+  }
+]

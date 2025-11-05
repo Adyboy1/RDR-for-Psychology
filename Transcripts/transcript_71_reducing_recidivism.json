@@ -1,0 +1,678 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, you've got this dream by the sounds of it, which is, you know, to have a partner, and a house, and a nice car-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-so don't forget the nice car, and some kids, and be a- be a good dad-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-to your kids. So, is this dream starting to-- I am getting a picture of?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, it'd be good."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Okay. So, what I'm really interested in is how offending fits in with that picture, that dream."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I guess it doesn't."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, how doesn't it fit, Billy?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, I guess I have to keep coming-coming back here and go into court and stuff."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. It kinda messes things up."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. It kinda messes up that dream, that picture?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. It makes it harder."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm. Makes it harder? Yeah. Well, it can make it harder to keep a job, aye?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And harder to\u2014"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Like it's hard to get a job 'cause you have to say that you've done prison time and stuff, so it's pretty hard."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And we've talked about that idea of you getting a job and something to do with cars 'cause that's where your passion is."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah? So, what have you been thinking, um, since we last met, about what you might do about getting that kind of job?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, I don't know if-if I would go into polytech, done courses there or something."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Like, if they've got jobs now."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so you know some people?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You've gone down that road of kind of going back to school in some ways and getting a tryout or-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-getting a qualification?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah? So, what-what would interest you about going down that same, sort of, path?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Just learn more about cars and just, kind of, hands-on job."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. Yeah, so what in particular? Like, if you could have whatever you wanted, in terms of that sort of work, what would you do?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "[sighs] Mechanic, or panel [unintelligible 00:18:02], or just-- I wouldn't care, I just-- as long as it's cars."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. So, as long as it has to do with cars, you'd be sweet with that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes, pretty much."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So-so what sort of things do you think you need to do to go down that path to get that qualification?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Just I have to get that training, I guess, and then probably get a job."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So, what sort of training did you-- did these people, that you've been talking about, what did they do?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Like, sort of, um, just at the polytech. I don't know what exactly it was, but\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It took them like-- And, it took them like a year or something, and then they went into apprenticeship."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. So, how confident are you that you could do something similar to these-these friends that you've got?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I could do it pretty easy. It's just, like, I probably know all this stuff already."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So, it would be pretty easy. So, if it's pretty easy, what do you need to do next, Billy?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Like, well, I went out and picked some forms and stuff, but it's real confusing, like, having to apply, so I-I just couldn't-- I don't know. I couldn't do it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So, you actually went to the polytech\u2014"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-and picked up some forms?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah. Passed around and everything."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Wow."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That's fantastic, Billy."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, but I just-- Like, they wouldn't help me out, so-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-I got some forms and-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Tell me- tell me what happened when you say they-- like it didn't help you? What-what-what happened?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I asked- I asked them what I had to do, and they said I had to fill out some forms, but-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-well, the forms, it's too confusing."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So, they gave you a horde of forms for a particular course?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah. Well, I got one- I got one for panel [unintelligible 00:19:33], and one for, uh, uh, like, panel and paint-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-so, learning how to paint cars and stuff."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So, you got the forms, took them- took them home?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I was gonna fill them out there, but then I didn't get them, so I took them home, but I was gonna get Donna to help me, but I just didn't get around to it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. You said the forms were confusing?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah? What-what's the confusing bit?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I didn't understand, like, what you're supposed to write down. Like, yeah. I'm not good at this, maybe too confusing."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. So, when you've had to write things or fill out forms before, how-how's that been for you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't really deal with it. I s-- I don't really like writing."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You don't like writing?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. So, wondering what that's about, about not actually liking writing."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, I'm just real messy, so people can't read it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "People can't read-- People can't read your handwriting?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "[chuckles] Yeah, no. It's what they say, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, you must be a doctor."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I am. [chuckles]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah? [chuckles] Yeah?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So, you need some help to fill out the forms?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Like, a computer or something. If you could write on a computer, I could do that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "But, we don't have a computer."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. All right, so what-what do you need to do, Billy, to actually get to that point where you can fill out a form and post it off?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Just ask to get someone else to do it I guess. I guess I could ask Donna, but it's been embarrassing."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so you feel like it would be embarrassing to ask Donna to give you some help-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-because you feel that she might find out something about you that you're not quite sure you want her to find out?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I don't know if it's that serious, it's just-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-I'm sure most people can fill them out. I don't know, I just don't get it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm. So, who else could you ask to help you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No one. I guess you. You could do it. Would you do it?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, have you got the forms with you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. I'm wondering about-- because it sounds like this whole idea about filling out the forms, is getting in the way of this bigger dream that you've got which is around getting a qualification around something to do with cars-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-and getting on this road where you're staying out of trouble because you've got this, um, interest-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-which you can do. So, it seems a real shame that the forms are gonna get in the way, so we need to find a way around the forms."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah? So, what do you think, between now and next week, you can do around the forms?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I guess, I'd go pick them up and I don't know, I guess I could ask Donna, but she'd probably help me, I don't really want to."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "She'd probably help you, but you don't really want to. It sounds like you're a bit embarrassed."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I don't know. Plus, well, I don't know if I could bother getting up at nine o'clock every morning and having to go to Polytec. I've got used to sleeping in."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "At night."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, the whole thing about going back to poly-- going back to school-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-going back to polytech is-- would-would require a really big change in the way which you're currently living, and you're not quite sure if you can do that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Uh, it would be cool if it's anything like school. Like, I didn't really enjoy school. [unintelligible 00:22:56] so writing and stuff, and I wouldn't wanna do that. If it's all hands-on though, it would be all good."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. So, there's something here about your level of-- about how confident you are around writing or how unconfident you are, that sounds like it's getting in the way."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. No, it does get in the way. I just don't wanna do it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm. Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's a waste of time."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. So, it sounds like we might need to have some more conversation around that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, what's really getting in the way?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "For what?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, this writing business. What's really getting in the way?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Of what? Well, I don't get it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, I'm wondering, like-- it sounds like it's a thing that you're putting up as saying you can't do-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I can't."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-so I'm wondering where you are around your writing and you're reading?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, it's pretty [unintelligible 00:23:47], but, like, still-- I don't know, I'm not retarded, or anything. I can write and read."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Well, I have to say, I think it's really obvious that you're not retarded."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Like--"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "[chuckles]"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, we are having a really good conversation here."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, reading and writing is not a strong point for you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, not really. Yeah, I don't really enjoy it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, how much reading and writing is involved in the course that you're gonna go on?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't know. Hopefully, not many-- not much, but that's what I wanna find out, I guess."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, what'd it be like if you were more confident in your reading and writing? What'd that be like?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It'd make everything easier."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Like-- I don't really like reading books or anything, so I don't really care about that but just, say, real-life stuff like going to the bank, and stuff like that-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-yeah, that have filling out forms."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And, I guess that there will be manuals and stuff like that on-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-your course that, you know, to-- the hands-on stuff, it sounds like you're really confident around doing, but it's the more reading, writing, book, kind of, stuff that you are not so--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I didn't think about that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, that'd suck if you had to read, like, a big manual or something. Hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm. Okay. So- so like before you get to here where you got this dream and there's some things that need to happen before that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. So, mm, we need to think about what's the very first step."
+  }
+]

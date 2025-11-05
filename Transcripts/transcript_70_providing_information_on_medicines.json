@@ -1,0 +1,50 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hi, Dr. Martin. I'm Lori. I'm the pharmacist on duty here today. I understand that you have some questions about the medication citalopram. Do you have a minute to talk about that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I do, just a couple of minutes though."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. Well, do you have any specific questions?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, nothing specific. I just am unfamiliar with the medication."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Well, citalopram is an SSRI medication. Its indication is for depression and it's typically dosed as a 20-milligram tablet but it is available as 10, 20, and 40 milligrams. Any patients started on this medication should be monitored for improvement in symptoms in four to eight weeks."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay. Uh, what about side effects?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "If there are some side effects to this, it can include GI effects, sedation, or sexual dysfunction. But if you have a patient that suffers from any of those things, you can try either decreasing the dose or changing them to a different agent. Do you have any other questions?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, what about does it interact with phenelzine?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, that I'm not sure of. Um, can I get back to you later on this afternoon with that answer?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, sure."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Fantastic. Thank you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Thank you."
+  }
+]

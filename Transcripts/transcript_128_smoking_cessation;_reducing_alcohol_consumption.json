@@ -1,0 +1,138 @@
+[
+  {
+    "interlocutor": "client",
+    "utterance_text": "Wow, I can't believe he stopped crying finally and fell asleep. Poor guy."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. He wasn't too happy with the exam, was he Hailey?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No he wasn't."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, well the good news is that the exam's over and I don't think Jake has pneumonia. What I actually think he has is a cold. So there are some things you could do to manage his symptoms. Would you be interested in knowing?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, absolutely."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What I would recommend is that you avoid over-the-counter cold remedies, keep him away from any friends or family who may have the flu, keep him well hydrated, um, avoid excessive dust, and avoid smoking. And at least that last one's easy because you are an ex-smoker now."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, you're right actually, I-I did quit smoking but just last week my mom took Jake for the first time. It was a Friday night, so friends were going out to celebrate a birthday."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, fun."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. At one point in the night, though, they all went out to have a cigarette and I joined them. Since then, I've been having a couple of cigarettes at night, but never near Jake and never near his clothes or his toys. I mean, I've heard about second-hand smoking. And I-I don't want to be- expose him to it, so I've been avoiding him when I smoke."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right, Well, first I'd just like to commend you for your honesty and that's really helpful information that you shared with me. Thank you for letting me know that you're smoking again and-and, um, I also appreciate the fact you're taking so many measures to protect your son from secondhand smoke. Can I give you some advice on how you could protect him, even the- even further?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, sure."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, my sense is that you're smoking and you're minimizing hi-his exposure by not smoking in the same room and smoking near windows. Is that-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-correct?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Exactly."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So what I would recommend then, is to move your smoking outside completely. As a smoker, the ideal situation for a smoker in the house is if their home can be made smoke-free and the smoking is moved entirely outside, especially while he's experiencing this cold."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, well, you know that sounds okay. While he's sick, I might be able to smoke outside in the next couple days or so, but the thing is, usually I'm craving a cigarette the most when I have a glass of wine at the end of the day. I put Jake to bed, I open up a bottle and I pour myself a glass and I'm finally able to unwind, so, I get a craving for a cigarette, so, I'm not sure long-term I'd be able to smoke outside."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so, what I'm hearing you say is that, it sounds like a feasible short-term plan, not ideal and not comfortable because what you really enjoy is that cigarette with a glass of wine, kicking back up on the sofa and chilling out perhaps while you're watching TV. And to maintain that long-term outside smoking outside in Canadian winters where it's cold and snowy, not realistic."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, exactly and another thing is that sometimes in the morning, after I've had a couple of glasses of wine, I kinda feel tired or groggy or low on energy, so, even that I'm not sure is completely relaxing. Especially if I've had a cigarette the night before, I always feel so bad."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, on the one hand I'm hearing smoking and drinking at night as a way to chill out but at the same time the next day, you're not feeling so great."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Exactly."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Would it be helpful to give you some information on low risk drinking guidelines?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Sure. I've never heard of them."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Well, Hailey, what they suggest is that women don't have more than one to two standard drinks a day or a total of nine standard drinks in a week. How does that fit for you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, usually I'm having more than two glasses but if you're saying that's gonna minimize some risk and I guess some of the grogginess I'm feeling the next morning, then maybe I should just try and have one glass of wine in the evenings?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, it sounds like you'd be open to reducing as a way to still enjoy the wine but perhaps alleviate the way you feel in the morning, some of the hangover effects that sounds like you're experiencing."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I-I'd absolutely maybe reduce. I'll try my best to reduce, but I'm not sure about the smoking."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So, you're gonna try to reduce the drinking, not sure about the smoking, what the plan is but I think we did agree upon earlier that you would move it outside, at least while he's sick?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I think that sounds okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That's okay. All right and, um, I guess we'll see you next week for Jake's six-month checkup. Is there anything else we could talk about that might be helpful?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No. I think just talking about it was helpful, you know, and I'm- I'm glad you've given me some information. Maybe just this week I can think about it a little more, you know, I-I feel pretty overwhelmed right now. There's so much to do. My days are pretty full, so, maybe I can just s-sit on it for a week."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sure, of course, Hailey a-and again I really appreciate your openness and honesty about letting me know what's going on with, you know, the stress levels and coping and drinking. I just had a thought that there's also a good mom's group, we run out of our center. So if you'd like a referral to that or some information, I'd be happy to give you and while you think about it, if you want to, um, talk about this further with one of my colleagues, I'd be happy to make you an appointment."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "All right. That sounds good. Thanks, Dr."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Thanks, Hailey. We'll see you next week."
+  }
+]

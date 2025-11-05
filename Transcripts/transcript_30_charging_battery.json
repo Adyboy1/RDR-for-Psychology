@@ -1,0 +1,118 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hey, Mary. I wanted to bring up to you, um, that your battery died last night. So, can you tell me what happened?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't know, and I still don't wanna charge it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, it's something you just aren't willing to do?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No. I got a lot of stuff to do, I don't need to charge it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, it's not really a priority for you right now, to be charging it?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Um, and do you understand then the con-consequences of-of what that would be?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I guess so. I don't know. I-I-I honestly don't care what the consequences are."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Um, would it be okay if I do share you what will happen if you don't charge your battery."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Sure. I'll listen."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, you will be getting violations for that, and then if you get so many violations, I mean, we'd have to write a warrant for your arrest, which is looking more of, um, detention time."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Whatever."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And that's still doesn't seem to bother you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No. I just-- I don't care."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It really [unintelligible 00:00:58]-- I don't care."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, so I know that you, you know, you know the consequences of it, and yet you're sharing with me it's just not a priority for you at this time."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Nope."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. You know, that is your choice. I mean, I-I-I can't make those choices for you, it is something that you decide to do. Um, so with that being said then, these will be the consequences. I'll have to read the-the violation for you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, whatever. I Know you got to do your job, but I don't care."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Um, any questions about that? Any questions about kind of the next steps from here?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean, whatever happens happens. I'll deal with it when it happens."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, your confidence that you'll be able to deal with possibly going back to detention?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean, I'll just deal with it when it comes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, and it sounds like you know that it's probably coming then?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I guess so."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Well, you know I will be back later. If any questions would arise, we can always talk about that then. Um, otherwise, again, I will have to write a violation, and, um, if you have any questions or need anything from me, please let me know. Um, otherwise, again, I'll be back later today."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right."
+  }
+]

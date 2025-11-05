@@ -1,0 +1,730 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right, Catherine, welcome back. I'll be interested to, sort of, after we met last time, what-what were you-- what have you been thinking about over the week 'cause, you know, I-I remembered last time I asked you what you were thinking about coming, but-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-what was different this time and your thoughts about coming?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I suppose, my expectations are a wee bit clearer as to why I'm here."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I guess, I'm-- It made me think about how much money I have been losing recently. So, yeah. I'm happier to be here. [chuckles]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, okay. So, there's a shift from last time?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Yeah. My sense is we'll be able to work pretty well together. That's my, sort of, sense of, uh-- After last time, I thought, you know, \"Here's a young woman who's, you know, got some energy to get things together-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-and, uh--\" So, really, what we'd like to talk about today is-is get a sense of, um-- Let's talk about the things that would be good to work with, um, over the next, you know, nine months together, really."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, one of the things that we started to touch on, last time, was this issue of gambling, and, um, you were talking, last time, about how the gambling had, sort of, got you into trouble with your family."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. So, thinking about, like, you know, last time, you-you started to say that, well, you thought it was-- you deserved it and there was some thinking around that, so I'm, sort of, wondering how open you are to-to exploring that from some different angles?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I'm happy to explore it, so to speak. [chuckles]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, so how-how-- You know, like-- 'Cause, sometimes, when we start to open things up, and then you think, \"Oh, it feels a bit uncomfortable.\" So, how do you manage things when you get uncomfortable? How have you managed those in the past?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Hmm. I don't know, I probably lock off a wee bit. [chuckles]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Yeah. So, how would I know if we were talking and you were blocking off? What would I notice, uh, in our session together?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, um. I'm sure you've already noticed. [chuckles] Um, I don't know, probably fidget."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That's why I am still a bit\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, that's okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "[chuckles]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So-so, what would be really helpful maybe because I might miss it, you know, so, like, could you tell me? It would be really helpful if\u2014"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "When I'm feeling uncomfortable?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, yeah. If you could just say, \"Ken, hi, I am starting to, you know, tune it out here, starting to get uncomfortable,\" that would be really helpful."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, thanks for that, okay. So, let's think about the-- It has to do with how you just sorted out the thing around the gambling 'cause last time you were here, you told me that you get a buzz, you know, it seemed like you were gambling a bit more than your girlfriends were aware of, and-and you said you owe one of your friends some money."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, um, how serious do you think this issue is to sort?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "[sighs] I suppose it's really serious if I wanna get out of my-my-my debt."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Credit comes out of my ears, and mom and dad aren't bailing me out anymore, so-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-I suppose, I've gotta sort it out myself."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So, again, on a scale of 1 to 100, how serious-- how important is it to sort it out? Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "About 80. [chuckles]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "About 80? Right up there, yeah, yeah? And another question that's, sort of, related to that, how confident are you that you can, you know, you can actually get it sorted and get on with life?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'm gonna say, I'm completely confident."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah? But, what would-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-your level be on a scale of 1 to 100? Where does your confidence sit?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "What, on my confidence to stop? [chuckles]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, to get it sorted. Not necessarily to stop. But we don't- we don't know whether-whether stopping's the right answer here, I don't know, but-but, your confidence to sort it out."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's hard when it's part of your lifestyle, you know?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "When I went with my girlfriends to the pub last night and I went and hit a bit of a flutter-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-so, you know, I think I'm a bit weird if I just sit-sit at the bar on my own. [chuckles]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Yeah, so-so, you fluttered last night with them?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yep. Okay, okay. And-and when they stopped fluttering, were you still fluttering or did you stop with them? Where-where were you with\u2014"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, I had to stop halfway 'cause I'd ran out of money. [chuckles]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Okay. Okay. Yeah, yeah. So, you were saying before that, you know, there was, you know, money you couldn't really afford-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-'cause you owed your mom and dad some money, and they weren't bailing you out anymore, and you had to go out and find some money, I think?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah? Yeah. Yep. So, it seems like almost, like, you're still in the behavior, you know, still creating some problems?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah? Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "There's some feelings when you, kind of, think about that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't know, but I'd like to get back on track, but\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Not really planning on spending my life in debt. [chuckles]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't mind traveling, and, you know, I've got friends that are saving for the [unintelligible 00:18:27] and I'm 25 and working in retail, and got four credit cards-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-so I won't be doing any traveling any time soon."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So, again, that, sort of, sounds really important. So, what's-what's your dreams? What are your dreams? Where do you wanna be in five years' time? Where does Catherine wanna be? What do you wanna be doing? What are your dreams?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Maybe I wanna have traveled and found the man of my dreams. [chuckles]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't know. Kids maybe, but-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-I'm not gonna- [sighs] I'm not gonna make a decent mom the way I am, at the moment, am I? So I probably need to get on track at some stage. [chuckles] I'll be pushing 30 and still in debt, at this rate."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, okay. So, it seems like you're-you're, kind of, in a state in your life of considering your next steps."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah? Yeah. \"Do I continue with the, you know, my little current lifestyle,\" and you are so much the party girl you used to be-- I was speaking to last time-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "[chuckles]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-wasn't that-- Is that right? Yeah? So, \"Do I live a party lifestyle-- party-girl kind of lifestyle, or am I got some other dreams to follow?\" So, they're hard calls to make. And-and it all-- And there are no three ways. We will have to make those calls at some point."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And, my sense, is that some of the challenge for you, at the moment? Yeah?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "When you think five years ahead, which-which position do you wanna be in? Which-which feels best? Party girl still, you know, with those four credit cards maxed out major, or would you wanna be actually, you know, thinking about having traveled and, you know, maybe, starting a family, those other things? Which-which direction feels best for you at this point?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Party girl at 30s is a bit sad, really, isn't it? [chuckles]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I don't know."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't know. It's been fun up to now-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What's your hunch? Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-but I really do wanna travel, so."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, yeah. Where in particular? You've got any ideas about what\u2014"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, Egypt, always been, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Egypt?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh, what's that about Egypt, that, uh?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, I just think it's just fascinating."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Just the, um, the outlook, and the culture and the history and-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-somewhere I've always wanted to go."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's not the safest place at the moment, mind you, but [chuckles]."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "No, that's true."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "But for obvious times."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yep."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It could be very different."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Okay, so you've been-- How long have you had this-this idea for that that's what you'd like and that's where you'd like to go?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, since I was young, early teens."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, yeah?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm. So how much does the kind of, uh, current lifestyle rob you of that, you know, take away from that dream?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, well, I suppose with the amount of money I've spent over the last five years I probably could have gone to Egypt and back five times by now. [chuckles]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Well, yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "There you go. So there's some decisions to make around, uh, which dream, which path you wanna follow."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm. What do you reckon to be the-the hardest bit of taking that pathway to-to traveling and realizing the-the dream? What would be the tough things that you'd have to confront?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I believe then to cut off some of my friendships. Um, 'cause since you see that's, you know, part of their lifestyle."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. It will be a big change."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm, mm-hmm. So I see this is- this is something you've been thinking about for a while. So how far away do you think you are from that change? You know, 'cause obviously it can-can be on the never, never, but how far away are you from it, making some decisions about that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Seems like a bit of an unrealistic dream. Um, and I'd like to take the first step but, uh, that's gonna be easy."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "No, no. That'll be easy. So what is the first step for you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Probably, um, [chuckles] cutting up the credit cards for a starter, and trying to restrain myself, and not to be led into temptation, I suppose, so."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know, if the pokies are at the pubs, just don't go to the pub. [chuckles]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, it's hard, isn't it? It's hard being in the pub thing, in that environment."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "We'd-we'd-we'd have an illustration for them, I suppose. We call those high-risk situations. You know, it's that-- so you might learn some language about some sort of the way that we describe-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm. [chuckles]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-it and stuff, but, you know, being at the pub, you know, you want to sort of get the buzz of, you know, gambling, you know, horror situation, really easy to just go against what you decide that you wanted to do. Yeah?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah? So how today have you sort of found some ways to manage that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I haven't managed it to-to this point, so [chuckles] I don't know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I suppose I've just got to get tougher with myself."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. I think somewhat being tough with yourself, what-- yeah, people often say that, but, you know, it's not-- I think there are some things that you can do, and you've already-already identified a really good strategy."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "What? Cutting off some of my friendships?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, it's a couple of ideas. O-one, thinking about who your friends are and will your friends support you to realize your dream of traveling to Egypt."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, and the other idea you talked about before was, actually, cutting up your credit cards. So kind of amazing what that thing makes there on different cards isn't it?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It's very helpful and healthy. So, yeah, a couple of really good ideas already you've got, guess so?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. So that's-that's some work that we can continue to work with. Yeah? Yeah?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So 'cause-'cause I asked the question before, is what might be the hardest thing, and you'd identified that your friends, you know, could be one of the habits."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yep, yep. Could that mean that some of your friends are probably moving around some similar sort of stuff like you, wondering about where they're going and-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-what they want to further their dreams, yeah?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so we talked about sort of where things you-w-- Where you might be in five years and which path you wanna take, yep, yep? And you seemed very clear about it."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, yeah. Something we can- we can do over the next while is-is really get some very concrete things in place to support you to do that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. So what's one thing you can do between now and the next time we meet?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Find the scissors. [laughs]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, find the scissors."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Cut out the girls."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, yeah, yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Then, um, I don't know if the debts are still gonna be there or not but I-I've gotta find-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-a way to pay them off and-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Truly."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-I don't know how I'm gonna do that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Okay, so sounds like so-some budget to buy stuff will be helpful."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, and of the things that-that we often put people in touch with here is some budget advice service, it's a great service here, um, and something that you can get to."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So let's talk about how we can organize a-a meeting with them."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm, that will be good."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  }
+]

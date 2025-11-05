@@ -1,0 +1,50 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "In summary, the Minnesota State, Mankato security report states that you were stopped on Stadium Road last Friday, cited for driving under the influence, and then you were transported to detox. Plus, you're only 21 years old. Is the report accurate?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I-I guess, uh, I don't really remember much. I like it was a week ago, so I was kind of drunk too."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Behavior like this could get you suspended, doesn't that concern you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Hmm. I mean, not really. I'm gonna be 21 in a couple of months. Um, once I turn 21, the cops can't give me a minor and I mean, I'm not a heavy drinker, like-like my friends or anything. I don't get wasted at all. And, uh, I just need to be careful. I just won't get caught. I'm just trying to find, like, a normal college student."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What were you thinking when you got into your car after having six beers, you could have caused an accident and killed somebody."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Whatever, I-I didn't though. I called my roommates for a ride. He was sleepy. So I had to get home somehow. And this isn't even my fault. I give him rides all the time, but I didn't do anything."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You need to take responsibility for your actions. If you keep partying like this, your problems will only get worse. You're likely to face costly legal citations, poor grades, health problems. Getting kicked out of school and disappointing your parents. You don't want that to happen, do you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No-no. Like I said, this isn't even my fault. Like, are we done here? I have class in 15 minutes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Your behavior is not what Minnesota State University expects of its students. If you wanna be a student here, you'll need to show that you're able to follow our rules. Do you think you can do that, otherwise, you'll be suspended?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Look, I really like going on the [unintelligible 00:02:29] and I get what you're saying. You, you're making some really good points and I'll think about them. Okay?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Well, your sanction is you'll be placed on university disciplinary probation and you'll have to attend an alcohol education seminar that'll cost you $150. Also, disciplinary action is progressive and cumulative, meaning that any further violations will result in suspension for one semester or longer."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "$150, are you serious? I can't pay that. All right, I'm done with this. I'm over it."
+  }
+]

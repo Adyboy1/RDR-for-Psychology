@@ -1,0 +1,202 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, thank you, Tanya, for meeting with me today and talking about this. So, there is something I'd like to ask you that we can kind of discuss in our conversation is what's one thing about yourself or something in your life that you'd like to change that maybe you've been feeling kind of ambivalent about?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, well, you know, I have a lot of anxiety, and so there's this test that I have to take. It's a big test and I've kind of been putting it off just 'cause I get very anxious. I don't trust in myself that I'm going to do good at it. Um, and so that's something that's like always on my mind, it's been on my mind for many years and it's like, I gotta just do it. Um, but I always stop myself from doing that because of the anxiety. And I just want to, I don't want to feel that way."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. This anxiety is this obstacle for you and it sounds like it, then you're just not feeling confident that you could do it and do it successfully to this exam."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And so, it's easier for you to just not do it."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Exactly. So, I just avoid it and put it off."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. So, on a scale from 1 to 10, 1 being not confident at all, 10 being very confident. How confident are you that you feel you can manage your anxiety in regards to taking this exam?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, maybe like a four or five."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So, four or five. How combat, like, not like a two or three."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean, because I-I have it set up after like so many years, so I still have a ton of anxiety about it, but I think I'm like kind of making it, maybe that first step. And so that's why I would rate it as like a four or five because I'm making that first step, but it's still scary for me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Yeah, and you also mentioned that you've actually made the appointment that you have to take this exam."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And before you've been putting it off."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes. And I already kind of put it off after s-scheduling it too. So, um, now I'm actually enjoying that because I-I already like changed date and everything. So now it's actually coming."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So, you've made this appointment before in the past and the anxiety has kind of taken over where you've rescheduled it."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And this time, it seems like it's a little bit different this time. How come this time you feel like you might not reschedule this time around?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, well I think it's this kind of long time coming. I just need to do it and then I can figure out, if I don't pass, I have to wait three more months to do it. And then I just study for the next three months. And if I do, then I can have that weight lifted off my shoulders cause it's been all a lot of weight on me and I think about it every single day. And I'm just sick of thinking about it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So that's really encouraging you thinking about how good you'll feel afterwards once it's done and taken."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. But then I do worry, you know, that negative talk that, you know, when you have anxiety. So then I worry about if I don't pass it, you know, like people are going to ask me how I did and if I don't pass it I'm gonna have to tell them, it's embarrassing for me. Um, so that makes me really anxious."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. You kind of want to avoid that. Yeah. Have those other feelings that could come up and if you don't have."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I'd love to hear from you. When was the time in the past that you were feeling anxious about something and you actually did it and it turned out well?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, I would say maybe like four or five years ago, um, I had to do a recording for work and I did not want to do it. I was trying to find every way that I can get out of during this recording. And, um, and then I played my recording and because of the way sometimes I carry myself, like not confident and very anxious, um, I think other people don't always believe in me."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And so, um, when I played the recording, it actually ended up being one of the best recordings and like my supervisor and our national consultant, they were very like shocked about it because it because of just was the way I carried myself. So I thought, I don't really like compliments that makes me, um, anxious too again people compliment me, but it was a nice feeling because I really didn't trust in myself. And to know that I did a good job."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, it made me feel good."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, in that experience, it really built up your self-confidence and it almost not only changed the way you saw yourself, but maybe how other people saw you and you really, you liked that feeling."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I did."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. And that must've been really brave for you to do something that seems really daunting at first, yet you were really successful at it."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, how do you think you could relate that to what you're dealing with now?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean, I think again, like all that anxiety, the same anxiety I had with that I have with those tests. And so, um, but that if I pass this test, if I could have that same feeling that I had, like when I did a good job like the-- you know, I mean, I would like to have that feeling again."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So for you to create opportunities to create those moments that you can have that feeling again"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And you just mentioned too, you feel really proud of yourself."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So to end our conversation, how do you think you couldn't move? You originally said, you were at four or five, what would have to happen to get you to like a seven, to feel more confident?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, considering this test is coming on the way in a few days, um, I think, for me and just like practicing and just really seeing how I do and if I do well, then I think my confidence might go up a little bit."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And maybe just having that faith in myself that, you know, that I can do it instead of just thinking that I can't."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So that positive self-talk could really go a long way for you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So to summarize, it sounds like you are still feeling kind of anxious about this test coming up, you've rescheduled it, um, over the past couple years. Yet, this time around, you seem more confident to just get it done. And you've even mentioned times in the past where you were feeling anxious and you were successful about it and that you felt proud about yourself. And you liked the way it means, you see yourself and how others saw you, and it seems like y-you're ready to finish this exam and-and remind yourself that you can be successful?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Well, thank you, Tanya."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Thank you."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  }
+]

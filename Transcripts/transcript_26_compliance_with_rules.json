@@ -1,0 +1,54 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So what's been going on?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I just want my call, that's it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. yeah, I was told that you're phone calls was taken away"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "[scoffs] Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What-what happened?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't know. Some of-- One of the officers, it's like he has it out for me or something. I don't- I don't know what it is. Something about me not making my bed, something about my attitude. I don't know, I just want my call, man."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. yeah, it was weird when I, uh, got that report because for the most part since you've been here, uh, you'd been like, uh, model-model resident, uh, always making their bed, uh, been pretty, uh, respectful of the staff, of all the other residents. So, uh, is it something to do with you getting out in three weeks? It must be pretty hard."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I just wanna contact my mom, that's it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. Yeah, you used to have contact with your mom, you know, almost every other night and now for just about a week, you haven't even gotten to talk to her. I can imagine that being pretty difficult. I remember you saying something about like your dad's birthday coming up?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "My dad's birthday is tomorrow."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And I just wanted my call so I can talk to my mom. That's it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Like I said, it's been, um, a long time and this is basically the first time that we've seen this behavior from you, so I know for a lot of other guys right before they get out, uh, a lot of anxiety, a lot of frustration comes around because they haven't been out in a while and then like the pressures of being on the outside are starting to settle in. So is that something might be going on with you?"
+  }
+]

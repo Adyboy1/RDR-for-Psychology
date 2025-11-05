@@ -1,0 +1,506 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hi Mrs. Smith, my name is Terri, I'm one of the nurses who works with Dr. Fields."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I remember you. Yeah, we met once before."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yes, I think when you were in last time."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And I know that, uh, Dr. Fields talked with you last time about maybe trying a tai chi class to see how that would go, and I wanted to-to check in with you and see how tai chi went."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I went once."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah and, um, it was very-very beautiful to see and the instructor was very nice, but I felt kind of self-conscious because I'm still in my walker."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And I had to sit in the chair. I couldn't, you know, do what they were doing."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So, it's-- it was-- I simply felt self-conscious."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh. So, you thought it was beautiful and you liked the instructor, but you were a little self-conscious because you were in a chair?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "A lot self-conscious."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "A lot self-conscious, uh-huh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What were you hoping to achieve with the, um, by going to tai chi?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, like Dr. Fields told me, it helps with balance, and I'm still having the wobblies. So, I was really hoping that I could get to the point where I could benefit from what they had to offer. Um, yeah, mostly my balance, mostly my balance."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh. So, you're hoping that it would help with balance, but you didn't see the- maybe the results you were looking for?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Not yet."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Not yet."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh. What is your overall goal? What are you working towards?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I wanna go home."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes, I really do."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm, and what is it that's important to you about getting home?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "[sighs] Everything. I want to be with my little dog."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "He's really so cute, and I miss my garden."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And I just miss being independent, going to sleep when I want to sleep and getting up when I want to get up and-and, uh, cooking for myself. The independence. Sure I miss being independent."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh. So, you're wanting to get home to your dog, your garden, back to your life, your independence?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What do you think you need to do in order to be able to achieve that goal of getting home?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, they told me that I need to be able to walk down the hallway and back, even with the walker, being secure and not with the wobblies."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And I haven't gotten there yet."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And do you agree that that's what you need to do in order to be able to get home?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I-I don't want to fall."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I-I've had friends that had that happen. So, um, I-I agree a little, with some hesitation, but I do agree."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh, and tell me how your physical therapy is going?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, it's better."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It still hurts. It- it's-- I'm getting better. I'm-I'm getting better. It's not quite as painful."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, so-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, it sounds like, um, you can see that you're making some progress in physical therapy-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-and that you were hoping that the tai chi would help you with the wobblies. Uh-huh?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And so, are you wanting to go back to tai chi?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "[sighs] Um, yes-yes I-I do because I-- my friend, I think I told you, really, really loves it and I just, I wish I could go back, and yes I do. I'm not making much sense, but I do."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh. I think it's important, um, that you know that you're the one who has to make the decision about whether or not tai chi works for you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, I don't really know yet after just one time."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. It's-it's-- I can't make that-- It wouldn't be fair for me to say it does or doesn't. It didn't that one time, but you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, you haven't seen the results that you want yet-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-but because Dr. Fields has recommended it and your friend has-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-and it sounds like you like the instructor-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I do."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-it sounds like you'd like to try and give it another chance?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I would."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, what has to happen in order for you to get to tai chi again?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I'd have to make the arrangements again, that was a little complicated, and, um, I'd have to get my head straight about feeling self-conscious, because I-I know that nobody's really looking at me, but I have to convince myself."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh. Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, and the arrangement, arrangements a little complicated."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh. So, how confident are you on a scale of 1 to 10 with one being not at all confident and 10 being very confident that you can make the arrangements in order to get to tai chi."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That I can make the arrangement?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Five."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Five."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh, so-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I-I mean, I know I can, but it's really difficult."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh. What is it that makes it a five instead of a one, no confidence?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That I'm doing it by myself."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And I would really fe-- If I could have some sup-- Like if somebody could help me do it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "My-my daughter can't visit that often and, um-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, in order for you to feel more confident, you would like some help in making those arrangements?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I would."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I would."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And is that something that your daughter can do for you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, she's-- she could, but I'd have to wait at least a week."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Um, so is that something that you'd like us to help you with?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I would."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah. Is that possible?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sure we can make those arrangements with the rehab center. They have a van-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-and-and they've done this for other patients so we can certainly make those arrangements if you'd like."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That would- that would be good. And then as far as feeling self-confident, I'd have to do that myself."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So, are there any other barriers or obstacles in the way to you getting to tai chi?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I can't think of any."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That's-that's the main thing-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-the arrangements."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, it sounds like you can see that you're making some progress in your physical therapy."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And that you're wanting to give tai chi another chance, and that if we can help make arrangements for you to get there with the van to the rehab center, that you'll give it another chance."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That's-- Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That's true."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, um, before you leave today, we'll go ahead and, um, I'll call the rehab center and make those arrangements."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You would?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sure. I'm-I'm happy to do that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That would really help."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And then when you come back in, I know you've got another follow up appointment with Dr. Fields, I'd like to check back with you then and see how class went the second time."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Thank you."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, thank you very much for coming in today Mrs. Smith and I look forward to hearing about the progress that you're making."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, again, I hear your overall goal is really, to not give up these things you'd like but to cut back on how much you have-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I guess so."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-on that. All right. So, I'd like to ask you, uh, kind of a scaling question about this 'cause I'm hearing that this feels really important to you that you'd be way up there on the high- on the high end of importance."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, I'm gonna ask the question this way, on a scale of 0 to 10, where 0 is not at all confident, and 10 is like, \"I'm very, very confident,\" where would you put yourself on a scale right now of confidence in starting this new plan?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right now, I'm probably-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-gonna say a six."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "A six."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "But I know when I go home and I see the food, it's probably gonna drop back down to a four."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. All right. So, let's talk about that, um, so we should just assume we're gonna be at a four."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I guess."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, why are you at a four and not even a lower number? Why are you not like a zero or a one?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Because I've been wanting to do this for-for years, like-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-ever since I started becoming conscious of my body."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Like ever since I started being a teen, like this has always been a goal of mine, like, especially 'cause all my friends play soccer, and like-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-hike, and are like super stick-thin but really healthy and active."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And so I'm just sort of like, well, I'm not."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "But I want to be like-- I don't want to be like stick-thin, but I really want to be like really healthy and really active."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And like be able to look nice, you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, all right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I wanna be able to look nice."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So, what would help increase that confidence? What-- Because that sounds like where we really need to focus on. What's gonna help you feel more confident about this?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't even really know-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-honestly. Like, I mean, I know I'm gonna have to keep like telling myself like-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-like this is something that you want- that you've wanted-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-for years."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Like, you can do it. Because like-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I know I can do it. Like I can do anything."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I can do anything-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-I know that. But it's hard getting to the point where I-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-do something."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. Well, if it's okay, just for a moment, let's put the- let's put the changing the eating pattern off to the side, and let's take a look at some other time in your life that there was something you really wanted to accomplish and you did. And what is it about you- what was it about you? What kind of strengths did you bring to the table that allowed you to tackle something that felt like a challenge and-and allowed you to be successful?"
+  }
+]

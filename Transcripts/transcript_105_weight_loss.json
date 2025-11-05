@@ -1,0 +1,202 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": ". So, um, tell me about the exercise."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, um, since we spoke last, I've been to the gym a couple of times."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You have?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I have."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That's fantastic."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, and actually, my pants feel a little better too. I'm very pleased with it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, what else have you noticed other than your-your pants are fitting better?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I do feel better."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "My back\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Your-- my what?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, my back doesn't hurt nearly so much."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Wow."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And, um, but it seems like it's, um-- but it's still hard. I'd like to go more often or I-I guess that I'm-- I just need to be a little more patient with myself because it's, um, I'm not, uh, I'm not-- I wanna be able to like spend more time at the gym but right now, it's um, not, um-- Well, I guess I need to build up to it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. So and what would you-- What would- What would help you get to building up to it? Spending more time there."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, well, I guess just sticking with it and not getting, um, sidetracked."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Like last week, I-I didn't get there at all until like Thursday during the week,-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-so it was- it was a frustrating week like for the gym that way."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I was kinda busy with some other things, but, um\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. But you made it-- You made it one day-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I-I got\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-instead of zero days."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, and actually, I made it again on Saturday too. So."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That's fantastic."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Even with this, you know, pretty horrendous schedule going on."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. It's been a little-little hectic, you know. And, uh-- But, I-I don't like it too much because there's all these younger guys that can lift a lot more weight than me or they can stay on the treadmill longer and it-it-it's a little discouraging, you know. 'Cause I don't know if you've noticed, I'm not buff and they are. And it's-it's a little discouraging to think how much work it's gonna take to get, you know, kinda back towards that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So you-you'd like to get buffed?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, but, um, when-when I'm not at the gym, and I am my normal rational self, I realize that I'm, you know, way, way past the age of where I would really even want to do that, let alone want to spend the time it takes. But then while I'm at the gym, and I see the buff young guys, you know, lifting a lot of weight and all that stuff, then you know, the-- I don't know, the urge to be buff comes up in me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, but for right now, it sounds like the-- just having the pants fit better-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-sounds really, you know, like it's making you feel good about yourself and\u2014"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It is."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What other positive things have you noticed about the exercise?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I noticed-- Well, I-I still need to work on my diet a lot. I haven't-- I-I'd like to say that by working out at the gym, I have, uh, I've -I've modified my diet, but I haven't very much. I've gotten a little bit better with that, but I'd like to do a lot more."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "In what way have you gotten a little bit better?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, a little bit less junk food. Um, like at times, when I'm like I feel like, \"Oh, I think I'll just go have a candy bar,\" or some worthless thing like that I'll actually have second thoughts before I do it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So you're at the second thought part. And what do you think would-- might take you, uh, over to actually doing it if you wanted to?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I think, uh, when I really start seeing some results at the gym, it's kinda, uh, I think the way it works in my mind is if I've worked out really hard and I've- and I've-- say I've lost a pound that week-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-you know, and then as I'm looking at that double or triple fudge four-decker of ice cream Sunday thing, you know, that somebody is eating, I would say, \"Wow, that would be about two hours on the treadmill.\" Then-then that would be probably-- the-- that would keep me from actually ordering one of those."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, okay. The payoff just wouldn't be worth that two hours of treadmill versus that double fudgy browny thingy."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right, decadent-- Why do they put the word decadent in food?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "'Cause it is decadent, it's lovely."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, yummy, so-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay. But it seems to be going so far so good. I-I guess, you know, I can like, you know, um, I-I'm-I'm pretty pleased with who-- how it's going on. Um, I'm really-- I'm glad we talked that last time 'cause it-it was the impetus to get me to go the first time in a long, long time."
+  }
+]

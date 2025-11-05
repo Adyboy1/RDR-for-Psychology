@@ -1,0 +1,434 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, Mr. Smith, that's your medication sorted out."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Good."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Blood pressure's a little on the high side."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. I wonder if I could raise the subject of your weight."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "What?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I wondered if we could spend just a couple of minutes talking about your weight."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You are joking, aren't you? I mean, look, I've made time in my day to come here."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'm kept in your waiting room-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-for 45 minutes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's not acceptable."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "If I make an appointment with a client for 10:00-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-I expect them to start at 10:00, not 10:45."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right, and you-- so you're busy enough, and\u2014"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I've got other things to do. I've got accounts to do."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I've got clients they're coming in."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And it wasn't essentially easy for you to make the time to come down, and you had to wait in the waiting room, and now I raised the subject of weight just when you're thinking of going."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I mean, okay, fair enough, um, I've got to have my blood pressure-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, yeah, yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-medication changed, but I really haven't got time to talk about my weight. I mean, you know, I'm aware of my weight."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'm aware of the problems, and I'm also aware of the solutions."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, so I don't really need a discussion, it's- it's just I've got too much to do at the moment, you know?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. And so it-it-it's been a bit of a rush for you coming in."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And, I- I'm sorry about the wait in the waiting room."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, it's b- it's bad form, you know?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, yeah, that's, um, and that- that's not easy for you, because you- you'd like to go really soon, and here I am asking you to spend just a couple of minutes with me."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, but basically I've got things to do."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I gotta get back to the office."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I've got a pile of work-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-that I've gotta deal with."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And every time- every moment out of my day-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-means that I have to work in the evening-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-or the weekends."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. It counts."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, when you're self-employed, you haven't got a choice, you know?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, exactly. Exactly. It's up to you, just a couple of minutes."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I'm here now, so yeah, okay, if it's a couple of minutes, yeah?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I promise."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay, because I really must get on."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I want- I wanted to simply ask you how you feel about it?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "About what-what, losing weight? Well, obviously, I-I want to."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yep."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, yeah, I mean, who doesn't? I mean, I'm aware that I'm over my, uh, uh, b-b-b-balance weight, but I now know that it's causing problems. I mean, obviously, I get out of breath if I have to do something a bit howering, and I realize that I'm on this blood pressure-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-um, and-and maybe that's probably contributing to it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. So you can see the links between your weight and your health, and you'd like things to be a bit better."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I mean, there are rather other things, but I mean, yeah, the weight is a- is a- is a- something I would like to get hold off. You get on [inaudible 00:03:17]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You'd like to, if you could?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I mean, I know, um, th- the theories of bit of exercise on a regular basis, um, a balanced diet. Um, but unfortunately, because of my lifestyle, because of being self-employed as an accountant, it's finding the time, uh, to exercise, but also, finding the time to sort of think, \"Okay, I'm gonna go shopping for this, that, and the other\"-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-\"I'm gonna prepare a meal.\""
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "With me, it's very often\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Ready meals, and that sort of thing."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah. Food on the run, you know?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Grazing."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Let me see if I can summarize what you've said, um, and then we'll see what next. Um, you lead a busy life."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, you run a business, and you've got a lot to do."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Um, you're- you're- you're aware of the- of the links between your health and your weight, and you are concerned, to some extent, about that, and ideally it sounds like you'd like to do something about it, it's just that your life is busy and rushed, and you tend to use convenience foods in order to get the work done."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I mean, I, to a certain extent, because of my lifestyle, food is just fuel."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know? Um, because I'm juggling all these balls, and I don't want to drop any."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I get it. I get it. And so, if you could fit it in, you would like things to be different, but that's not so easy."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Can I suggest that you come back and see me in a couple of weeks time just to chat about this?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, okay, I'm up for that, but it's gonna be the same problem of, A, finding time-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and B, if I can make an appointment-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right, right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-I don't expect to be kept waiting for half an hour-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Exactly."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-or whatever, 'cause it's\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Exactly. I'll tell you what might be a nice solution, is if you come down first appointment, and I give you an appointment at 8:30-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That'd be good."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "- and then there'll be absolutely no waiting. And, the purpose of that- of that visit will be to have a look at how you really feel about how you could move forward, and somehow fit in a more healthier lifestyle into the busy work life that you've got."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'll maybe have a look at my schedule, see whether anything-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-can be arranged, or I can pass something on-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-to something on to some-- and-and so it's not a wasted interview. So I can come here and say, okay, I've looked at my schedules, I've looked at things-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Good."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-whatever."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Good. And see if you can fix it up, and also give some thought to what we've talked about."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, of course."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Good stuff. Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay, thanks. Sorry, I went off a bit."
+  }
+]

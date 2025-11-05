@@ -1,0 +1,222 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hi Mr. Johnson?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Hey."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hi, I'm Tonny Brownie, I'm a pharmacist here, uh, and I- and I was wanting to spend just a little time with you talking to you about your cholesterol. I found out you're newly diagnosed and your medicine for your cholesterol."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, my doctor talked to me about my cholesterol, that-that's-that's his job."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, certainly glad to hear that your doctor did spend some time with you, um, I-I see myself as somebody who works with your doctor, uh, to help you get the most benefit from your medicine, uh, because you are gonna spend money on it we wanna make sure that you get the most benefit from it. Uh, also sometimes it may be difficult to reach your doctor we're also here, uh, and so we try to work together, wo-would that be okay?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, that'd be okay, yeah, you know, I'm not so certain I'm even gonna take the medicine cause, you know, he mentioned muscle weakness, uh, you know, I-I know I got high cholesterol, uh, and that I'm running the risk of stroke and heart attack down line but yeah, he mentioned muscle weakness and I've been thinking about that and, uh, you know I'm a truck driver and I got a haul the heavy boxes out of the truck on a dolly, and I can't afford that right now. Just that-that muscle weakness, uh, that-that bothers me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So-so on the one hand, the doctor talked to you about high cholesterol, down the line possibly causing a stroke or heart attack-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-and that would be pretty serious. On the other hand, uh, when you found out that this drug might cause muscle weakness, that really alarmed you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, that's the problem, that's what I face now with my job."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Especially with your job and-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-preventing you from doing your livelihood."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, um, would you mind if I talk to you, if-if I- if I gave you a little bit of information about the muscle weakness, and you tell me what you think?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That'd be fine."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. The muscle weakness with this drug is very rare, uh, usually doesn't even happen, okay? Uh, if it happens it usually happens within the first month of taking the medicine, you'll notice it in terms of weakness in the arms, uh, or some muscle pain, it's not usual. If this should happen, uh, if you let the doctor or me know right away, we can get you off the medicine, it's completely reversible. It's, the muscle weakness will go away within a couple of days, right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Now, you don't wanna let that go on for months at a time, that's when it can become serious."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "But otherwise, again it's rare, and it's completely reversible if you let us know."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I guess it doesn't worry me quite as much if it's reversible like that. You know, I was thinking this was gonna be a big-time, but, uh, uh, yeah, I guess, it sounds manageable."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, and, uh, so talk to me a little bit more about what the doctors told you about-about your risks of stroke or heart attack while you're ta- while you have high cholesterol."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, he just said that the risks are-are up, I think he called it elevated but, uh, you know, uh, that I'm at a higher risk of having a stroke or a heart attack down the line, uh, you know, that's down the line."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, well how important would it be for you to-to, uh, do whatever you can to reduce your risks of stroke or heart attack down the line?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, you know, my wife and I wanna retire in about four to five years and we wanna be really active visiting all sorts of places, The Fjords, Norway, things like that so I-I guess having a stroke or a heart attack would really be bad for that so and, you know, we-we-we wanna live our dreams actively."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, and-and one of the- certainly one of the risks of stroke is paralysis, and if you wanna be active that could be-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Whoa."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-really a problem."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, no-no we-we wanna able to be very active."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, well this medicine can really help lower your risk of having a stroke or heart attack so that five years so now when you do retire you can enjoy it without any disability, uh, what are your thoughts about that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, uh, I guess that's the-the way to go then cause I-I don't wanna be, you know, crippled by a stroke or a heart attack-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sure."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-so take- taking the medicine sounds like the-the end of the game right now."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm, yeah it would, I-I-I think that would, uh, go a long way toward reducing those risks."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, um, so if so where we are right now if I understand is you're feeling more comfortable about the concern about muscle weakness?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh, you seem fairly committed to taking the medicine to reduce your risk so that you can enjoy your retirement."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh, and so at this point, you're gonna get the medication and-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And the medicine can get my cholesterol down?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Definitely, can lower your cholesterol to 50%."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Wow, okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So it's pretty effective."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I'll take the medicine."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, um, and at some other point we can talk about some other things that you may be able to do including diet, changes in your eating habits, it can lower your cholesterol even more."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That'd be fine."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right, uh, well they have your medication ready, and, uh, if you have any questions let us know."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Fair enough, hey thanks."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right, good to meet you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  }
+]

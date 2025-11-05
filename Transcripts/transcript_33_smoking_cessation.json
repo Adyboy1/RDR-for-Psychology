@@ -1,0 +1,314 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, David. So, why don't you take a rinse, and how are you feeling?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Hmm, pretty good."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Would you like to-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Check it, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-check this out? What do you think?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, that was fixed really nice."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You got rid of that bad-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-discoloration that was there."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. No."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I like that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It went well. Good. Excellent. I did notice quite a lot of staining, actually. I'm wondering what are your thoughts about what might be related to that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm. Well, the usual suspects, smoking, wine, coffee-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-all of the above."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Any thoughts on considering quitting smoking at this time?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I've thought about it. I'm just-- It's not my cup-- I-I-I hear it from everybody, and, uh, I've tried- I've tried before, didn't work. I get it all the time."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. And it's like here I am one more person, the next- the next doctor who's saying, \"You need to quit smoking, David.\""
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah, yeah, yeah, [unintelligible 00:01:13] hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm, and I'm sorry, that's not how I mean to come across at all."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I-I-I know I'm not an idiot and people know that smokers are, you know, \"How can you smoke today?\" [coughs] It's just not that easy to, uh, quit."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm, and if it was as easy as the doctor is saying or your partner-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-saying-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, who wouldn't be?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-you have to quit."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You'd have to be a real fool not to do it-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-if you [unintelligible 00:01:34] was gonna make it like that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I-I just hear it every day."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. And what's been your past experience with smoking? Tell me-- Can you tell me a little bit about kind of how the role it plays in your life, how long you've smoked?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I've smoked for 40 years, since I was 14-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and quit a couple of times, off and on in my 20s, but, you know, it's been consistent. And I can't see myself changing now."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No matter what kinda talk I get or what they come up with."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It sounds like almost you've tried a lot of things that are out there and it's not something that you're\u2014"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Not gonna worked for me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I know cold turkey is probably the only thing that's ever gonna do it to anybody that's done it. Mysel- My group, it's been cold turkey-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and then they fight it, but [sighs] it's my choice-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and I don't like lectures about it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. And it really is your choice. You're absolutely right-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-that nobody has the right to tell you what to do. Um, can I ask? If you were to-- Uh, if there was to be a situation where you decided, \"I must quit,\" what-what would that situation be?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Hard to tell 'cause I already had open-heart surgery. That didn't do it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Prostate cancer, that didn't do it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't know. I really don't know. I just don't really want it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I just-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, this is something that you-you-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-have to-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-pretty much see yourself doing for-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, a while, quite a while. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Okay. Well, I really appreciate you being willing to even talk about it. And I get that right now, this is not something that you wanna pursue. Would it be okay if I brought it up in our next visit? 'Cause I-I know that you've said you don't want a lecture, but on the other hand, I am- I am concerned."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay, yeah. I could go for that. I-I, uh, I'm always open to some-- you know, to listen. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "As long as I don't talk too much?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. [laughs]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. [chuckles]"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "[unintelligible 00:03:34] options. I had some-- I had my surgeon just go like, \"You're- you're--\" like, \"Why do I even keep you as a patient?\""
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "He's good, though. [laughs]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "[chuckles] You're glad to keep him as a doctor?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Well, and, David, honestly, wherever you're at, we'll work with it."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, and so thanks for- thanks for taking a couple of minutes and talking about smoking."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Thanks, doc."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  }
+]

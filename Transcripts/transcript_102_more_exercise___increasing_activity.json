@@ -1,0 +1,78 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hi, Liz. Well, thanks for meeting with me today."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Sure."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So what's something that you'd like to change or, um, work towards?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, [sighs] I've been thinking about working out lately. I really want to start working out again. It's-it's been in my mind, I know I need to do it. It's just getting the motivation to do it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And you've been talking about that a lot lately. So I really-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-feel like this is something that you need to do soon because, um, a lot of times, you're just a lot of talk. And then, there's no action. And if you really wanna see results, I think it's something that needs to be done. And, you know, stop being lazy about it and just do it."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I don't know if I'm really being lazy about it. I think it's just that I have a busy schedule."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I just need to find the time to do it. And, yes, I might be lacking a little bit of motivation, but I think it's more timing and trying to fit it in."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And that sounds like a lot of excuses to me. So I feel like you had shared with me before that you do have a gym membership. So I think that's something that you just need to fit in your schedule. So for you to really see results that you want, my guess is you need to go about three to four times a week and really fit in that hour workout, um, on a daily basis."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "But I think that part of the problem is that I-I don't have three to four times- three to four times a week to do it, or an hour even. I mean, hour is a long time because if I'm working out for an hour that means I'm leaving home to get there-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-time there, time back. I mean, it's not just an hour, it's like two hours, realistically."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And it seems like if you really want to see the results you have to put the time in. And if it's gonna take you two hours, then it's gonna take you two hours. And, again, if you want the results that you want, you need to start, and you need to start now."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, oh, um, okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. Well, um, I look forward to talking to you tomorrow. And I'm hoping that you're gonna be able to tell me that you went to the gym."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Thanks."
+  }
+]

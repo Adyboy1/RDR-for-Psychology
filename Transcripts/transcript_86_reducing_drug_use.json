@@ -1,0 +1,166 @@
+[
+  {
+    "interlocutor": "client",
+    "utterance_text": "I just feel helpless about this whole deal."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You're hopeless about what's going on."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm. I just feel helpless about this whole deal."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You seem at a loss of where to go from here."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No one wants to help me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You feel like people aren't willing to help."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No one wants to help me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You feel alone."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm. I really shouldn't have done it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You realize it's something you shouldn't have done."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm. I really shouldn't have done it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You're feeling regretful."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm. I couldn't help myself."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh, it's something that just happened."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I couldn't help myself."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You're nervous that you've lost control of your behaviors."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's actually been a fabulous week."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You've really had a good week."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's actually been a fabulous week."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You seem excited about that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm. I know who to hang out with, I'm not stupid."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You definitely know how to make good decisions."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I know who to hang out with, I'm not stupid."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You know that, um, positive peer influences have been helpful for you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm. I'm letting the whole family down. They had such high hopes for me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You feel like you're letting your family down."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm. I'm letting my whole family down. They had such high hopes for me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You feel like you've been a disappointment for them."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm. This is not what I want for my life."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "This is not what you've envisioned."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "This is not what I want for my life."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You're willing to take steps to improve on that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm. I really want to get off the program."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You don't want to be here."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I really want to get off the program."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You seem motivated to follow the rules."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm. I still crave smoking, even though I've stopped."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It's something that's always on your mind."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I still crave smoking, even though I've stopped."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It takes a lot of, um, strength to still not smoke, even though you're still craving."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  }
+]

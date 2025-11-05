@@ -1,0 +1,142 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hi, Natalie. I'm Dawn."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Hi, Dawn. Nice to meet you."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Nice to meet you, too. Thanks for coming in today."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Thanks for having me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Tell me a little bit about yourself."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So I am, um, 28. And I moved out to Arizona about six months ago. Um, I really enjoy spending time with my family and hanging out with friends whenever I can. Work keeps me pretty busy. Um, But I'm really, um, looking to kind of make some changes to my diet and physical activity. I'm not really happy with where my weight's at right now, and, uh, so I thought it'd be good to come and talk with you about some of that stuff."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, you're feeling a little bit dissatisfied with your health patterns?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Um, I'm really starting to notice how I feel more sluggish and just not-- My mood is shifted a lot too, which at first, I thought was because it's getting colder outside, um, but I do also think it maybe has some relation to my activity, or lack thereof, and also kind of the foods that I'm eating."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so you're feeling some low energy and you know, in the past, when you've been more active and eating differently, you've had more energy?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right. Yeah. Especially during times when I'm more active is when I noticed the biggest cha-change in energy and mood."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Tell me more about that, those previous times that you've been active."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Um, well, I played sports in college, so that kept me pretty busy, and that was really fun, um, and I just think back now to, as much that I would cram into a 24 -hour period, and like, wonder how I did that, but I think that part of it was because I was so active physically, um, I just had way more energy throughout the day, mentally and physically to, um, you know, go to school full-time and-and still socialize with friends and do all that stuff. Um, so when I think back to like, probably like the peak of my life of when I felt my best physically, mentally it was that time."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You had energy, and you were like the Energizer Bunny, just keep going and going and going."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah, exactly. And now it's not so much the same. Um, like when I get home from work, I'm pretty exhausted, uh, it takes a lot for me to want to be physically active when I've spent all day staring at a computer and thinking and working. And so, um, yeah, that's probably been my biggest, uh, issue is like when work ends, going home and not really doing anything. Um, just trying to like unwind by watching Netflix or something else, right?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So your days are just as full now that you're working and a career person, um, and your energy level isn't what it used to be. What-- Do you have any ideas about why that might have shifted?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, well, I think part of it is that when I was in college, it wasn't really an option to go, like, I had to go to practice or I had to do those things because that was, in a sense, my job that was paying for school, um, and now there's not that same commitment to other people or to scholarship money. So that definitely has shifted, um, but I-I do feel like a-an urgency to go it just doesn't seem that like the step that's missing is for me to actually go to a gym or somewhere to be more active. Like, I think I want to it's just the doing it that seems to not happen."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. So in the past, it wasn't up to you whether you had the choice to go be physically active. Now it is up to you, and-and you're looking back at the last few years and saying, I wanna do things differently."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I want to be more physically active than I've been."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah, I think so. Um, that's not to say like, I wanna go run a marathon but I do think that it would help me a lot in terms of just having a better outlook on life, um, and better energy to- if I were to pick up some type of activity."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Great. And you've noticed a mood enhancement effect of exercise."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Tell me more about that. What do you notice specifically about your mood on the days you're physically active?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Just, I'm-I'm just happier and more upbeat and I think that even my outlook is more positive. So like, if I'm sitting in traffic, and I haven't been physically active, I'll probably grumble about it but if I'm sitting in traffic, and I have been, it's like, I just have a different outlook on things and I already feel like I've gotten something accomplished that day. So it just kind of like helps with that ripple effect into my day of like getting more things done."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, you feel more accomplished and-and you feel less irritated by the small stuff."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm. Yeah, exactly."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Great. Well, let me see if I've got this all. You came to Arizona six months ago, you're trying to figure out new rhythms and patterns for yourself. You're looking back at the past few years, and in college, you were real active because you were an athlete, and now it's more up to you about making that choice of physical activity, and you're discovering that, um, not being active has affected your energy level and your mood, and that's something you're looking for more of, both of those things, energy and-and a mood booster."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. And then also to, um, like I mentioned, I'm not totally happy with my weight, um, and so hoping too that that would have some impact there and-and maybe help me, um, if my activity kind of gets resolved or improves, then my nutrition also, maybe would go along with it and get better."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Tell me more about your weight concerns. When did you start feeling dissatisfied with your body?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, probably about three, four months ago. Um, yeah, just my clothes started fitting tighter, which wasn't as comfortable, and, um, yeah, just not really super happy with my appearance, which has never really been an issue, um, in my life up until now. I've usually been pretty okay with that, and then in the last three months, I just feel, um, like I've had a lot more of a negative outlook on it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. Okay, so it sounds like a sort of a vicious cycle and-and maybe the lacking physical activity has made you feel less confident in yourself. I wonder if that's also a piece of this puzzle since you mentioned that's been a big difference from what was happening in the past."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I think- I think the activity piece and then also to like, the foods that I'm eating, I don't think are that great. So that also kind of does the same thing, I think, to my appearance or the way that I viewed myself."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So you had a pretty strong self-confidence, pretty strong body image all the way up until a few months ago and, um, you're hoping to kind of get back to that place where you feel good about yourself."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Great."
+  }
+]

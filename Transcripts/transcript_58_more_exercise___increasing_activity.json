@@ -1,0 +1,406 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hi, Scott."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Hi."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hi. You were saying over the phone, uh, you want to talk about exercise?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, alright. Where would you like to start with that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I'm, uh, I-I used to work out pretty good. I-I would go to the gym several times a week. I had kind of a schedule, um\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That's really a lot. Very good."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, well, you know, it really-- At-at one time, I was running-- I ran a half marathon. I was really into it, and, uh--."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Wow."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, and I-- But I was working at a different company, where I had a little bit different schedule, a little more free time than I have now, so I just don't have the time like I used to."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And I-- And really, it's kind of an excuse, I guess, cause I-I could probably make the time, but it's-it's easier to just keep working or-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-just being in bed or whatever."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "But that goal of the half-marathon, you know, it's really important that you were willing to put all the time into getting ready for it, which, from what I've heard from other people, is almost like a job in and of itself."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I-it was. A-and it was huge for me cause I'd never really been a runner, you know, but it-it was very motivating, and-and\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What'd you like about it?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't know. I guess there's kind of an adrenaline rush to it. Kinda almost like, you know, uh, kind of a high, I guess."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So yeah-- That's-- I-I really enjoyed it. And I-I liked the feeling that I was doing something good for myself. I liked that, too. I-it kind of-- It so-- It gave me a little bit of self-esteem, I guess."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I-it a-almost, um, feels like you identified as being a runner, like an athlete?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I-I subscribed to the magazine a while."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Do you really?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I did."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "[unintelligible 00:01:40]"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I let-- I lit it on fire but I-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-I did burn for a time."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Got into the culture?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I got into the whole culture. I was-- I-I felt as good as I\u2019ve felt in many, many years. And now I\u2019ve kind of let that all slide, and-- Well, I had a foot injury, too, which kind of started the whole problem."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, alright. Cause it\u2019s tough, it's really, it is. I mean I\u2019ve, um, I\u2019m sure you\u2019ve been told before by whomever, uh, diagnosed your foot injury, but if not, let me know if it gets so tough on your body [unintelligible 00:02:10] let me know. So--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It-it is. And I-- it-it may be why I can\u2019t really run again, but I can certainly, you know, ride a stationary bike-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and do all the other things in a gym that you can do when you\u2019re not running, so, it just nakes you to [unintelligible 00:02:23]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, and yet and at the same time you know your body well enough, and you-you\u2019re willing to pay attention to your doctor\u2019s advice about the running, right now, for you, not the best thing. Um, so, riding a stationary bike. Um, what else do you like to do that's cardiovascular?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, well, um, I like-- The bike is pretty good. Uh, even the uh, you know, the kind of a rolling machine is okay. And the uh, the elliptical. Any of that\u2019s fine. I-I really don\u2019t, uh-- I don\u2019t dislike any of it. Kind of once you get into the rhythm, yeah, it\u2019s fine"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "If you were to pick one of those, which one do you enjoy the most, um, would be most likely to do?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Probably the elliptical."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "The elliptical. Okay. Yeah. [unintelligible 00:03:07] like kind of almost like running."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, it is."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "[chuckles]."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It is without any of the impact, so it is true."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. And-and what do you- do you-- Some folks, you know, [unintelligible 00:03:18] put on music, kind of- kind of."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I do headphones."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I got my headphones, and I got my, uh, kind of [unintelligible 00:03:24], if you know what I mean"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Get your rocking out, running on the elliptical playlist."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And, um, so you were-- You said that you\u2019ve been going several times a week, which is really an extraordinary number, I-I think it\u2019s four, five times a week?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I was going literally every other day, you know. And then, some days I would, you know, I\u2019d run, and I\u2019d go to the gym the next day, so I would-- I was very-- I don\u2019t really feel it necessary to get back to that level, but I need to do something cause I\u2019m doing nothing right now."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Nothing. Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I should-- Or next to nothing. I walk to the grocery store or whatever\u2019s handy when I have time, but yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So what ideas do you have about initially just getting started, and what-what would you do [unintelligible 00:04:13] ?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, if I could just get myself over there once, 'cause usually that\u2019s the hardest thing. It\u2019s just going there. So I think that's-- You know, I\u2019ve thought about it a little bit, I think I just need to make that first trip over there and just kind of to take it easy that first time. Just show up 'cause I think that\u2019s really what I need to do. I justt need to go over there."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What would help you do that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, knowing that my schedule isn\u2019t gonna be too crazy that day where I could spare an hour or so, and-and just go do it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And then I-- [unintelligible 00:04:41] kinda nice [unintelligible 00:4:42] gonna be troublesome."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "[unintelligible 00:04:45]?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I don\u2019t know. I think- I think the time has just been the biggest thing, you know, and-and I-I guess the motivation really hasn\u2019t been there. I mean, you know, it\u2019s not like- I don\u2019t really have a goal. I don\u2019t really have a, you know I don't, other than maybe reducing my waistline, you know, I don't really have a-a set number like I'm gonna run a marathon and you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know, so I think the just running off the playlist. I-I guess maybe if I made a goal would helped too."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm- mm-hmm. So that-that-that half marathon was, uh, a very specific concrete thing and you could envision yourself, and you're ready for it and the day of and all that kinda stuff."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Plus there's people who have done that countless times and you can go read what their-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-regimen was so you get feedback too. And then [unintelligible 00:05:37] did this from this day and so on."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So sometimes-- almost sounds like, um, your feedback would be, uh, useful to you. Like some immediate feedback in terms of like, um, like [inaudible 00:05:53]"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Maybe."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "[inaudible 00:05:55]"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That might not be be a bad idea. [inaudible 00:05:59]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "[inaudible 00:06:01]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-somebody there and, you know, hooking up with somebody."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I think that'd be great. I-I never have really found anybody that like to exercise with the pace that I wanted to. They were all either going way too fast or not even moving at all."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So it's kinda hard to meet up with somebody that can kind of maybe kind of give you a push [unintelligible 00:06:38]-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-might be a challenge."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "There might be something [unintelligible 00:06:43] because you're such a social guy. And so to be able to be exercising and be talking and enjoying yourself- you like the music too, right?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, that's right, well I-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And if you arrange to meet somebody there, you're very good at, uh, you know, uh, keeping the agreement."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay, that's a great idea I hadn't thought of that-that's- I hadn't really, uh, I-I kinda dismissed that early on, I hadn't really even considered that, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And in for right now it just be, you'll be happy with getting there one time."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "If I could get there-- I know if I could get there-- if I could pick, you know, uh, these are the days I'm going to go to the gym and I know these things last time."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So if I- if I could-- I mean, I wanna get there three times a week."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I wanna get there on Saturdays or Sundays and Tuesdays and Fridays, or something like that, then I could probably [unintelligible 00:07:34]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And days that you know of on your less rigorous schedule that you're more likely to succeed [unintelligible 00:07:40] I really like how you're picking like three days a week instead of some days a week."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right, yeah. Well, it's just not-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Very clear you understand the whole idea of giving yourself a day off in between."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh yeah, yeah, it doesn't do any good to just try to injure your- injure yourself especially when you're a bit normal like me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, yeah, I know that, yeah, yeah. Okay, so. So, um, so are you sure you wanna try to start out with the- that initial [unintelligible 00:08:07]"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You gotta get over there."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "When you find someone to go with, great, if not, you get your own [unintelligible 00:08:12] your own music and uh, I'll be- I'll be trying just to-to see um, what is like for you, having actually done that [unintelligible 00:08:20]"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Very good."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Thank you."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Thanks."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "All right, bye-bye."
+  }
+]

@@ -1,0 +1,238 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hi, are you Katie?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hi, my name is Beth. I'm the nurse that works with the nurse practitioner Mrs. Smith that you just saw. Do you have a moment to talk?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, sure. What's this about?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I know you were here to get a prescription for birth control but while you were waiting to see Mrs. Smith, you filled out a healthy habits questionnaire-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-and you answered some questions about your marijuana use. Would it be okay if I asked you some questions about how marijuana plays a role in your life?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Sure."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I notice you use marijuana regularly, and I wanted to ask you more about that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, you know they just decriminalized it in Virginia, it's not a big deal. I'm not in trouble, am I?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "No. No, no, no. Not at all. Um, I just wanted to ask you how it helps you and how you use it. Can you tell me a little more about how you use it?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's not a big deal. It's just like a couple times a week to relax."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Marijuana is really useful in your life in helping you relax?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I mean, I'm here on an academic scholarship so I have to keep my grades up and I'm on the debate team, so there's a lot going on."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm. You're a very successful student and you have a lot of responsibilities, and it's really adding to your stress."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, yeah. The truth is I'm the first in my family to go to college so I don't know, I guess, I'm in a bit over my head."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm. You've been very successful academically and the transition to college has been hard for you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I've always been an anxious person. Pot just helps me calm my nerves. I'm I in trouble?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I promise you, you're not in trouble, I wanna help."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh, tell me besides helping you relax, what are some positives about pot?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, some of these kids are just so much more sophisticated than me so I guess when I party with them, I feel like I'm fitting in. I don't know how else to explain it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm. Uh, when you use pot in a group you feel more at home with your peers and more accepted?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't know if I feel more accepted, more like I'm trying to fit in by using it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So how is it working to help you fit in?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'm not sure it is."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm. So smoking pot with your peers to try to fit in more but it doesn't seem to be making you feel more comfortable with your friends."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What are some downsides to smoking pot?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't know. I- It helps me relax but I guess I'm nervous I'll get caught. Um, my parents would kill me if they knew that I smoked."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So smoking pot doesn't help you feel more socially comfortable with your peers and it increases your stress because you're worried about your family and legal consequences?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Can you think of any other downsides to smoking pot?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I don't have the money for it. I just usually bum it off to my roommate, her parents give her a lot of spending money but I don't know, it's kind of embarrassing to have to do that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So smoking pot also reminds you of your financial situation and you don't have extra cash to spend on things?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Katie, it sounds like smoking pot is helping you somewhat in helping you relax and it's also causing you a lot of stress because you're trying to use it to fit in and that's not helping, you're worried about getting caught, you're worried about family disapproval. Having said all that, what do you think you wanna do about your pot use?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't know. When you put it that way, it doesn't sound like a very good habit."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Would it be okay if I made a suggestion?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You mentioned at the beginning of our conversation that you have a history of dealing with anxiety, have you ever talked to a counselor about that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No. We don't do that kind of thing in my family."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Can you tell me more?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's just not done. I don't know. It's something for crazy people and we definitely do not have the money for it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm. So the idea of counseling in your family is for crazy people only and it's looked down upon and the cost would cause a problem too?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I just don't see it happening."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Katie, we know that many kids come to college and have a lot of stress and deal with a lot of anxiety, and we've also found that when they talk to our counselors and learn specific skills about dealing with anxiety, they do much better. Um, and it's been really successful for a lot of kids. Um, I'm wondering if you think it might be helpful for you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Can you describe why you're hesitant?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I don't have the money for it so I can't pay for it and my parents wouldn't approve."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, the cost is free and the counseling services we provide, we are legally obligated to protect your privacy. We can't tell your parents. There are some exceptions to that privacy rule, including, uh, mostly if we're concerned about- that your safety."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "What, like suicidal?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Exactly."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, I would never do that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, uh, we can go into some more specifics if you decide to see the counselor about what-what privacy rules there are, but for the most part, you wouldn't need to worry about us sharing anything with your parents."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay. I guess I'll think about it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, uh, if-if you're walking out now, I can walk out with you and just take you around our counseling center. I can even introduce you to one of the counselors."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Do I have to go there?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "No. No, no. I just wanted to show you where it is and let- make sure you know about our resources here at the college."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay, sure. I agree, let's go."
+  }
+]

@@ -1,0 +1,238 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hi, Emily."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Hi."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It's been a while."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, it's been a while."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "This is something new."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, oh, yeah, the\u2014Yeah"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You got your lip pierced. How long ago did you get that done?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "About a month."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What made you decide to get-get a lip piercing?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I don't know. I just felt like something different. I was getting bored and, I don't know, it's kind of nice to stand out a bit, I guess."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, change."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, and it looks nice."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Thanks."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, I guess, you know, as your dentist, I have- I have a couple of concerns about lip piercings, oral piercings. I wonder what have you heard about how having an oral piercing can affect your-your teeth or your gums?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't actually, really. I-I mean, I'm sure that it might push on my gums or teeth, but I don't know how much it will impact that much. I've pretty good teeth. I don't know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't really know [unintelligible 00:01:04]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You do. you have beautiful teeth as I always tell you-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "[laughs] Thanks."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-every time you come in."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, I mean I have had some patients with oral piercings and they can erode some of the gum right, um, just right there at the front."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, so that's one-one thing, and the other is, um, I do see fair amount of chipped teeth-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-just from contact with it. I wonder what are your thoughts about that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I definitely don't want it mess with my teeth. I know I kinda already have low gums to begin with, like you've been telling me for a while, and I have to flo-floss, which I-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yes, flossing."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, which I'm not doing but, um, yeah, I guess, I don't really wanna wreck my teeth 'cause-- Yeah, I didn't really notice any of the chipping."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "There's nothing yet."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I guess I'm not paying attention to it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. There's certainly been-- There's no problems and you, as you said, only have had it for a short time."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, what would- what would make you decide, \"This is something that's not right for me?\""
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't know, I guess if I started to see that it was actually causing a problem, then I might."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "But for now-- I mean, I just got and-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and it looks pretty cool."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I guess that it does."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I kinda-- Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, it looks nice. So, you want to monitor it and-and-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-really watch-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-the effect? Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I guess if I really start to see a problem-- I mean, this might not last forever, but my teeth, I'm hoping-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-will kind of stick [unintelligible 00:02:30]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Emily, you said it so well it-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-the-the piercing might not last forever, but your teeth really are-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-hopefully forever. So, okay, well thanks for-for talking about it-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-with me, and also before I do the exam, you know, I'm always on your case about flossing, so maybe we can take [inaudible 00:02:46]-"
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hi, Mrs. Smith. I'm Denise. I'm the social worker here at the clinic work that's working with Dr. Fields and the rest of the team. And, um, I know you were here to see Dr. Fields today, and I-I just wanted to let you know, I usually work with people who are similar to- have situations similar to you, and that have gone back home from rehab. And, uh, so I'd like to find out a little bit if you would, if that's okay, about how it's been going since you got home."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Pretty good."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Um, I'm glad to be there."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. What are you really glad about?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, well, I'm glad to see my dog, he's very cute, and it just feels good to be home."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. And my garden is coming along, and my neighbors have stuff-- It's-it's good. It's good to be home."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I know, I-I understand that it was really-- That was your goal. That was a really important thing for you to be able to get home and it sounds like you've been able to really en- enjoy parts of it, and I know you've been going to the- both the physical therapy and the Tai Chi and how's-how's that going?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, um. I-I didn't get- go to physical therapy this week, and the- or Tai Chi, actually."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, I'm wondering if something happened that that led you not to go. You look a little, um, down."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Well, um. Actually, I-I had a little semi fall, I didn't fall down, I didn't fall down completely but I-I did-- I guess I still had the wobblies and I was hoping that the physical therapy and the Tai Chi would be- get me further along than it has, and I-I still don't have the balance. So, I'm thinking that maybe I was pushing too hard, that maybe I should cut back, you know, and kind of not try so hard to-to keep moving like that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm. So you've been working really hard-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-through this whole thing, you worked really hard to get home."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And you- you've continued to work really hard with both the physical therapy and the Tai Chi and taking care of your house and doing all those things."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And you had this fall or semi-fall, and you're feeling like maybe- maybe you were pushing too hard?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So I'm-I'm-I cut back, and I-I don't know if I should really even continue the Tai Chi because it's-it's very demanding."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, yeah. It's a lot of work."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, it's beautiful and-and- but, um, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What are you concerned about?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That I'll- that I'll fall again."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'll really fall and hurt myself, and this way, if I don't move around so much, there's less chance that I will."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, yeah, yeah. And- so you don't want to hurt yourself."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And what are- what are your concerns about-- It doesn't sound like you-you feel like you hurt yourself in this fall."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, I didn't- it was just more scary, and it was like a-a signal that maybe I'm doing too much."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. And, what are you concerned will happen if-if you get hurt or if something-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, yeah, if I- if I lose my balance and fall down, I could- anything, you know, really get hurt, and then-then I wouldn't be able to be home anymore, and that's not what I want. I want to stay home. So I want to do what I have to do to-to-to stay home."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And it feels like the only way that you can really stay safe and not fall is to not do anything to kind of just hunker down."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. [laughs] Yes, you've put it very well, hunker down-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Watch the TV and pet my dog. I-I, you know, not to that extreme, but yeah, I think- I think maybe, um, yeah, I was-was going- pushing too hard."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And I'm not sure about the Tai Chi anymore. I-I think the physical therapy, I can understand that, but I'm not so sure about the Tai Chi."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. So the physical therapy is can- you can kind of still see that it's helping you to build your strength, which-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-might have probably helped you break your fall this time."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right, right."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, I'm wondering what you remember about what-what Dr. Fields said about the Tai Chi in relationship to falls. Did she talk with you about that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "She did. Sh-- Yeah, that's right, that's right. She said that they did studies and that they found that it was really preventative. I think she's- I forget the-the percentage, but yeah, she was really enthusiastic and she does it herself."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. So you're feeling a little betrayed like it didn't-- \"Look, and I did this, I was doing my Tai Chi, and all of a sudden, I- here, look at this, I fall.\""
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That's a strong word, isn't it, \"betrayed\". Um, wow. A little, but-but I-I know, I know that it's true. I mean, my friend who does Tai Chi, she just- she loves it. Maybe it's just not for me, you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "But, um-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So you're just starting to question a little bit about whether or not it might be what is useful and, you know, it-it does really come down to what works for you and what-wh-what you decide will help you stay safe. And I'd like to work with you as I know Dr. Fields would, to-to help build a plan that will help you feel as safe as you can in your home-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-and to keep you there and to keep you feeling safe."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Wh-what do you think about that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Absolutely, that- because I don't- now I'm-I'm feeling-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-really a little frightened that what if- what if I fall down and-and-and nobody comes around and I'm lying there for two days, you know. I may have heard about that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So, um, 'cause I am alone."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So it really kinda strikes you that you're- that you're there alone and this could happen and--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What thoughts do you have about that? What have you heard that others have done, or what are- what are- what thoughts do you have?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, the-- I think that there's some things that could be done to-- I know people who live in-in residence, they have a cord they can pull, but how do they get to the cord? Um, is there any- anything else that I could do just to communicate if-if-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-if something does happen?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, yeah. I know what's worked for a lot of the-the folks that I've worked with is there's like- it's called a lifeline and they can wear it around their neck and it's hooked up and- so that if you need help, you can push the button."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I think I saw something like that on TV."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Is it- does it really work?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It does really work."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "'Cause you know that they sell so much stuff on TV, it's like you could- [crosstalk]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's crazy, it's crazy."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "No, it is something that there's a couple of different of, uh, you know, a couple of different products out there, but it-it does- it can really help, uh, and-and it kind of gives- might give you this sense of security that you have at your fingertips."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I guess so, feeling a little scared-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-you know, about that happening and-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So, yeah, it's probably a signal to-to make some-some changes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Like I don't wanna go back to the hospital, right? I really don't. Do I have to?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "We- we're gonna work with you to help you stay home as long as you possibly can and be safe."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So what do you think that will take, um, because you're the one that really knows how you're feeling about in the house and how you're feeling about your safety. What do you think? The lifeline is a possibility, that's something you can consider."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That I will definitely- I definitely wanna do that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I definitely wanna do that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. What else do you think it would take for you to feel safe?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I- maybe they-they-- When I first came home, they had somebody come and show me some things in-in the house, but maybe a refresher of that, and they told me that I should exercise and-and, um, I guess I could-- Maybe support, maybe I'm looking for-for maybe a buddy or something, some way that I could be reminded. I'm feeling a little, you know, I was moving along and things were feeling more positive, it's sort of like two steps forward and-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-one step back, but now it's to step forward and three steps back. [laughs]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So, um, is there, yeah, like a support somehow? My daughter is very good and she calls me, but you know, she-she lives in Seattle, she lives-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-far away."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So- and I don't wanna impose on my neighbors or my friends."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So you'd like to have a little bit more support-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-and a little bit more connection maybe that-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-that-that, um, that has to happen. Would you like some suggestions about that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, so one of the things that- that we also have here, we-we have- we can get some case- what they call case management services and that might be someone who comes in and checks with you at home and helps you figure out some of the things that might need to be done like you were talking about, give you a little refresher on safety at home-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-and, uh, and-and also might help you organize and connect up with other services that might be out there or do things, um, like that. I don't know. What it- how does that sound to you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, that would be good. Do you think I should try to go back to the Tai Chi?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yes. I was going to say the other thing that I would say- that I would consider because the senior center, and I know you were really active in the senior center before-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes, great place."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-and I'm wondering if you feel like there's support there. They have a lot of activities going on at the senior center that- and I- and I don't know what was in the Tai Chi included that might be- not only serve the purpose of the exercise but really help with some of that support."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I guess I've kind of gone to the extreme. I tend to do that. [chuckles] Yeah. So, keep moving?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. It sounds so crazy, doesn't it? Like the- it- when it feels like inside, what you're- what I'm hearing from you is that it feels like inside like moving is unsafe."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And-and yet, we know we can't make perfect safety, but we know that the more you move and the more active that you stay, the less likely it is that you're going to fall and the more safe you're going to be."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Really?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Can't prevent all of it-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-but we can make it less likely."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay. Okay. Okay. I-I'm willing to start again, so to speak."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. It's scary."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Takes a lot. Takes a lot. And you're the only one that'll- that can know what it is you're willing to work through that fear for."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I'm willing to work through my fears and difficulties to be in my little house with my little dog and my little garden. I've been there for- since my husband and I got married, and that's where we lived, and I don't want to give it up yet."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. And that's a strong enough motivator for you and gives you enough purpose that you're willing to like kind of push through that fear that even though it's there and that, that sense of-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-concern about being safe."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-I-I am. And I feel like I have some help."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Yeah. Well, we can definitely talk about it when you come in again like-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-again, and-and-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So, am I being a baby?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Not at all."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Not being a baby. This is a pretty normal- this is-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Really?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-very normal. Absolutely. It's an absolutely normal thing to feel that, and especially when you've suffered something that you have and suffered to it, the stroke and the trying to get rehabbed and trying to find a way to get back home and going through the wobblies, this is perfectly normal."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Really?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yes. And actually, you-you have really demonstrated to me anyway, a lot of strength and courage because you have continued to persevere and work through this and not everybody does. And you have found a way to get home and you seem really committed to staying home. So you-you've got a lot of strength there that you're working with."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Thank you. Thank you."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And we can work together to make sure that-- And-and Dr. Fields too, I know, is very interested in that. We can work together to do what we can to keep you there."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, and she- she's not going to throw me back into the hospital?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Not yet."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Not yet? [laughs] Okay. Yeah. I was sort of- I-I was sort of hesitant to tell you-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-about-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-this, but, um, uh, I'm sort of glad I did. I'm very glad I did."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I'm really glad you did too. I really appreciate it because that's the only way that we can work together-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "- to help you feel safer. And I hope you're going away home today feeling safer."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. So the-the caseworker is gonna be able to come and refresh-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-me?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "We'll get you hooked up."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And-and that's-- Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean, that alone, to know that I have communication that I w- that was my biggest fear that something-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-would happen and I wouldn't have any-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-any way to tell anybody."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Good. Well, you've got some good plans and we'll go check it out and make sure they happen."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. Thanks."
+  }
+]

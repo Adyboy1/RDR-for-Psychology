@@ -1,0 +1,1578 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hi, Mike. I'm Kathy. Appreciate you coming in today."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Hi, Kathy, nice to meet you."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I'm sure there's so many other places you'd rather be than here today talking with me, but, um, you're here, and, um, thank you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, I wanted to ask you first how you're doing physically. Um, I wanna make sure you're okay, if you feel okay. And, um, 'cause your-your safety is of, uh, most importance. So, if I could just ask you a couple of questions-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Sure."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-surrounding that, will that be okay?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Absolutely. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-um, we-we're-- You're here probably because of your speeding ticket. That's what I gathered."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I got a DUI, and I was speeding, uh, during the DUI, obviously."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh. Oh, okay. So, Um, around that, um, do you ever feel-- You feel bad or-or sick when you're-- Right now, is there something--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, I'm fine. Yeah"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Do you feel okay. Okay, good. I just wanted to make sure, um, uh, and, um, if the last time you-you drank was--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "The night of the-the DUI is the last time I drank."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh, yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And then, you know, um, I guess I'm here 'cause my lawyer wants me to go through an assessment-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sure."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-uh, with you, and, um, I'm really not sure what it means or anything like that, but, uh, he said I'm supposed to come here and, uh, just tell the truth, is what he told me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, okay. Well, I appreciate that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, and also, if there's any-any-any information that you need from me, please, um, feel free to ask. Um, that the reason that he asked you to come in was because of the blood alcohol level was 2.8."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, um, that was legally beyond the limit that you should be driving."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Is it bad, or is it high or?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, it's-it's high, uh, you know, they--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "For driving."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And so, um, the officer at the- at the scene, um, when you blew the 2.8, he-he did-- he-- There was a- there was a problem."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. He was, well, freaking out. He was--"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Was he freaking out? Yeah-yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I think he was getting a little over the top a little bit, but, you know, again, whatever."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right-right. So, um, I'll just ask you a couple of questions, um, if you don't mind about-about your drinking. And-and your-- So, um, you said the couple was two weeks ago was the last time you drank?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Okay. And, um, that night, what was it that you-you drank and, how much?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, my friend was having a, um- a get together as it was birthday party in, uh, downtown, and, uh, you know, it's not like it's a normal thing, but, uh, I did drink too much that night. You know, I just, uh-- And I used poor judgment. I shouldn't have driven that night."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. Yeah. Um, I was-- Maybe, you could tell me about how much you drank."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I don't really remember. I know, uh, I dunno, I probably had five or six drinks, I would think, something like that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. Five, six drinks, like?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, yeah, they were a little bigger than that. I don't really-- I wasn't really counting, so, I don't really know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, okay. So, I guests maybe five or six."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Five or six, something like that. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, yeah. And-and, w-what were the drinks, were?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, absolute vodka-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and seven off. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, okay. So, um, you said that it was pretty much just five or six. Do you-- How often do you use that? And you said it's not a-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-not a normal occasion for you to drink that much?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Normally I drink one or two, and that's kind of it, you know, this one I did, uh- you know, I did feel a little drunk when I was- you know, when I was drinking, I just, uh, used poor judgment. I really shouldn't have drove."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. Yeah. Um, so, you usually don't drink that much. Um, on an average, maybe a week, how much would you say you drink? Just--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, sometimes I drink, um, you know, maybe one or two, and then I- and then I won't drink for a while, you know. So, it's not really a-- There's not really a pattern-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-you know, it's not really like a uh- it's not a habit, you know,"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I-I don't know if I would consider myself alcoholic. You know, I just, uh, um, you know, again, it was poor judgment."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. So, it doesn't get in the way of your-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, no."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-every day."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Absolutely not. Mm-mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. Oh, that's good."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, um, looking back, Mike, uh, when was it that you started thinking that when you did use alcohol, um, most in your life?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, there was really not a time that I, uh-- I don't know. I-I don't understand the question really. I mean, it-- There really wasn't-- I don't really drink on a normal basis, so, I don't know-- [crosstalk]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, that is- that is a complete, uh-- A question that is even applicable?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That's fine."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That's fine. Okay. Um, so, what about the, uh- the first DUI, could you tell me a little bit about that? This was your second one?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And so, that's sort of why I was asking about it earlier in your life if that was a--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It seems like every time that I, uh, do drink more than a couple of drinks, I tend to get in trouble. And, the two times that I did, I got in trouble both times. [crosstalk]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It was those two times. Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, pretty much. I mean, it's-- It sounds strange, I know, but, uh--"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It sounds like bad luck."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Actually, that-that's followed me around pretty much my whole life, the bad luck thing."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "But the-the-the-the-the alcohol hasn't really at all."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "But just that bad luck?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Is there alcohol with the- with-- Goes hand in hand with the bad luck or just--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Sure seems like it. Yeah. It sure seems like that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Oh, okay. So-so, what about that? The-- Is there other incidences that you could think of that seems, uh, um, alcohol was there, and then your luck just sorta took a-a turn, or it was just those two times?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, you know, I don't really, um-- I-I don't really, uh, get into a situation where I-I-I drink too much. Um, you know, again, I-I realize it's my second DUI, but,, um, uh-uh, it isn't something that, um, is like a normal everyday process for me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, you know, normally when I drink, I drink one or two drinks and then I stop. Um, so, it's not like it's, um-- You know, it's not like it's something that has become a problem in my life, you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, good. Oh, good. And-and so, where do you usually, um, have your drinks? Is it at home or, uh, out-out for, uh- after work, social drinking?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, it's normally social."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. It's normally social. It would be, you know, maybe in events or something like that is normally when I would, um, maybe drink more than one or two."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I guess I should probably just call a taxi cab or something, you know. That way, I wouldn't have this problem."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Would that help?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, probably, I think that would help. I think that would be something that I should, uh- I should work on."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, it sounds like you've already been thinking about, uh, ways to-to get around safely."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Yeah, or I can just stay home probably too. If I was gonna drink, I could probably stay home, then I wouldn't get in trouble either."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You have been giving this a lot of thought."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, a little bit."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, good."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, obviously, because I just don't-- You know, I don't like getting in trouble, and I don't, uh--"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Trouble's not fun."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "No."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. So, tell-tell me a little bit more about, um, when you fi-- If you'd find yourself, and then that-that thought comes about maybe doing something other than getting in the- in the car, does that come and go, or-or is it something that you think you-- Next time you might do?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, oh, I'll never get in the car when I'm drinking again. That-- Yeah. I-I would never do that again."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "This, it-- What-what-what was different?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, I don't want to lose my license, you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't, uh, you know, I don't wanna lose my license."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Wow. You-you need your license-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-to get around. You need your license for work."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, and then I-I sell cars for a living too, so--"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-um, you know, that would be, um-- You know, I don't wanna lose my job either. You know, I think those would kind of be connected together."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And, you know, I-- You're not gonna call my work or anything for this, are you?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "No."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "No, no. That's--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "All right."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That would be entirely up to you, um, to-to have that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay. I just didn't know how that worked."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, no."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Because I think if they found out, I might, you know, be in jeopardy with my job. So--"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, you're here. And-and-and I have you give, uh-uh, credit for that. It took a lot to come in today and, um, when, um- when somebody is actually talking safety for themselves, which I-I hear you saying, um, calling a taxi or-or staying home."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, what does staying home look like for you? Is that something that-- You know, you-you talked about drinking at an event. Would staying home be--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, you know, the Super Bowl is coming up, and that might be an opportunity where, you know, I might-- I could see myself maybe drinking that day, you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So, maybe I would just, uh-- I think I'll just have people come over to my house instead of going somewhere else, you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That would work for you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I think so, and probably a smarter thing to do. I don't wanna go through this again, you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh, so, uh, would people come and drink at your house, and then they would be fine with that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I think so."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Sure."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, an event at your house."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "There you go."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, good. That sounds good. Mike, has there even been, if any, um, a time in your life when you've thought about, um, not drinking at all?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "For my first DUI, I did, uh-- I didn't drink at all for about six months. And, um, I-I-I just didn't think that, um, I really had a problem with it, so, you know, I-I did start drinking again. But, you know, again, it wasn't uh-- You know, it was a little different last time, because I was drinking a little more last time than, you know, now. I don't really drink as-as much as I used to drink, you know, um, and, you know, after you know, I quit for six months, so I kind of knew that I didn't really have a problem."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. Six months. That's a long time."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What were those six months like for you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I know it was kind of strange. My friends didn't really hang out with me too much. Um--"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Friends?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. You know, I, uh."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Whi-which? If you don't mind me asking, which friends were those? I don't mean to get too personal, but, the friends that normally drank with you or just your-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, my friends."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-social circles. Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Just my social circle, I guess, uh--"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Wha-wha-what do you think made-made them n-not hang out with you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Probably 'cause I didn't- I wasn't drinking with them, I guess. I don't really know. I mean, it seemed, uh--"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Did you ask them?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, no. I really couldn't because my girlfriend really wouldn't let me hang with them. You know? I mean, it was, uh-- She said that if I, you know, kept hanging out with them guys, that she wasn't gonna be with me anymore. And I just thought that it was better for me to, you know, calm down for a little bit and, uh, maybe things would get better with us, you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And your girlfriend's important to you-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Sure."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-and that relationship was important to you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, it was until she left, you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "At the time it was important, yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Is it-- Why'd she leave?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, she left when I started drinking again."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, after the six months."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "After the six months, she, uh-- You know, it's kinda, I dunno, she just said that it wasn't gonna work out, and, uh, she decided not to continue with the relationship."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, okay. So-so, um, you started drinking again, and then she left?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, it was about the same time. I really don't know which came first. It was about the same time. Uh, we were getting in a lot of arguments. I just didn't quite feel myself. You know, I-I-I wasn't-- My friends weren't around. I, uh-- You know, I missed going out with them."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You felt isolated?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. It was kind of weird 'cause I felt like she was trying to control me, and, uh- and uh, you know, I, uh-- And she was telling me what to do all the time, and I just, uh, didn't feel right about the whole situation. So, it was pretty much, we both decided, you know, that it just wasn't the right thing to do, so."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And, so you're-you're an independent guy-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Sure."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-and, no one's going to tell you what to do."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I guess. Sure. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. So, have, uh-- So then, you started drinking again, and that was-- If you could just kind of give me a little timeframe of how long ago that was, that-that six months of complete--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "[clear throat] Well, let's see. The first one was, uh, three years ago, and then, um, this one was a few weeks ago, so, um, it's been a few years, you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Absolutely. Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. It's been a few years"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, in-in what ways has, uh, drinking, um, sort of, uh-- What is kind of the good things about drinking since those couple of- those couple of years, and then-then maybe not so good things?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't really know that I can really compare good or bad. I just, uh-- You know, I just drink to be social, you know, I don't know that it really changes anything about me. It just, uh-- You know, I just drink to be social, you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. And those friends that were not hanging around with you, did they come back?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, absolutely. Yeah. As soon as my girlfriend left, I could go out with them again, you know. [laughter]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Did they not get along with your girlfriend?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, she didn't want me going out with them."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "She thought that they really--"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "She was separate then from your other friends and-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-those relationships just didn't come together?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "She blamed the first DUI on them. She said, you know, because I was out with them, that it was pretty much, you know, they-they made me drink too much that night."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And what do you think?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I think she was right on that. Yeah, absolutely."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, you-you--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean, if they wouldn't have gave me those shots, you know, towards the end of the night, I would've been all right. You know, I could have drove, and I wouldn't have, uh- I wouldn't have hit that mailbox."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You would have been fine if they didn't- if they didn't give you those-those shots. Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, so, the-the-the mailbox, where did that come in? That was the-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That was--"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-first DUI that got you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I was on-- It was like I was a couple of blocks away from the house and I, uh, rolled up on the neighbor's lawn and I took out their mailbox."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That must have been scary."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't really remember too much of that night."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, that was blackout type?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, I don't know if I was blacked out, but I just don't remember a lot of it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I wouldn't really call it a blackout. I just don't really-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-remember how that happened."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I'm-I'm sorry. I didn't mean to assume that-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-it was blackout that-- Forgive me for that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Yeah. It's all right."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, so, that it was sort of after that that the girlfriend-- Your girlfriend, I don't know, well, her name. Um, your girlfriend decided-- The mailbox and she's--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, Mary-Mary, just [crosstalk] Well, after-after I got the-the-- After I hit the mailbox-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-um, I stopped drinking for, you know, like about six months, and, uh, you know, and we were trying to work things out, but it just didn't-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-it just didn't work."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I think she became a little too possessive at that point."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. You felt like she was the only person that, um, you had in your life, you needed your friends and--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I think she just wanted to control me and I was tired of being controlled."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "No one likes to be controlled, uh, yeah. Yeah. Uh, and, in what ways, well, did you feel that, um, uh, at any time, did you feel controlled by your friends. You said they-they made you drink those shots. That-that sounded like maybe you felt a little controlled? But-- [crosstalk]"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, I was-- They just-- No, they weren't- they weren't really controlling me. They just-- They shouldn't have given me the last couple shots, 'cause you, they-they knew I was pretty, you know, uh, messed up before that. So-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-you know, that when they- when they-- You know, when they gave me the last, you know, couple shots, that kind of put me over the edge."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right, they weren't looking out for your best interest at that point."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Pretty much, pretty much."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And then sent you out in your car."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I mean I guess it was my decision to take the, uh- you know, the other shots, but I-I just-- I don't know. I really don't really remember too much."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It's a hindsight again."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. You can blame hindsight a little bit. I mean, that works for me. [laughter]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hindsight? Oh, yeah, they'll-- it'll take the- it'll take the blame. Um, so, you still-- Do you still, uh, you know, you started drinking again, and then, um, the second DUI, what-- Is it the same circle of social-social circle, same friends?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. [crosstalk]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Same type of situation. [crosstalk]"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean, they've been my friends since, you know, uh, since high school."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, they're important to you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, absolutely."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. Yeah. And-and sometimes, um, people have friends who are friends, but then there's friends who would stay on in our lives and are constant. So, these would be your constant core--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Sure, absolutely."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Have you ever had, um, uh, interest outside, um, the social drinking, the friends, um, like, what do you do when you're not with them?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, well, like I'll do stuff around the house, you know, uh, cut the grass and stop, do yard work, other than that, um, I don't know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. And any other relationship, if you don't mind me asking-- [crosstalk]"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, no, I'm single now, so, you know, I don't really, uh-- [crosstalk]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "How's that going?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's all right, you know, I date a little bit but, uh, you know, I just don't wanna get serious right now."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh what-- So, what does serious look like? Um--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I just don't want to date someone in a regular basis. I don't really feel like I want to be in a committed relationship."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. That's all right, yeah. That's good. It sounds like you know yourself pretty well."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Sure, absolutely."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Right. So, um, now that we-we are looking at, um, your second DUI and, um-- Well, so now, Mike, if you don't mind me asking, what would you do differently, um-um, from here on now?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I think I would like really think about--"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Since the co- the court sent you and we have to sort of explore what would happen if you went out and did this again."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Well, I mean I-I, uh- I, uh- I wouldn't drink as much, and if I- if I did, I would call, uh, a taxi or, um, you know, get some kind of a ride home, I think, 'cause, uh, you know, I just, uh-- I-I just don't wanna get in trouble, you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Is there somebody that you could call?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, I don't really think about that. I guess I would have to think about that, because if I was gonna go out and drink, I would have to think about that. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I guess I could call it taxi cab or something, I don't know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "They'll come."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I think that will be something."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. They'll come. As long as you got the money, they'll come and get you. Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I think maybe if I take some money, I'll put it like in my wallet-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and I'll like put it in there for emergency, and that way, I'll have money. In case I get drunk, I can just call a cab, and I'll use that money to get home."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, so, when you use your-your bar money, it would be somewhere else?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "What's that?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Your bar money would be somewhere else, not in your wallet?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Probably in my front pocket, I guess."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "There you go. Okay, yeah. So, that, y-yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That makes- that makes a lot of sense. So then you'd have your money tucked away someplace different."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Well, if I put, uh- if I put it away, then I wouldn't spend it though, you know, [unintelligible 00:18:48] have it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "There-there would be a plan that I would have to-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sounds like a good plan."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-to get home. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. So, uh, how often do you think you'll be needing that plan in the--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It'd probably be my wallet for a while, I would think, 'cause I-- Like I said, I don't really think I have a problem with, uh- with the drinking, you know. I just-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-think that, you know, it was an isolated incident."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And-and I, uh-- You know, I just, uh--"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And then-- Yeah, and then also you said if you're going to have people, uh, you're gonna be drinking for the Super Bowl. Was is it Super Bowl?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I'm sorry, I'm not a football fan but it's Super Bowl coming up, right?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, well, you gotta have some people over at the Super Bowl, you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, you'd have them in and, um, I'm just curious about the folks who are leaving your house, would they-- Would-would you be concerned about them, there'll be a taxi. Sometimes designated drivers I--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't really hang out with people that really drink a lot though. I mean, they're-they're not like-- I wouldn't call them drunks, so, I mean, they can, you know, they can handle their-- [crosstalk]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, it would be up to them?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Sure, I would think, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It sounds like you have-- You've thought about this, and you're-you're willing to put some things in place, the-the wallet, um, money in the wallet and-and for the taxi-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Have folks in to-to socialize for an event, and that you still have your-your social-- Your friends and your core group and-and, uh, just be careful. What was the six months of not drinking like for you? If you were to choose to not drink."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know, it was a- it was, uh- it was pretty good. I just didn't feel like I had my friends around, and-and it just-- It seemed kinda boring. I mean, I felt good physically and, uh, you know, I, uh- I was more on time to work, I was doing really good at work and so forth, um, but, you know, it just, um-- The hard part for me was I just, uh- I just didn't have any friends around. I just kinda-- I felt isolated. I just didn't- I just didn't feel comfortable, you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Six months is a- is a long time. There was, um-- Try to think back, were there- were there other people? Was it- was it just you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, my-my girl- my girlfriend and I were trying to work it out. But it just seemed like we were arguing all the time, you know. It just didn't seem like-- You know what I mean? Like the not-drinking part was good, but it just didn't seem like anything else had changed."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So-so, if you were not to-- If you were to go with the plan of maybe not drinking, which you mentioned-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-um, uh, your girlfriend Mary is-is not a part of your life-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-right now."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and I really don't see that working out really well."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Would there be something else that would, um, sort of, uh, fill in that-- The-the friends area, do you think?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I don't know. I mean, it's a-- I mean, my friends drink though. So, it's kinda hard to- it's kinda hard to, you know, to be with them, and then-- When I'm not drinking, 'cause it's-- I just don't feel like I fit in, you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "But, yeah, I-I see what-what you're saying, for sure. Um, there-there's those friends that they drink but they don't drink that much, I heard you saying."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, they don't drink that much, but they-they seem to-- You know, like they do drink though, you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm. Sure."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean, it's just beer. You know-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-it's not like they're drinking whiskey or anything like that. It's--"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. So--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know, but, they'll drink beer, and it's just-- You know, for me, I don't know. Sometimes, uh, I don't-- You know, I have an intention to have a couple of drinks and maybe I'll have, you know, more than a couple, you know-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and then I don't know what really makes a-a legal limit. So, I think I can drink what? Like two or three drinks an hour, is that what it is?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, it's one drink per hour."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "One drink per hour, okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'll have to remember that. [laughing]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Or one shot or-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, One shot."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-one glass of wine or one beer."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Just one though?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That's it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Uh, the, uh- the idea of, um, having the friends and not drinking, is that something that i-- Would be even, uh, a reality?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I guess. I-I think I probably know a couple of friends that don't drink and I don't really, uh, probably--"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Then, who are- who-who-who are they?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'd have to really think about it. I don't really have too many good friends. You know, I have some acquaintances that don't drink but-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Would it--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-pretty much everyone I know like drinks."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, so wha-what would-- What do you think it would do to the relationship of you not drinking but still being with the-these folks-- These friends?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I, uh--"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Would-would it work out and--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't know. Just, it's weird, I-I think that, you know, kinda when I go there, you know, and-and hang with them at all, it's, uh-- You know, we- you know-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It's uncomfortable."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Yeah, exactly."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What makes it uncomfortable?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, 'cause they're drinking and then- and if I'm drinking soda, they kind of mess with me a little bit."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "How-- So, messing with you would be like what?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, they just mess with me until I get-- You know, until I drink a beer with them, you know. So--"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, and-and-- Oh, I see, yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know, I mean, just-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, like sort of-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-they're just kinda like egging me on, I don't know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, yeah, yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know, I really don't feel like being an outcast, you know what I mean, they're my friends, you know. I--"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right, so you make--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I've been with them since, you know, like high school. So, I can't."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm, and-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "They mean a lot to me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-it's [unintelligible 00:24:05]. I-I-I know that you, um- you value friendship and-and friendship is very important, uh, and, I'm just wondering how important, um, it would be for, uh, you to remain friends with them and still have your-your sobriety."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I guess maybe it would probably be not a bad idea to not hang with them for a little bit, I guess. You know, I mean, I-I-I-- Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And see what happens."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, sure. I gu- I think that would be something I could probably try."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah-yeah, how important would it- would it be? Zero being not so important and 10 being pretty important that you--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, if I need to get my license back, I think it would be pretty important for me to stop hanging around with them for a while, you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. Okay. [unintelligible 00:24:52] something you'd be willing to try. Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, absolutely."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It sounds-- That sounds good."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, maybe that's something that we could talk about next time if you- if you want to."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I think that would be a good idea. Uh, is this gonna help like get my license back, like, at this-- Like, the-the plans that I've made, is that gonna really help me like--"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, I sure-sure would, um, tell the-the people who-who need to know-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay, good."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-about the plans that you're striving for. Um, that I-- There would be, um, uh, someone to read this assessment-Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-and then, um- and then it would be up to you mostly. The choice is-is completely yours. And, um, it sounds like to me that there's no reason why you wouldn't be able to do this. You've given it a lot of thought, and you have some plans in place, and anything else that you might come up with, uh, to help you stay out of the driver's seat when you've been drinking."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, probably just not really drink as much. I mean, if I just didn't drink, I wouldn't have to really worry about that too much either."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Then you wouldn't have to worry."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, because worry's no fun."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. This is true. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. Well, thank you Mike. I appreciate this."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay. Thank you."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Thank you."
+  }
+]

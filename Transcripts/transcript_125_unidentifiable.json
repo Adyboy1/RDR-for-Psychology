@@ -1,0 +1,30 @@
+[
+  {
+    "interlocutor": "client",
+    "utterance_text": "The baby was up all night and I'm exhausted."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, what you're saying is you've had a rough night?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes. She was up every three hours to eat, I don't understand it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, she needed to eat every three hours last night and that was really frustrating for you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes. My mom told me that I started sleeping through the night when I was a month old, Lilly is six weeks."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm. So, based on what your mom told you, you were expecting Lilly at this point to be sleeping through the night?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, what is normal for a baby this age?"
+  }
+]

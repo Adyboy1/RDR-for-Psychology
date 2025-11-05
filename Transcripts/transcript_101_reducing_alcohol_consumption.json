@@ -1,0 +1,258 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, Jill, um, I know you're here to talk about your blood pressure today."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, before we get into that, I see you filled out our annual screening forms here. So if-if you're okay, can we take a minute to talk about that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Sure."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, great. It looks like, um, the way you filled out the alcohol form puts you into our, uh, third zone of drinking. Can you- can you tell me a little bit about your drinking habits, where you drink, what do you like to drink?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I drink wine-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-mostly. Um, I go down to the little pub down the street."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Have a few glasses of wine."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Kind of socializing?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. How often do you do that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Hmm, for four times a week probably."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. And on a regular night, how much do you-- how many glasses of wine would you guess you drink?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Three to four, five."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Maybe if it's on a weekend, maybe six."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Over a long-- over a period of time."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. Okay. So let me just show you on this, um, card here, um, from a medical perspective, we know that there's good evidence that shows that women you're age who drink more than, um, three drinks on any one occasion at any- at any sitting or more than seven in a week, are likely to run into health problems from their drinking, either problems they're having right now or maybe in the future."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Are you serious?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Surprised, ain't you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Seven drinks in a week doesn't seem like that much?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It sounds like you're drinking a bit more than that right now."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, and I-I didn't think it was much, but that makes it look like I'm drinking way too much."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. From this, uh, drinker's pyramid over on this side of the card, you can see that the-the score on your screening sheet shows that you're up in the harmful category of drinkers. So that it's likely you're drinking, you know, in quantities probably more than about 90% of the folks who come in to see me here at the clinic."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I know my drinking has increased a little since I got divorced and moved to Portland, but I-I don't think it's that much of a problem."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It doesn't feel like a problem to you right now, yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, not really."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, okay. And then the other thing I should mention, Jill, um, drinking more than these quantities, it's-it's possible it could be pushing your blood pressure up a bit, and I'm wondering if that might be affecting the difficulty we're having getting your blood pressure down right now."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I didn't realize that drinking had anything to do with blood pressure."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. Yeah, it can sometimes."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, well. Well, then I guess that could be a problem."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "My perspective as a doctor, it would be good if you could think about cutting back a little bit or doing something different about your drinking. What-what do you think about that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I guess I can cut down some."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So on a scale of 0 to 10, 0 being not ready at all to do that and 10 being very ready, where would you lie on that scale?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'd probably a 6."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Okay, so that sounds-- I think that's great. So why would you be up at a six and not down at a two level? What kinds of thing would push you to be there?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I didn't realize that drinking was related to my blood pressure problems."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And I did fall earlier this year on my home from the bar and hurt my shoulder. I don't think the drinking made me fall, but it probably didn't help the situation."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And though my son keeps telling me that I'm drinking too much, and it's scary to think that my drinking is harmful. It's a big word."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Yeah. So you've got some good reasons to try to cut back a little bit."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Sounds like it to me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. And it sounds like you're willing to maybe try not going to the bar quite as much and maybe drinking a little bit less when you go to the bar."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I think I can try to do that, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So to what levels do you think you could do that? Where-where would you wanna go with your drinking?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I guess I could use those numbers, and I can't make any promises, but I could try to drink less than three in a night and less than seven in a week."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That mean I can only drink two or three times a week."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. So you'd drink maybe just a couple of times a week and maybe a little bit less on each occasion? Is that what you're saying?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Like I can try that, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't think I need to quit, but I think I can try to cut down."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And you think you're-you're able to cut down to those levels of no more than seven a week?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That's what I'll shoot for."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. I think that sounds like a great step for you as your doctor. Why don't we revisit this the next time you come in to talk about your blood pressure in about six weeks or so and, um, then we can see how you're doing with it."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Sounds good."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, let's get back to your blood pressure then and see what we need to do about that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, I'm glad we figured that out and I think you'll feel better over the next few days."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, thanks so much doctor. I'll just take it easy for a couple of days."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, since I have you here and we still have a few minutes left, I'd like to bring up another topic. I noticed that your blood pressure and your weight have been climbing a bit over the past few years. We haven't really had time to talk about this much before and I may be able to offer some useful strategies. Would it be okay if we discussed weight and health for a few minutes?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I suppose. I know my weight is a problem, but every time I try to take it off, I end up gaining it back. I don't know what to do."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I know how you feel. Managing weight can be frustrating. Maybe we can just start trying to figure it out together and I'll be here to help you through the challenges."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay, thank you doctor, but I'm just concerned about how I can possibly lose weight now since work is so busy and the kids take up so much of my time."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, that's certainly understandable. We both know that there's a lot that plays into weight management, but there's no need to figure it all out today, especially since things are so busy for you right now. Maybe we could put our heads together and think about something small that fits reasonably into your life and then we can take further steps when you're ready."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay, that sounds great. So, what should I do?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, let's see. One of the things that's involved in managing weight and health is being active. Physical activity benefits the whole body. It's healthy for our joints, our stress levels, and especially for weight management. Perhaps we could talk about some ways of adding activity that fit into your life."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I knew you were gonna say that, but I don't have time in my schedule. I can't afford to take an hour to go to the gym every day."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, I understand that. I don't have an hour to go to the gym every day either, but one of the great things about physical activity is that any amount in any type of activity can be very helpful. For example, let's think about some activities that you enjoy doing."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I like to walk."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Me too. Walking is great exercise."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Wait a minute, isn't walking too mild to help you lose weight, though?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Actually, even just a few minutes of walking is really healthy and worthwhile, and then when you have time to do even more, that's great. Walking is also great because you can do it anywhere, it doesn't need to be at the gym."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, wow, that sounds good. You know what? Come to think of it, I have some time before I have to go back to work and I saw a nice park on the way over here, maybe I can take a short walk after this appointment."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That sounds great."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And you know what? I used to really love to dance, but I haven't done that in such a long time."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, dancing is a great exercise, especially because it's fun."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Hmm. And I know my family would support me if I could just find some place where I can go dancing."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, that's great to hear that your family is so supportive. And I bet there's a dance class somewhere around where you live or maybe even a dance fitness class at the gym."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, and you know what? I really like to try that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Would you like to do some research on this and give it a shot?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Actually, I really would. I'm kind of excited about it. What else you got?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, small steps can go a long way. So, even things like taking the stairs instead of the elevator every once in a while or parking just a bit further from the door when you go to a store can be ways to increase movement in your day."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm. I can do that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "How about we start there and let's plan to follow up in a few weeks so we can see how it's going and then maybe talk about some other strategies that might help."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Diet, the D word."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Not necessarily. What we eat is certainly important for weight and health, but just like we did today, we can talk about some small steps that can fit into your life, and especially ones that you feel good about."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I like that. Okay, I'll make an appointment and I'll start dancing right away, doc."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That's great. I'll see you soon"
+  }
+]

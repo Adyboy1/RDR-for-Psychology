@@ -1,0 +1,366 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Good morning. It's really nice that you've come along to see me to talk about stopping smoking."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Good morning."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What have you got in mind, what do you want from us?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I need some medication if you can offer me some."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Absolutely, we're in the right place for that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And, uh, whatever else you can do just to get me to go smoke-free."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Well, just remind me again why it is you want to stop."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's, uh, just these days-- I think these days I'm-I'm finding that, um, I'm smoking 20, 30 a day, I'm getting sick of it. It's, you know, I've seen my friends have stopped smoking too and it's kind of they're looking at me weird these days like I'm the only one left who's still smoking."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, good, and so feeling under pressure here."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Especially the other night I was at the restaurant, it was a bit-- you know, it was a bit embarrassing I'm the only one walk walking out."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And so that-that can't feel a little uncomfortable being by yourself. So that sounds like one of the reasons you have to quit is it's a little getting smelly and it's getting embarrassing."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Any other reasons?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, it's expensive these days."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "How much does it actually cost you a week?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's-it's about-- Um, I'll buy and go through a pack a day, so it's almost \u00a37."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "\u00a37 a week or a day?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "\u00a37 a day today, so-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So your pack a day\u2014"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-you're talking about \u00a340, uh\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "\u00a350 a week."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "\u00a350 a week."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Even more mess, you see."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So we're talking about spending \u00a350 a week-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-being one of the few left smoking in your crowd, and not liking the smell. That sounds like three reasons."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Do you think that's enough to make you say goodbye to cigarettes?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Great, okay. So have you got a date in mind when you'd like to stop smoking?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, what you do-- What do you suggest?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Generally, it works well if you find a time when you're not under a huge amount of other stresses and strains."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What are the main reasons why you actually smoke? What do you enjoy most about it?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, it's just entertainment. Something, um, when I bored, it's got-- I've got-- I smoke-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-or sometimes I go out, but as I said, I'm the only one kind of outside."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. What do you think you'll miss most about it?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "The-- Um, it takes away a lot of my stresses."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm, what sort of stresses?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Just, uh, when I- when I go down, uh, for-for a break at work."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I never go down, I just need a break away from it all, just shut off. So, uh, I-I really enjoyed that. The cigarette just helps me calm down."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. And what is your favorite cigarette of the day?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's definitely the one at the end of the evening."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so the end of the day-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-the thing that helps you just unwind, put an end to the work section and move into your own time."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So after you've had the quit date, what do you think you might do when it it's the first day at work and it's time to go home if you're not gonna have a cigarette?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I guess, um, I'll just- I'll just have, you know, some fresh air as well, but this time without a cigarette in my hand but to try and give myself regular breaks maybe, I don't know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's one of those tough things."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Have you managed to stop smoking in the past?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I've managed for a couple of weeks."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. And what got you back?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It was, um-- To be honest, it was stress from an argument with my partner I remember."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So something just happened-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-so it took you back into it. All right. Let me just make sure I've understood what's going on here. You really want to stop smoking because you're kind of the last guy in your group still smoking, it costs a lot of money, and you don't really like the smell."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "The main reason that you smoke is because, at the end of the day, it gives you a kind of relaxation, and if there's quite a little stress that's going on which you're using cigarettes to help you cope with."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What you'd like to do is stop and you'd like to sort of like choose a time to quit when it's going to be there's not as much stress around as possible. When do you think would be a good time for you to choose to be your quit date?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I guess, um, at the weekend I've got a party coming up."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So, uh, maybe Monday morning."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So Monday morning after the party will be a good day, and that's next week. Okay. Now, one of the things that we do in the pharmacy is recommend that you use medication to help you. You know this increases your chance of success and it makes it more likely that can manage any cravings that come along. A lot of people like using nicotine replacement therapy which comes in a variety of formats like patches, gum, you've probably seen people using any of these products. And other options are tablets which you can get from the GP."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, yeah, again-- Um, so have you something in mind that you might like to use to help you through managing the cravings?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I'm thinking, um, one of these patches."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So a patch is something you've already seen, and-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-and, again, I'll get some out and I'll show you what they look like. This course of medication lasts for 10 to 12 weeks. And we strongly recommend that people stay on the whole course of medication and that that gives you the best chance of success. Stopping smoking is not easy but it's possible and with the type of support that we offer here in the pharmacy, you absolutely make your chance of success four times greater than trying on your own, so, that's why it's really good that you've come to see me. Now, what you said is you really want to do it and that next week sounds like a good day for you to start because the party is over and done with."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You've got the time at the end of the day when you finish work, which might be the first time you've gone without a cigarette. So, what I'd like to recommend is that you use two products perhaps and I'm thinking of you're having a patch and then suggesting that you might use something that you can top up with. Often, a person who smokes knows exactly what it feels like when they're craving for a cigarette. What does it feel like to you, when you can't have a cigarette and you want one?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I just get irritable."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And that's exactly one of the symptoms of nicotine withdrawal that I'm looking to stop happening to you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, I would strongly recommend that you have the patch. I'll talk to you about how to use that and that we have another product that I leave you to use as when any of those feelings of irritation are coming up, particularly in that first week."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, you're happy with the date for [unintelligible 00:06:16]?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, absolutely."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay and would you like to come back and see me again?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, definitely."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And what would you like me to do if you don't come back?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "A nice phone call."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I'd be very happy to do that."
+  }
+]

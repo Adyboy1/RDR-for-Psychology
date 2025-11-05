@@ -1,0 +1,694 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hey, hi, Andrea. Thanks for coming in today. So I don't know how much you've been told about why you're here, but basically, it's my job just to meet with all the students. I usually meet with you once or twice a semester. And I'm going to be talking to you kind of about your life and your goals and some behaviors that you might engage in and just the sorts of things like that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So why don't you start by telling me a little bit about yourself?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, well, my name is Andrea, as you know, I'm, uh, in the marching band. I play the tenor sax."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I'm involved in music. So I'm also in the jazz band, the wind ensemble, and um, yeah, that's about\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'm an IB student."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. How long ago did you start playing saxophone?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, saxophone. I started about four years ago, but I've been involved in music for about 10 years now, so."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Wow. That's a long time. What other instruments?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I started off on the violin first."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "No kidding."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So I played that for like six years, once a clarinet, dabbled here and there with different things. And then I found the one- the one for me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That's awesome. And you play tenor sax?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, the tenor sax."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Wow. And how long have you been in marching band?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Marching band since freshman year. So like three years."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Couple of years. Great. And how do you like Marching Band?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's fun. It's a- it's a lot of work, long summers taught, but it's fun."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What are your favorite parts about it?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, I really like the-the group setting."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know, getting to work with my other classmates and things like that. And putting on this entire show-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-it's very exciting, very exhilarating once you're in competition."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's very cool."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Cool. And do you have a lot of friends who are in band with you or-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-friends outside of band or?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I have, um, you know, I have two-two separate groups. I have my friends from class and then my friends from bra-- from band."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Great. And then, um, tell me a little bit about your family?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, well I have one brother he's older than me, about nine years older than me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, wow."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And, uh, my parents and my dog. [laughs]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. What kind of dog do you have?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "He's a golden retriever."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, nice."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Charlie."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Charlie."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "He's a big boy. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, cute. Have you had him a long time?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. He's about eight years old now."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh gosh. Yeah. Okay. Very cool. And what are your plans for after high school?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, well, I'm planning on going to school. I'd like to become a doctor one day, so."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Wow."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'm interested in psychology, psychiatry, something like that, so."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You've got big dreams."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Cool. All right. Have you started thinking about schools or majors? I guess you're thinking about psychology as a major."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, psychology, I haven't really thought too about which school, I mean, I-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Everyone wants to shoot for the Ivy leagues, so [chuckles]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. And how about your grades?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, they're pretty good, you know, high three-point somethings."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Good. Very good. All right. Well, what are the kinds of things do you do for fun on weekends?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, I usually go out with my friends. Uh, we'll go to the movies or we'll most likely we'll just meet up at someone's house-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and just hang out and things."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. When you're hanging out, is there ever alcohol?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Sometimes, [chuckles] I'm gonna be honest sometimes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh So how often do you think you drink alcohol?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, depending on how much schoolwork there is When there's not, it might be like every other weekend or like three weekends out of the month or something like that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, so you're drinking a lot?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "A little, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. And how much are you drinking on the days that you're-- on the days that you drink?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I don't, we don't get blackout drunk or anything. It's more of like a little tipsy kind of thing."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I have gotten blackout drunk before-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-but I kind of did that, learned my lesson, didn't like it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Got it. So you've-you've had some pretty heavy drinking. What-what do you think is the most you've ever had?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Like how many drinks?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, it was a good amount. It was the first time I ever drank and it was like three or four cups, but it was mixing different things."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so you don't even know."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So, I'm not-- Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So, and then your friends drink too?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Yes. Not all of them, but some of them do."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. And how much do they typically drink?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "More or less the same amount. So right now the most we'll have is maybe like one cup after that one time, but sometimes one or two, but they can be kind of heavy."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so it's one cup, but it's not-not one drink."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, it's a red, you know, typical. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It has a lot of alcohol in it."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Um, so gosh, you're-you're actually really drinking quite a lot. Um, you know, your level of drinking puts you in what we call a high-risk group."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, is that surprising to you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "A little bit."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Um, so we call it high-risk because it means that there's actually quite a bit of chances that you're gonna have some bad consequences from drinking like that. So, you know, things like, um, having car accidents, or other accidents, or getting in fights, or, you know, sexual assault, or health problems, or developing alcoholism. Have you thought about those things?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Not too much, to be honest. I-I've always thought since it's, you know, within my small group of friends-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and we usually sleep over each other's house, we don't get into the problems of drinking and driving, and possibly sexual assaults and things like that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "But I haven't really thought about possible alcoholism or anything."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So it's, um, so it's good, because you're not drinking and driving, but you're still really drinking a lot. Um, and yeah. Okay. So, let's-let's talk a little bit about that, how you might be able to make some changes. Because I think you really need to- need to stop drinking like this."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, um, do you think you could quit drinking or?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I think I could. I don't need it. For instance, it-it is-- it is used as a kind of, like, let's get the party going."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "But we haven't always had it-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-obviously. So, I think it would be possible to stop drinking."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So, does that mean you're gonna stop drinking?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I would probably start off by like, because my friends are also involved, so I'd be like, \"Hey, guys, I don't think I'm gonna drink today.\""
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And kind of see how that goes. Because\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Um, you don't sound very much like you think that's gonna work."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. It's, you know, it's one thing to control my own drinking, and it's another thing when everyone else around me is drinking and then there's like that pressure-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-of, \"Oh, they're gonna think I look stupid.\""
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So, how are you gonna quit drinking without your friends thinking you look stupid?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Um, so I mean, do you think they're really good friends of yours if they're gonna give you such a hard time?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "My close ones, I know they wouldn't be, you know, have a problem with that. But the ones that I'm not that close with, but I'll still like hang out with-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-those are probably the ones that like might ostracize me for something or."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It sounds like you might be better off without them though. They\u2019re-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "- maybe not very good friends."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Probably, might be too judgmental."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. So, um, so I think we should set a goal that you're gonna stop drinking."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And, um, I think you should probably stop as soon as possible, like this weekend."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, so the way this normally works is, you know, we set you a goal, and then I'll have you come back and we'll talk about it again in a couple of weeks and make sure that you actually stopped. Um, and so what do you think about that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I think-- I think the possibility."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I think if you make a good plan, like I think I'd be able to follow through with it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, great. So, the plan is gonna be that you're gonna quit and, um, the friends that you have that you don't think are supportive, you're just gonna, I guess, not hang out with anymore."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I think I can do that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. And then, um, you know, like, are your friends in band drinking?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, not-not really. The ones that drink more are the ones like my class friends. My band friends, we\u2019re focused on band-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-so I can't really\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So, that might be good, is really just to focus more on band. Um, because you know, the other big concern I have for you is if you wanna go to medical school, you're not ever gonna get into medical school if you're drinking like this."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You know, like college is gonna be really hard. And especially with all those pre-med classes, you're not gonna be able to handle it drinking this much. You know, have you thought about that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Not too much, to be honest."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Okay. So, setting this goal then of quitting drinking is gonna be really helpful for you. And um, it sounds like i-it shouldn't be that tough really, um, especially because you can just stop hanging out with-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-the people who drink a lot, um, since you have some other friends. Um, yeah. So, do you have any questions for me or?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, what should I-- uh, yeah, I do. So what should I say like once, let's say, I hang out with my friends and they're like, \"Hey, why aren't you- why aren't you drinking?\""
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Like how should I go about that situation?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, you know, one good option would be to just review with them review with them all the bad things about alcohol. You can say, you know, \"I thought about it, and I realized it's gonna mess up my schoolwork. And you know, it's really a lot of risk for my health.\" \"I don't want to become an alcoholic.\" Um, you know, \"I don't want to get liver disease.\", \"I don't want to end up driving drunk or getting into accidents-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-or getting in fights.\" You know, one thing you could bring up is, \"I've heard a lot of stories about kids who you know, are at parties and they're drunk and acting stupid, and then people post stuff on Instagram.\""
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And you know, that's it for their social life. It's like over."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So\u2014"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And-and you know, like professional life as well."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't want that biting me in the butt, [chuckles] in the back."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. So I think just tell your friends you know, you realized there's always bad things about it and you don't want to do it anymore, so you're just not going to."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And then-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I think I can do that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-you can tell them to stop too. You know, then that'd be really good. You'd being a good friend."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It'd be easier as-- You know, as a group we-we all work together to become better."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Yeah. Exactly. All right. Any other questions or anything else I can help with?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No. I think- I think I'm good."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So, like I said, I'll plan to meet with you again in a couple weeks."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And make sure that you actually quit drinking."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Sound good."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Great."
+  }
+]

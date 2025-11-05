@@ -1,0 +1,230 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, I want to thank you for coming in today to see me. Um, I do understand from talking with your counselor that you've got quite a bit on your plate, you've got a lot going on. Can you tell me a little bit about that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, um, I have a two-year-old son, and then I work full time as a server at a restaurant, and then recently, I also started going back to night class, so you know, just the combination of all that, you know. I-I've just been feeling really stressed lately."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, I could see that. Um, may I ask, are you also a single mom?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So you've got a lot of stressors right now. You're a single mom raising a two-year-old, you're working full time, and you're going back to school. What do you think would be the most helpful for us to focus on today?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I-I told the counselor that I think childcare is probably my-my biggest issue right now."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Can you tell me a little bit about that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Um, well, my mom normally watches my son, but lately, it's kind of becoming a problem. You know, she like will back out at the last second, and so I've had to call in at work a couple of times. I've had to miss class a few times. So i-it's just stressful worrying about, you know, whether I'll be able to do those things or not."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So I'm hearing you say that the situation with your mom's not ideal. You actually miss class sometime and had to lose some work shifts as well, and that's problematic."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, exactly."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Um, outside your mom, is there anyone else that can help with childcare?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, well, I have a sister, but I don't really trust her to watch my son, and I don't really know that many people that-- the only thing I can think of, I have this one neighbor who stepped in and helped one time when my mom backed out. She-she actually has, uh, a three-year-old daughter, so you know, kind of worked out."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I don't really know her that well, but I mean, she seems nice and I-I think she did a pretty good job that night."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm. So what I hear you saying is this neighbor was supportive when you really needed her to be."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Stepped in last minute. Um, when you picked up your son, you didn't have any concerns and he seemed happy?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Let's pursue that neighbor a little bit. Um, people like that, I like to think of as natural resources, but I know for a lot of people, the major problem with, uh, childcare is affordability."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Have you given any thought to, if you'll be able to afford to pay someone on a regular basis to watch your son?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I-- you know, I mean, maybe a little bit, but I don't really make that much money to be able to afford something like daycare or, you know, like full time babysitting."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, I can understand that. Um, what are some of your natural skills?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I mean, I-I like cooking. I'm-I'm actually in school for culinary arts."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, I bet you're a really good cook then. Um, what would you think about a plan where you worked out an arrangement with this neighbor, where in exchange for her watching your son, you would prepare dinner for her and her, um, daughter?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, you know, you could maybe swap a meal for child care. What do you think of a idea like that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Hmm. That's, that's interesting. I-I never really thought of something like that, but, yeah, it might work."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Okay, I'm glad you think so. Um, so, other than this neighbor, or is there anyone else that could help you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Hmm. No, I-- you know, there-there just aren't that many people I trust right now with my son."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, I can respect that. You-you really have to go with kind of your gut and follow your own intuition on that. Um, what about the baby's father, is he of any help?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "[chuckles] No, no, not at all. He, he really hasn't been in the picture since my son was born."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, fine. You know what? We've got one really good lead with the neighbor. I think if you would follow up in pursuing that, you might find some relief and resolve some of your childcare issues. Um, how many days a week are you in school?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's-it's three nights right now, so I have class on Monday, Wednesday, and Friday nights."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Um, so what would it look like if you had a plan where both your neighbor and your mom were helping you out?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, well, you know, if my neighbor could even just take over one day of watching my son, I think that would help my mom quite a bit."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So what I'm hearing you say is that, if you could just reduce the amount of time that you're needing your mom, she might be more supportive, more onboard?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean, I think so, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. Um, so what do you think would be your next steps in working out a plan between your neighbor and your mom?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mom, you know, just, I guess talking to my neighbor and seeing if she's even interested in this idea, and if she is, you know, telling my mom about it and, you know, hopefully, that will make her feel a little better and maybe a little bit more reliable."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Sounds like you got a good plan to follow up on there. All right. Um, now you mentioned that your son is two. When will he turn three?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Just a couple months from now. He's almost three."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Well, in that I-- in that case, I've got another idea for you. Um, what about, um, maybe when he turns three, you could enroll him in Head Start? Are you familiar with that program?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I've heard of it, but I don't know that much."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Head Start is a very affordable, very high-quality preschool program. Um, it was really created for parents and families, just like yours, folks who have a lower income and fewer resources, but Head Start really prepares your child both socially and intellectually for going to school. Um, and you know, by the time he turns three, you may find that that routine is something that's better for him to get used to before he starts kindergarten. Uh, would you like some more information on local Head Start sites?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I mean, it sounds like it would be really good for my son and, you know, it would help me out in terms of childcare for sure."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Well, good. Um, all right. It sounds like you've got a good plan there going forward. Um, now I did see from the nurse practitioner's notes, you're also working on reducing your smoking and your drinking. How's that going?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "[chuckles] Well, you know, I-I've been working on it a couple of weeks now, and honestly, it's been a lot harder than I expected. Um, trying to break my routine in the evenings, especially has-has been hard, but, um, you know, a couple of nights I have reached my goal in terms of, you know, number of cigarettes I'm going to smoke and number of drinks. So, I mean, I've done okay some days, but others, not so much."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So what I hear you say is that it was a bigger challenge than you expected, yeah, but you're working on it. You're-you're still committed to it. So yeah, that's really to be commended. I just want to ask you one thing though. Have you thought about secondhand smoke and the dangers of that and how that might be impacting your son?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah. I definitely have, so I-I try to never smoke around him, and if I do smoke at home, I always go out to the balcony to smoke."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, okay, good. You know, I can tell you really have your son's best interest at heart here. You know, just from our conversation today, I can tell you're a really good mom. Um, let's reflect back on what we've discussed here so far. Now, we've got a couple of good options between the neighbor and Head Start programs for childcare. What do you see as your next steps in getting that going?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, well, I guess just first talk to my neighbor and see if she likes this idea, and then if she does, I can talk to my mom about it. Hopefully, that kind of helps her situation out. And then, um, I'm definitely want to look into the Head Start idea because I think that would be really good."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, okay. Good. Um, I think you've got a good plan there. Um, what would you say to us getting back together, say, in two weeks, just for us to kind of revisit and see what kind of progress you've made, you know, if you've got something worked out, great, but if you've hit a bump in the road, I tell you what, we'll put our heads together. We'll come up with another plan."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. Good. Well, I want to thank you again for coming in today, Sarah. It was really nice to have met you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Thanks. All right."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You're very welcome."
+  }
+]

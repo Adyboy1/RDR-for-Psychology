@@ -1,0 +1,258 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Jean, it's good to see you again."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Hello, doctor."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, what's been different since the last time we talked a week ago?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I did what we discussed. I did the journal-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-for a week, uh, trying to mark down the-the difference in my smoking, being more aware when I had the urge, if I could stop the urge-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and I found it was okay. It got a little bit scary on the weekend because, uh, uh, the urge has kept on coming-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sure."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-to have a cigarette."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sure."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "But during the week, I was able to cut down at least two or three cigarettes a week, and that's just in one week. So-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, you've been able to cut down by two or three cigarettes? That's amazing. I mean, given how much you were smoking."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, you were able to keep the, uh, the journal?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You-- Sounds like you did that, and that allowed you to really focus on the time [unintelligible 00:00:57] delaying your cigarettes. So-so that's gone well. So, what are the things that are not going as well as you'd liked?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It just seemed to get worse when it was the weekend-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and I was going out with friends and I was home a lot of the day-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-instead of at work. And I found that, um, it was really hard to stop those urges."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So, these automatic cigarettes, when you're socializing and you're-- you have time on your hands, really, are the problems that you're facing-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-uh, and that you've noticed are more difficult than the others?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "But I marked it in the book. Uh, that's one thing I said to myself, I'll be honest in my marking down."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "In marking it down, okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So, I'm gonna have to really be aware of the weekends. Maybe get some kind of hobby or-or join some group or something on the weekends to keep me busy."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So, and you've thought about already, what you might do, such as getting a hobby. Any other thoughts of what you might do to help you overcome this?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "If I can just postpone it-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and-and say, \"Okay, I'm not gonna have it at home-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-I'll have it when I get to work or on the way to work.\""
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "'Cause I-I-I-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sure."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And then, uh-uh, what I'd like to do is try not to smoke in my house."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So, from now to the next time you come back and see me, what is it that you'd like to-to work on?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I think I'd just like to do what I did this first week. I liked the idea of marking it down."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so you can continue with that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I-- And it took me a week and I'm down two cigarettes a day, I-I figure."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sure."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "What I'd like to do is maybe go down to five cigarettes, in other words, another three a day."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And, um, 'cause I smoke a large pack and small pack, maybe just two small packs."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You said five cigarettes this time."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And any thoughts about what concretely you could do to make that happen?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I can try each day to count."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And I'm still gonna try that when I get the urge to let it go, fight it, and maybe not go out for a cigarette until the next urge comes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. [unintelligible 00:02:58]"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So, if I [unintelligible 00:02:59] between two of them-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sure."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and also coming back and-and talking to you really helps 'cause I have someone to-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sure."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-discuss it with."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, given what you're-you're attempting to do, when would it be good for you to come back and talk about this?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I wouldn't mind coming back in a week again because this is all new and-and a week, I can handle a week."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Absolutely. Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay, thank you doctor."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Good. So, we'll see you in a week."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes, thank you."
+  }
+]

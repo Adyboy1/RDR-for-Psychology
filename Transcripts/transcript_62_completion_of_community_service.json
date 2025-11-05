@@ -1,0 +1,186 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-- doing today?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'm good, thanks."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Good. Why don't you fill me in on what's been going on since I saw you last?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I guess everything's fine. I think my caseworker mentioned something about community service that I have to do or something. I don't know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'm not sure of that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So she talked to you a little bit about it, but it sounds like you're kind of unsure exactly the details."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I know that she said I have to get so many hours in, but I don't- I don't know. I kind of was half-listening."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So why don't you tell me what you remember from having your conversation with your case manager? What do you know so far about community service?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I know that I have to get it done by the end of my probation, except I forgot like how many hours or if I'm supposed to find it or someone else is gonna find it for me or I-I told you I'm confused."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, gotcha. So, you know, that it needs to get done-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yes.-you know, you have till the end of your probation-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-but you're a little fuzzy on the details."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Exactly, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Um, so maybe if it's okay with you, I can share with you some of, um, the requirements, maybe go over the details a little bit more."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Is that all right?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, great. Um, so with your community service I know you've got 25 hours left to do, um, so that does need to get done by the end of your probation, and your case manager is a really great resource to help you find a place where you can do it. So I know in the past some clients have done their community service at food pantries or shelters, or anywhere in the community that's not, you know, a family member or a friend. Um, the urban ecology center is a really great place. You can kind of work outside, work with younger kids. Do any of those options seem like a fit that you might be interested in?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, yeah, I just, so I still have to find the community service hours myself?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So that's something that you can work with your case manager on."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, um, that's something you can absolutely ask her or quest- or me some questions about, but they'll be able to come and bring you some options-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-of places that you can work with, some phone numbers to call."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And that is something that we'd kinda like to see you do on your own, but if you're really feeling like you're struggling, those are phone calls that either you and I can make together or you and your case manager can make together."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay, so I would do that. And then do you know, can I get all the 24 hours in in like a weekend or how does that work?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, I mean, 24 hours in a weekend sounds to me like it might be a lot of time."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "[unintelligible 00:02:20]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I can- I can hear that you are really eager to just get it finished-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-and get it out of the way. Maybe I know in the past it's been helpful for some other clients to sit down and take a calendar and just mark out, okay, I'm gonna do five hours this day, I'm gonna do three hours this day, two hours of this day. Does that sound like something that might be helpful for you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I think, just to keep track of it better."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I think it's a good idea."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And then, you know, it might be, I definitely think that if you're committed and it's summer break, it's something you could easily get done in a week."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What other questions do you have for me about community service?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I think that's it. I think I was just worried about who was gonna do it for me, but I know I have to, I guess, do it myself and that 25 hours has to be done. It seems like that's the time I'd have to get done."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yup, absolutely."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "But you know that if you have any more questions, you can always come to me or your case manager and we're here for- to be a support for you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "All right, thank you."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You're welcome."
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Miguel, before we end the call, I did want to go over the answers you gave me on the questionnaire about drug use. Is it okay if we go over that right now?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, yeah. Yeah, that's fine."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Thanks. When I looked at your form, it looks like you use heroin weekly and you injected. What part of your body do you normally inject in?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, mostly in my left arm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Do you mind if I take a look at your arm, please?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, no. That's okay. How's that?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Well, I don't see any redness. Um, can you go ahead and touch that Miguel, and tell me if it feels warm to you or if it hurts?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, nope. It feels okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Thanks. Just so you know, when I talk to patients about drug use, my job is to be helpful. I'm not going to tell you what to do or what you should do. What I can do is share some information and be a resource. Does that make sense?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, yeah, that's fine."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. What else can you tell me about your heroin use?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, I don't know. Um, I use maybe a few times a week."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "A couple of times a week. And where do you get your syringes?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Syringes? Uh, sometimes I'll buy them at Walgreens. Most times I'll just get them from the needle exchange."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh, what one do you remember?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, Northeast Glisan."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. How often do you use new deals when you inject?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I use new needles every time, I never share."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, it sounds like your health is important to you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, that's right."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And you showed up today to take care of your migraines."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm, yap."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, uh, you wrote on here that you've experienced withdrawal symptoms when you've stopped using in the past, is that right?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, yeah. Yeah, if it's, uh, you know, if it's been a couple of days like I can go two days, three days tops before I start to feel really sick."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What does that feel like?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, geez. Yeah, I mean, it's the obvious stuff like my stomach feels sick, I get the body aches, uh, cold, hot, chills. Uh, everything hurts. Everything is in extremes. My emotions are in extremes. Uh, yeah, it sucks. I don't want to do anything. I just want to stay home and just stay in bed."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That sounds awful. What do you do when that happens?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I mean, I start to use, I get loaded."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. How else does injecting heroin impact your life?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, you know, I get loaded and I-I can- I can function. I can go to work and, you know, do normal things, you know. Uh, I mean, there's been maybe just a couple of times where I wasn't feeling all that well, and I, uh, I was late a couple of times to work or it might overslept from the night before or whatever, but it's about it. Uh, I just want to avoid getting sick right now. That's my main priority."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. You want to stay healthy. I'm curious, what do you like about using heroin?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, well, you know, I like the way it feels. Um, you know what I mean? When I shoot up my anxiety, goes away, my depression goes away. Uh, things that usually make life really difficult, uh, get a lot easier."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And what about your use do you not like?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, yeah. I mean, I think everybody who uses at least has some concern of overdosing on some level. Right? Uh, so that's something I'm concerned about is accidentally overdosing. And, uh, yeah, I mean, I don't want to get an infection in my arm, you know, just the usual things. I have a hard time hitting veins sometimes, and I gotta dig around a little bit and I would get worried about, you know, hitting something that I shouldn't or, you know, getting infections."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. So on one hand, using heroin feels like an escape from things you don't want to think about. On the other hand, it puts you at risk for an overdose in infections."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, that's right."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So weighing what you like and don't like about your use, where do you want to go from here? What do you want to do differently?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, some patients who inject heroin are interested in a medication called Suboxone. It reduces cravings, withdrawal symptoms without making you high. Some patients want information on how to inject drugs more safely or where to get new syringes. Other patients want to carry Naloxone which is a drug that can prevent one from overdosing."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, are you talking about Narcan? Is that the same thing?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I got some of that already. I got it from the needle exchange."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Where do you keep it?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, at home mostly."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "In case you see someone overdosing?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean, that's a concern, of course, right? Uh, I'm on the app just in case somebody nearby is OD-ing and I can get pinged. But no, mostly I just keep it in case I overdose, uh, and, uh, I'm realizing now I have it but I haven't told my roommate about it so\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Your housemate may be willing to give you Narcan if they see you overdosing."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, that's what I'm thinking."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Anything else you want to do about your use?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I would really like a little bit of information on, uh, injecting in my arm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. I can email you some information on how to inject in a way that reduces the chance of infection and we also have behavioral health specialists in our clinic who can go over how to reduce harm with you. I bet the syringe exchange has similar resources too."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So it sounds like you have two goals right now. You want to tell your housemate about where you keep the Narcan in case you overdose and you want some information on how to inject safely?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "How confident are you to do these two things? On a scale of 1 to 10, 1 meaning not ready at all and 10 meaning very ready, what number would you pick?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'd probably say 10."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. You're very ready. Why do you think you picked a 10 instead of a lower number like 8?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, uh, I don't want to have an overdose and I don't want to get an infection. Seems like easy things to do."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What kind of plan could you put in place to make sure you meet these goals?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, well, I can talk to my housemate tomorrow night. I'm pretty sure that he doesn't work tomorrow night so he'll be around."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That's great. And how do you want to get the information on injecting?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, if you could email me that right now, that'd be great."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. I'd like to hear how your plan worked out for you if you're willing to come back for another appointment. I look forward to hearing about what worked for you and what was challenging say in four weeks."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, yeah, yeah. It's fine. Let's do that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Great. I'll see you then."
+  }
+]

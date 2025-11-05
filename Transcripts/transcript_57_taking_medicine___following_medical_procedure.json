@@ -1,0 +1,78 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mr. Johnson?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh, I'm here to talk to you about, uh, your cholesterol and the, um, medicine your doctor prescribed."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, I talked with my doctor about my medicine. That's his job."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "But well, it's my job too, uh, to-to help you understand how to use your medicine and, uh, give you information about getting the most benefits from it."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, to be honest with you, I'm not even certain I'm going to take the medicine. Now, I know I got high cholesterol, I've got to get that down, but on the other hand, this medicine can cause some severe muscle weakness and I just can't afford that. I'm a truck driver and I haul those heavy boxes in on the dollies and I just can't afford that, so you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So your-your-your doctor told you that if your cholesterol remains elevated, you're at risk of stroke or heart attack?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, down the line, but-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Well, the-the side effect is something that's very, very rare, it's not really something you need to worry about, and the risk of stroke or heart attack is much worse."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, right now it's the muscle weakness that-that I'm concerned about, and that's, uh, you know, that's the present, uh, I've got to do my job."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, I-I-I understand that. Um, but like I said, it's very rare. If you feel some muscle weakness, you'll let your doctor know. It's not permanent, okay? Yeah, it won't get to the blood- it won't get to the point where it affects your job\u2014"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, you know- why don't you just give me the medicine, I'll take it home and I'll think about it? But you know, I'm worried about my job."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You- you really need to take it, and-and like I said, the-the muscle weakness is rare. If you feel muscle weakness, just let your doctor know. He can take you off or switch. It's not permanent."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Sure. Fine. Just\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It's-it's not permanent."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Whatever."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay? So a stroke or heart attack is much worse, so make sure you go ahead and pick up your medicine as you're on your way out and, uh, one-one every day to get your cholesterol down."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay, sure. Fine."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  }
+]

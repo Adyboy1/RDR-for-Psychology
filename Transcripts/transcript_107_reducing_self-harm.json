@@ -1,0 +1,74 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, let's talk about then how you ended up cutting yourself."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, pretty obvious [chuckles]."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, what happened. So first of all, tell me what you did, exactly."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "What do you mean what I did?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, I mean, where did you cut yourself? I know you said you cut yourself when you-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That's the same as always. Same as always."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Like your arm?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What did you cut yourself with?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "A razor?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "How deep?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Do you wanna see it?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Let me see. You know those look to me like they-they-- did you go to the-- It doesn't look like you went and got any stitches, but that looks to me like you could have used them. What do you think?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I think have you ever been to an ER when you cut yourself, you'd know why I don't go."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, but part of the problem is those look deep and like you're going to have significant scars. So my suggestion is in the future, if you do it, is that you put some sort of bandaid on it to keep it closed. But let's talk about how, um, how this happened. First of all, tell me, you were telling me on that phone that you wanted to die. But, um, did you-- Was this a suicide attempt or do you think it was just-just a cutting? Were thinking of killing yourself or wanting to kill yourself or wanting to die when you did it?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I was thinking about killing myself. You thought you would help me and you didn't. That's what I want to talk about. I wanna talk about how it is that my life is not going better and you are not helping me, and you are not available to me when I need help."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So let's-- Okay, so it sounds like me not being avai-- Was me not being available with you, rela-related to you cutting yourself?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I cut myself the first time I called you thinking you would help me, you wouldn't help me so then I figured, what the hell I [chuckles] might as well just go all the way. And so, that's why I cut myself that deep."
+  }
+]

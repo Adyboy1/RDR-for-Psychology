@@ -1,0 +1,190 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Is it okay if we go over the form you had filled out? We give this out to everybody who comes in."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. So here, it looks like you wrote that you drank alcohol on a few occasions in the last year, and you have used marijuana more often, 30 days in last year."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Something like that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. When students and I talk about their substance use, the first thing I always say, I don't like to tell anyone what to do. That's not my job. Instead, I like to see if there's anything they would like to do, if anything, about their use. So what can you tell me about your marijuana use?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, I vape. I have a pen, but I don't smoke it though."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. How often?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, a few times a month."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Do you vape anything else besides marijuana?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I did a peppermint oil once, someone shared it with me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Is it okay if I share some information with you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "We know marijuana has effects on the developing brain. For example, it can make it harder for you to concentrate, it can make it harder for you to remember things, and vaping can seriously hurt your lungs. About one in six people who begin using marijuana as a teenager, later on, become addicted. So what do you think about all this information that I've shared?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I don't think it's going to hurt me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "How do you think it affects you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I don't know. It makes me relax, and it's fun to laugh with my friend."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Is there anything about marijuana that worries you, many things that you don't like?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I don't want to get in trouble like at school."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "How could you get in trouble at school?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I can get suspended and I would get kicked off the team, the basketball team."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So staying in school and playing on the basketball team is important to you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So when you think about these things, are there any things you would like to change about your marijuana use?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "well, I was thinking to not use when basketball season start."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What would be the benefits of that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I play better when I'm not high."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Marijuana affects how well you play. What would be the other benefits for you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I wouldn't get caught with using a pen, so I wouldn't get kicked off the basketball team."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Well, it sounds like you have a goal of not using marijuana once basketball starts. How long do you think you could not use?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "For about a month."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. If I asked you to pick a number, 0 through 10, 0 meaning you're not very confident at all in meeting your goal, or 10 meaning you're very confident, what number would you pick?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, seven."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "A seven. Why do you think you picked that instead of a lower number like five?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I'm pretty sure, um, I can stop using for a month. I want to play well."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, what steps could you take to help you stop using for a month?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, I don't know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "How about this question? What might happen within a month that might make you want to vape?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, if I'm stressed or unhappy, that's when I usually wanna vape."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What else could you do instead of vaping when you feel that way?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Hmm, I like to play video games."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Anything else?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I can play basketball with my friend Sarah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Playing basketball and playing video games are a way to feel better."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, I'm glad to hear that you have a goal of quitting for a month and you are confident of reaching that goal. If you're willing to come back in a month or so, I would be curious to hear how your plan works out."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, Good luck with basketball practice. If you want anything or need to talk about something before our next appointment, I'm here Monday through Thursday, and it's always good to see you."
+  }
+]

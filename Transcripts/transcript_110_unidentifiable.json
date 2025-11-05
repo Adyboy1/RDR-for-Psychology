@@ -1,0 +1,406 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "--today."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, there's a lot of things that bring me here today, but the one thing that I want to focus on is the fact that I really want my son to grow up in a great environment, and just have, like, more than what I had growing up."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So, you want your son to grow up in a great environment and to have more than you had?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Is that right? so that's on your mind right now?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes, that's on my mind. I love my son dearly, and I don't complain about the childhood I had, I had a great childhood. I just-- I guess every parent wants the best for their kids-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and-and I really want the best for him."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. Is there anything in particular that's happening right now where this is more of a concern for you than usual?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes, um, me and his father, like, we're-- We were engaged and, um, we're just not at that connection anymore. We're focused on what we want to do in life, and that's kind of put a hassle on our relationship."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What you want to do in life? Can you explain?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes, I want to become a social worker. I want to help people. That's just what I love to do, and he, um, is currently driving trucks, and so it kind of like puts a damper on everything on our relationship, and we're just like mainly focusing on our son and-and it's just been hard, like, reconnecting."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So you feel that your differences in career choices is-is having an impact on your relationship with your son?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes, I feel it is, and I just-- I always really wanted like a family, like me and the dad and-and the child."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I-- That's how I feel, that I love my son dearly, but I want to provide him with that, like, we are together, we're doing it together as a team-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-because now that we're going away from each other it's made things more difficult."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm. Okay, so your boyfriend?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Is he your fiance or your boyfriend?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, he was my fiance, but-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-we called off our engagement."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. And he's a truck driver?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Does he drive long distances-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-or just local?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "He drives long distance."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And so sometimes he's gone away from home for, what like, days, weeks?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Days, and the longest was, like, a week."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. And so he's a truck driver and you are an aspiring social worker, and you have a son who you want to give a really great life to, and you feel that you and your boyfriend are in different, going in different directions-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-maybe? Is-- Can you elaborate on the part that you're maybe the most concerned about or that's the most on your mind right now?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'm concerned that when he was just local, we were able to do picnics and-and-and do the whole family thing that I just really love, and even though my parents weren't together, we would still, you know-- They were really civil with each other and we would go to Disneyland, we'd go to the-the fairs, and you know, I feel like it's different."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Even though I'm not saying that we-we probably won't be together ever, there's a possibility that that could happen, but I still want that togetherness than apart."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, okay. And so that-that realization that you're having right now is, it sounds like, it seems like maybe, just from your nonverbal, that maybe you feel like you need to make some sort of a choice. Is that right?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah? Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I feel like, um, I'm not, like, valued. We're not valued from his perspective. I mean, that's-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-what I can sense. I can't really make that a final say because he may feel something different."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, you know that he's not physically available-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-to do these things that you want to do-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm, mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-like go on picnics."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And so when he is available it's kind of like, I guess where he's at and where I'm at is just like, \"Why is that a problem for you?\" And I'm like, \"It is because I want--\""
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "He's saying to you, \"why is it a problem?\""
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, \"why is it a problem?\" He feels like it's always me who wants these things and-- but I-I made it clear that, you know, I want our son to grow up with the togetherness-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-especially like how my parents had it, you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "They weren't the best of friends but they could come together and, you know, it was better together than apart-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and so I'm feeling like there's a-a change and I don't know whether to roll with it or just accept it, accept it. And it's all a balance between mind and-and heart and that's the battle."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, your heart says you want this great relationship where there's like a true family unit and you can go on picnics and be together but your mind says, what?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, my mind says that it's not going that way and you can't make it turn that way, you can't change anybody, they have to change themselves."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And if they wanted to do it then, you know, it would definitely work."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And I feel like I don't wanna subject to just accepting things the way they are, especially if that's a concern for me-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-as far as dealing with the togetherness, I feel like if I have a problem, I voice it to you and we solve. You know, we'll try to figure out ways so-- I feel like I'm very more like, the collaborating person. Like, we gotta collab together, let's-- you know, I usually am that person that's, \"Let's solve this issue.\""
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "\"Let's not go over the problem over and over and over.\""
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "\"Let's try to think of ways to make it better.\" And I notice that not everyone's like me in that sense."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And so, do I wanna eventually hurt myself in the long run? Or, you know, help myself by saying, \"Okay this is just accepting that he's not in that position, so let me just do what's for me in my heart and, you know-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-stabilize myself to be the best parent that I can be.\""
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so you know what you want, you're not so sure that your boyfriend wants the same thing. His actions indicate that he doesn't."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "His words indicate that he does or he doesn't? You're not sure? I'm not sure about that part either?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I'm not sure about that part either. [chuckles]"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, okay, all right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Because I know that dealing with perspectives you can, you know, you can't really tell someone what their, you know, perspective is-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-but I don't-I don't sense it, I don't feel it and, um, I think that's just what I'm going by and I feel like probably 98% true."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. So now you have this information and it's on your mind, is there-- have you given any thought about what you might want to do about it?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And that's where the sickness comes from."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And that's what I'm confused about because, you know, I'm very-- the type of person that, I don't wanna hold things in but yet I don't want to have to keep explaining-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. [chuckles]"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-to you, you know like, I don't want to keep going on, iterating what I want in this relationship-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-especially if I'm listening to you."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know, I would want you to listen to me. And I understand by like in the position that I'm in, I've always been the receiver and, um, anybody-- so it's hard for people to like receive, you know, from me so, I'm just like-- Lke I was like sitting, um, yesterday I was kinda feeling down and I just never-- I was looking through my phone actually, this is really funny, I was looking through my phone like, \"Who can I talk to?\" Because I never really opened up to anybody."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Cause they open up to me and I'm able to listen-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and so I'm like, \"Out of all this, I don't know who I'd-who I'd talk to.\""
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and open up to\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So that's another realization."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It's like, \"Wow,\" it's really, really prevalent for you right now, you realize that you are the caretaker, you are the person who listens to other people but you don't necessarily have someone like that for you and so\u2014"
+  }
+]

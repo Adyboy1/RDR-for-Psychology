@@ -1,0 +1,66 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Tell me what you know about the flu shot?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, well, I know the flu can be pretty bad, but I'm in pretty good health, so I don't really feel like I need it. Uh, it's kind of just more for old people, right?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm, um, so you're thinking it's really just for people who are-are vulnerable to illness?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Would it be okay if I shared a little more information with you about the flu vaccine and the importance of it?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So you're right that you're young and healthy and you don't have a lot of complicating illnesses that mean that you would probably do okay if you got the flu. But we do know that the elderly are more at risk, pregnant people, babies are at risk of having serious complications from the flu, and by you getting the vaccine, that helps prevent you from passing it on to other people."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So having shared that information with you, how do you feel about the idea of the flu vaccine?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, my grandparents probably wouldn't handle the flu very well-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and my co-worker is pregnant too."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So-so, yeah, I guess, I should, uh, get it for their sake."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so you've got some people in your life who are vulnerable to possible illness, and making this decision to get the flu shot will help protect them."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  }
+]

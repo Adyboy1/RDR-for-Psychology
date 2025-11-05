@@ -1,0 +1,86 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Can I help you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, yeah. I just got off work, and apparently, they're going smoke-free, so I'm-- I-I thought I'd stop by the pharmacy here and see what my options are. Some of my friends have tried nicotine patches and the-- they say they don't work really well. I don't really wanna quit smoking, I just need something to get me through the day."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So you want nicotine replacement, but you don't wanna quit smoking?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Maybe like da-- during the day nicotine replacement. Is that-- I mean, do you have anything like that?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "We don't really recommend that. The idea is you would use the nicotine replacement to actually quit, so then you wouldn't be smoking at work, but you also wouldn't be smoking the rest of the time either."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I don't really wanna quit. I mean, I like smoking. I like go-- after work, I have a beer with my friends, and I'll smoke cigarettes. I mean, it's not really a big deal. Cigarettes aren't that bad. I mean, I know that the-- it's popular to say that smoking is bad for you but, you know, I like it, so I'm gonna be doing it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Well, smoking really is really bad for you, you know. It causes things like lung cancer, emphysema, heart disease-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah. Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-oral diseases."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay. Well, what are my options? You know, assuming that I'm right, what are my options?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, to be honest with you, you mentioned the patch. I can't recommend a patch to you if you're gonna continue smoking. That can actually be pretty dangerous for you. In order to advise you about this at all, I need you to tell me a little bit more about your smoking history and how much you're smoking now."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I mean, I s-- I-I-I smoke barely a pack a day. I mean, I've probably smoked for about five or six years now. It's not really a lot of cigarettes, but it's sort of hard to get through the day at work."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Well, we actually consider 20 cigarettes a day to be a significant amount, and in fact, I would then recommend to you that you would start on the highest dose of nicotine replacement."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Sounds good to me. The more nicotine, the better. Is it like gum or something? Could I chew it like while I'm in the office? That sounds pretty great. I mean, do you have\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, there are some products that you could use to take away some of your cravings, and probably the gum would be the best option for you. It's not something you would continue to use continuously throughout the day, however, but gum is something you use just when you have a craving."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh. Okay. Well, where is that?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, we have that here, but again, the-the idea would be for you to actually quit smoking."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I-- [sighs] I'm probably not gonna buy anything today. I mean, I just came by to see what my options are. I-- if-- thanks for the input. I mean, do you have anything else, do you have any other advice for me?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, aside from the gum, you could try the nicotine lozenge, that would be another option for you. Again, that's not something you'd wanna use continuously throughout the day. The nicotine patch is the best for continuous nicotine replacement, but again, that's not something you can use while you're continuing to smoke."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, well. Okay. Well, thanks. I mean, I guess that helps a little bit. I'll-- maybe I'll be back later. Thanks."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  }
+]

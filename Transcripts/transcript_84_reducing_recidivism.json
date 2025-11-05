@@ -1,0 +1,942 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hi Billy. How are you doing?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I'm all right."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Hey, it's good to see you here and good to see you here on time. Yeah, it's really good to see a good start to the-- to your probation time with us here is to see you being here on time. So how did you get here today?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Just caught the bus."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, caught the bus to-to that-- to the stop outside the office?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, okay. So I'm noticing that this isn't the first time that you've been to see someone at probation and it's not your first, um, community sentence. So I was wondering when you're sitting on the bus thinking about coming here, what was- what was going through your head about being here?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Just a waste of my time."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Just was feeling like, \"Ugh, it's gonna be a waste of my time coming here.\""
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mmh. So how come you thought it was going to be a waste of your time? What was it based on?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Last time didn't really work out that well."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, didn't- didn't work out very well."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Nothing really helped me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So you're hoping that it was gonna help you and it didn't. That was-- ended up feeling like a waste of your time."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm. So it sounds you're worried that it's gonna be a waste of your time this time too."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I'd say so."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm, okay. So what sort of things do you think made it a waste of time last time?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "She didn't really listen to me, just told me what to do. She just bossed me around."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, the probation officer we're talking about here?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm. So it felt like she bossed you around, didn't really listen to you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, she didn't really care."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so actually having someone listen to you and hear about what you're saying is important to you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm. So what's it gonna be like do you think working with me 'cause I'm also a female probation officer? Um, I'm wondering what-what's it gonna be like do you think?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I-I don't care that you're a woman. It's just- it's that you don't know what it's like to be me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You have a different upbringing and live in a different place of town. Just-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-you wouldn't understand."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, and all of those things are true."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You're right. I don't know what it's like to be you and what I'm getting a sense of is that it's actually important that the person sitting opposite you in this role needs to understand what it's like to be you. Is that right?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, okay. So I guess the invitation for both of us really over the next few months of, um, on the sentence is for us to get an understanding about what it's like to be you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, so it is."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, okay. So in terms of the things that have brought you here, in terms of the things that have got you into trouble and got you into offending, I'm wondering how interested you are in, um, really getting an understanding of it. So one or zero is like, \"Ugh, not interested at all.\""
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "100 is like, \"I'm totally interested and-and getting it nailed and sorted and, you know, getting on the straight and narrow.\" Where would you be on that scale?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, not too high. It's not like I'm out killing people or anything. It's just-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-silly stuff."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. So it's kind of silly stuff that's getting you into trouble."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Is that what I'm hearing? Yeah. So in terms of dealing with it, where-where would you be, do you reckon? How interested would you be in dealing with that stuff?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm, lots. When I stop getting caught. Don't wanna be back here again."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so you don't wanna be back here. You don't wanna be sitting here and-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-to talk to a probation officer again."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, sorry."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So where would you be do you think?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm, like what out of a scale it would like fall?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Zero being, \"Argh, not interested at all,\" 100 being totally into it."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mmh, 25."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "25, okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mmh."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So I know that you're kind of 25% interested-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mmh."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-and really thinking about what's got you into trouble and hence something about what gets you into trouble."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Maybe but, mm, yeah, I wanna stop getting into trouble."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You wanna stop getting into trouble."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, but I don't think what I'm doing is that bad."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm, okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Just unlucky."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so getting into trouble and, uh, getting caught and-and we see [unintelligible 00:05:36] does about luck and this time being unlucky."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, the cops just have it out for me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yes, tell me a bit more about that, Billy? Kind of give me the [unintelligible 00:05:46] the cops have got it on for you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Just 'cause growing up dealing with them and my mates and stuff and there's, you know, guilty before charged or whatever."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm, so it feels like you always seemed singled out and, um, end up being unlucky."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, me and my mates always get singled out."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so you get singled out and that's what, um, means that you end up getting-- having to go to court and get sentenced and end on probation."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. So I'm wondering, um, if there are things that you think, \"Well, I can see that that's got me into trouble,\" and, you know, kind of cops aside, things that might have got you into-into trouble."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Just jacking cars and just stealing just, like, stuff and smokes and got done for that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm, okay. So some stuff that you can think, \"Oh yeah, I had, you know, I did some stuff that yeah, got me into trouble.\""
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It wasn't perhaps about the police singling you out. So those little things, well, you think, \"Mm, yeah, maybe-maybe if I'd done something differently, I wouldn't have ended up in trouble.\" How interested are you in thinking about those things and-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, well, I-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-trying to get a handle on that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-wanna stop getting in trouble. Don't wanna-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-end up in prison for the rest of my life for doing stupid little things."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so you don't wanna end up kind of being in prison again 'cause you've done some time inside. Yeah, and you don't wanna end up going back to prison, yeah. So-so that's one thing about wanting to make a difference and the way things are at the moment, yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Cool. What else would, um, would help to kind of keep you out of trouble do you think?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Get some income, some good cash or something."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "A nice job."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "A good-- yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So the things about that have got you into trouble in the past, um, how confident are you that, um, that you can do something to not keep going down the same path? Zero is like, \"I'm not confident at all that I can make any changes,\" and 100 is like, \"I'm so supremely confident.\" Where would you be?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Pretty confident if I had a good job but otherwise, probably have to keep stealing stuff, I don't know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So it depends."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right, so if you were in a good job-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-one with cars, one that-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-you really liked, you feel that you would be pretty confident to deal with the stuff that gets you into trouble?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah, yeah, 'cause it's just small stuff that, you know, just 'cause I don't have any cash."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so you don't have any cash and that's the stuff that causes you to do the small stuff-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-and get you into trouble."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, just stupid little shit, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so if you had a job, you feel pretty confident, but if you don't have a job, your confidence is much-is much lower, is that-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-what I'm hearing? Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, no. That's-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-not an excuse but, yeah, I'll probably keep doing it. Just try not to get caught."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so if you don't have a job you reckon, um, you'll probably gonna keep on offending."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Yeah, I just get bored and stuff."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so part of this, what's going on is you also getting bored?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I get bored real easy."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mmh. Yeah, say something more about that. It sounds really interesting about you knowing that you get bored really easily."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't know. I got a short attention span or something."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, what-what makes you say that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, just can't sit around home all day. I'd wanna go out and do something exciting."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so you wanna kind of get some action, don't wanna sit around-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mmh."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-all the time. But one of the things I'm noticing, we've been going here for a wee while now talking and, uh, I haven't noticed any lack of attention."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Just talking about something I like. Like talking about cars is all good."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so we [unintelligible 00:09:47] something that interests you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mmh, and when we might be talking about something that doesn't interest you, what would I notice?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I probably just wouldn't listen."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. All right, so-so one of the challenges is for us to be talking about things that interest you. Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, and also maybe get to the point where things are different in your life Where you're not getting into trouble and things feel a bit more sorted in your life."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hi, Billy, how are you doing? It's good to see you again."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, how's things been?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, not too bad. Yeah, getting out of trouble."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So you're keeping out of trouble."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, so how'd you get here this time? Like 'cause other times you got the bus? What-what did you do this time?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Ah, I got a lift from Donna. She's-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh yeah. Who's- who's Donna? You haven't mentioned Donna before."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Like she's my new girlfriend."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh okay. Tell us something about Donna."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Ah, just met her a few weeks ago and she's just, uh, real cool. She's really nice. Yeah, get along with her really well."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm, you get along with her really well."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So what's special about Donna?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Donna is easy to talk to unlike other girls that I don't really get along with. Uh, she's like and a good friend too so-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh okay. So someone who's both a friend and a girlfriend?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I can hang out with her and stuff and she gets all my mates and stuff. So it's all good."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm, yeah. It's really special when you find someone who can be both a friend and girlfriend, eh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, and I'm lucky."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. You were made to say you're lucky."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "She's just a really nice girl."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm. Okay, so she dropped you off here today."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, it's good of her."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So what does she think about you coming here?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "She thinks it's good. Yeah. Uh, she doesn't want to get in trouble and stuff."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "She doesn't want to get you in trouble and I heard you say earlier on that you've been keeping out of trouble."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I was just getting busy with her and stuff. So it's all good."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So what sort of things have you been doing together?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Just, uh, just hanging out. Just watching movies and stuff just, I don't know, gives me something to do."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Gives you something to do. So we talked like back on that first time we met about how you reckon you've got a short attention span and like things to like to be doing things."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So you're watching movies with her, you're hanging out?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's, yeah, just chilling with her. It's good."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, and keeping-keeping out of trouble."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah mostly, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, what's the mostly?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, you know, [chuckles] mostly."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. So when you say mostly, it kind of leaves a little bit of room for there to be some trouble."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Am I picking that up?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh no, just stupid stuff. Just when she like-- she has to go to work and stuff, so I have to keep myself busy."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so she's- she's got a job."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, what does she do?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "She just works the whole day just typing numbers and stuff."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. So kind of 9:00 to 5:00 sort of job."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. She actually goes there four days a week though."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So we get to chill on Friday."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. So you two get to spend Friday together and the weekend."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. Okay, so when she's at work, what happens then?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, uh, sleeping and then, I don't know, catch up my mates if they're not doing anything and just get up to mischief with them."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. So what sort of mischief are we talking about here, Billy?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's, uh, [unintelligible 00:13:34] for the cars out there, [unintelligible 00:13:36] no not-not normally. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. Okay, so you're kind of skating on the edges of getting in trouble again."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I'm being careful though so-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. Okay. So I'm wondering how much of what you do on Fridays you tell Donna."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "But what do you mean?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, if we're talking about this idea about kind of scaling around the edges of trouble again,-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "- I'm wondering if she knows that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, not really."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So what do you reckon would happen if she knew?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "She'd tell me off."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "She'd tell you off."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, what-what are her hopes for you, Billy?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, okay, she wants me to be happy, I don't know. Me to get a job or something. So, get a nice car we could cruise around in it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. Yeah. So she wants you to be happy."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So what would- what would like a really happy life for Billy look like?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Just be able to buy her stuff. Nice car, nice house."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. A nice car, a nice house. Mm-hmm, what else? What must be a happy life for Billy?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Just and it'd be good just me, her and just be able to provide for her would be cool."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm, okay. So in five years' time, it's fast forward to the future. Five years time, how would you like it to be?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Just settle down and maybe have some kids or something, family life."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So, you'd be with Donna, and you'd have a house, and you settle down, maybe have some kids?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. It'd be cool."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yes? So, it sounds like having children is something you've thought about? Um."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I know she'd be a good mum, yeah. So\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. She'd be a good mum?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah? What sort of dad do you reckon you'd be?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'd be all right."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. Yeah?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What would be special about you as a dad?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, I wouldn't boss them around."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You wouldn't boss them around?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. That's something- that's something that's come up before with-with-- when we've been talking about that idea about not liking being bossed around."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What's that about, Billy?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't know. It's just like-- My dad was really strict on me when I was little, and I don't want to be like that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, I see. You wanna be a different sort of dad-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-to-to the dad that you had?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Okay."
+  }
+]

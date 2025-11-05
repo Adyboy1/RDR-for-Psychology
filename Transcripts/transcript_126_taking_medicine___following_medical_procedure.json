@@ -1,0 +1,258 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hello, Kaylie. It looks like you're here to pick up a prescription today."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. My doctor said he called something in."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. It looks like cholesterol statin. Do you know how you're supposed to take the medication?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, not really."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, you just take it once a day. Did he tell you what side effects to expect?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, some of the common ones are nausea, vomiting, headache. There are some severe ones like dermatomyositis, liver failure, lupus, rhabdomyolysis, hemorrhagic cerebral infarction. If you have any of those, just call your doctor."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay. Um, why am I taking this medication?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It's for your dyslipidemia. Oh yeah, just one tablet a day. Do you have any questions for me?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, I guess not."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. Great. Have a good day."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hello, Kaylie. I see you're here to pick up a prescription today."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. My doctor said he called something in."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, it looks like he called in cholesterol statin. Do you know how you're supposed to take this medication?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, not really."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Well, you take this one once a day. Did he tell you what side effects to expect?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. Well, some of the common side effects are nausea, vomiting, headache. There are some severe side effects like dermatomyositis, liver failure, lupus, rhabdomyolysis, hemorrhagic, cerebral infarction. If you have any of those, you should call your doctor."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay. Um, so why am I taking this medication?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It's for your dyslipidemia. Oh, and you should take one every day. Do you have any questions for me?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I guess not."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. Great. Well, have a good afternoon."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hello, Kaylie, I'm Lori, the pharmacist here at Bulldog Pharmacy. I see that you have a new prescription for cholesterol statin 20 called in by Dr. Ferris today. I wondered if you had a minute to talk to me. I just want to make sure that you know how best to take it, and if you have any questions."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Sure. I'm just getting a few groceries."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. What did the doctor tell you cholesterol statin is for?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, he told me that I had a blood test for cholesterol, and that I should start taking this."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "He's right. This medicine is designed to help lower your cholesterol, and that means that it will help lower your risk of having a heart attack or a stroke. How did your doctor tell you to take this medicine?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "He didn't really tell me. He just phoned it in."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Well, you're going to take one tablet of cholesterol statin 20 one time a day by mouth, and you can take that with or without food. When do you normally take your medications?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I take all of my other medications right before I go to bed. So I guess I could take it then."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. That's perfect because cholesterol statin works best if it's taken at night, though you can take it any time of the day. And you should take it every single day. It's important to keep that up. Where do you store your medications?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I store my medications, uh, in my nightstand, right by my bed."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. Do you have any children in your home?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Well, then that sounds like a perfect location for you. Medicines keep best if they're stored away from light and heat and moisture. What did the doctor tell you to expect in terms of side effects?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "He didn't mention anything about that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. Well, this medication is pretty well tolerated, which means it doesn't have very many side effects. But you might experience some mild muscle aches and pains. If they seem really severe to you, then you should call Dr. Ferris and talk to him about that. Also this medicine can interact with a lot of other medications, and even over the counter things. So check with the doctor or myself before you start anything new. And lastly, grapefruit juice can interact with cholesterol statin 20. So if you use grapefruit juice every day, I probably would switch to a different juice while you're on this medication."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Just so I know we're on the same page, can you repeat back to me how you'll take this medicine?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Sure. I'm just gonna take one tablet right before I go to bed with my other medications. And I guess I will switched to orange juice. And if I notice any muscle pain that is severe, I'll call Dr. Ferris right away."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Great, Kaylie. I know we went over a lot today. What other questions do you have for me?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, I think you answered all my questions. Thank you."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Fantastic. All right. Well, here's your prescription. I even put it on auto fill for you so that it will be filled for you every- at the same time every month. And if you have any other questions later, our phone number is right here on the bottle, and you can call me at any time. Thanks so much. Have a great day."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hello, Kaylie. I'm Lori, the pharmacist here at Bulldog Pharmacy. I see that you have a new medication to pick up today. Called in by Dr. Ferris for cholesterol statin 20. Do you have a minute to talk about it? I want to make sure that you know how best to take this medicine and to answer any questions that you might have."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Sure. I'm just getting a few groceries."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. What did the doctor tell you cholesterol statin is for?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "He told me that I had a blood test for cholesterol so that I should start taking this medication."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right, and he's right. This medication will help lower your cholesterol, and it will help lower your risk of having a heart attack or a stroke. How did the doctor tell you to take this medicine?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "He didn't tell me, he just phoned it in."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. Well, you're going to take one tablet of cholesterol statin 20 one time a day by mouth, and you can take that with or without food. When do you usually take your medications?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I take all my other medications right before I go to bed. So I guess I could take it then."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That's perfect. This medication can be taken any time of the day, but it does work best if taken in the evening, and it's important to take it every day."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Where do you store your medications?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I store them all in the nightstand by my bed."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Do you have children in your house?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No. I don't have any kids."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. So that sounds like a perfect place for you to store those. Medications are best when they're stored away from light, heat and moisture."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What did your doctor tell you to expect in terms of side effects?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "He didn't mention anything about that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. Well, this medication is usually well tolerated, which means that it doesn't have very many side effects, but you might experience some muscle aches or pains. If they seem really severe to you, then you should call Dr. Ferris and talk to him about that. Also, this medication can interact with over-the-counter medicines or even other medications. So before you start something new, you should check with either Dr. Ferris or myself. And lastly, this medication can interact with grapefruit juice. So while you're taking this medicine, I would avoid grapefruit juice."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Just so we know we're on the same page, can you repeat back to me how you are going to take this medicine?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Sure. I'm just gonna take one tablet of the cholesterol statin, uh, in the evening with all my other medications. And I guess I'll switch to orange juice. And if I notice any bad muscle pains, then I'll be sure to call Dr. Ferris right away."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That's great, Kaylie. I know we went over a lot today. What questions do you still have for me?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I think you answered all my questions. Thank you."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right, good. Well, here's your prescription. I even put it on autofill for you so it'll be ready at the same time every month for you. And if you have any questions later, our phone number is right here on the bottle, and you can call me at any time. Thanks so much. Have a great day."
+  }
+]

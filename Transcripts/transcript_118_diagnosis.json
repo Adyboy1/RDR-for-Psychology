@@ -1,0 +1,86 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hi, come in. [door closes] Sit- sit yourself down. Uh, what can I do for you today?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I've got myself all worked up now I've been sat outside."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'm not-- I'm now late. I'm sorry. Um, I've come to see you because I've got a really sore throat. It's been like this for a good few days, um, and I think I need some more antibiotics."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. Um, okay. Um, well let's, uh, let's just have a look shall we? See what's going on. You just wanna open your mouth for me. Say ah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Ah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Right. Uh, to be honest, you know, looking there, it just looks like one of those viruses that are going around at the moment that are causing these sore throats. So, uh, I think that we should just perhaps go for a bit of paracetamol and, uh, some fluids and let nature sort it out."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I've been sat here for half an hour. Do you not want to know a little bit more about it, or? I mean, it- it's really painful. I- I've barely been able to swallow today and I'm so worried about passing things on to the kids. Um\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, I mean, I'm sorry we're a bit late, but you know that's the general practice, isn't it? You know, sometimes these things happen. Um, but it doesn't alter the fact that you do just have a virus, uh, and they are very common. And the nice thing is that it will get better with paracetamol and fluids, and the paracetamol will help the pain. Um, with giving it to the kids, I'm afraid there's nothing we can do about that. It's unlikely they'll get it, but I can't guarantee it."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "[sighs] Well, I mean, this is gonna affect my job. I talk on the phone quite a lot at work, and I'm just-- I don't think at the moment I'm going to be able to go to work. Can- can I, at least, get a sick note?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh, well- well, not really. Uh, you need to self-certify in your first seven days off sick so if you're going to take some time off, just take some paracetamol, lots of fluids, get a self-certified note, uh, in to your employer, and put sore throat there."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I don't think my employer are gonna take that. I mean, they- they've given us so much hassle at things in the past. I mean, can- can I get a private note? Can- can I ask you to write me a letter, at least?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh, well, obviously that's a non-NHS thing so we have to charge you for that and our going rate for that is, uh, \u00a312."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Just- it's just not good enough. I just-- [sighs]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, I'm sorry. But, you know, if you have just got a sore throat, then there's not much I can do about that. It's just, you know, something that we all get from time to time. Perhaps, what you really need to do is, uh, you know, just take some paracetamol and get some fluids."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Parace- paracetamol. Do you understand how difficult this is gonna be for me? I mean, I could lose my job or something."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, that's pretty unlikely with sore throat. I think that's so, you know, a little bit of grand staging there."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'm sorry, uh, I think I'm gonna say something that I don't- I don't want to, so I'm actually going to go."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Thank you."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Bye."
+  }
+]

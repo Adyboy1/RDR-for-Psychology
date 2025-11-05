@@ -1,0 +1,134 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Steve, before we're done with our visit today, I was wondering if you'd be willing to take a few minutes to talk about your drinking."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay, like what?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, you filled out this survey for us today, which was great. Thank you very much. I just wanted to review a couple of things on here. I noticed that you said that you drink two to three times a week, drink three or four drinks at a time when you do drink, and weekly, um, have more drinks than that. So six or more drinks, it says on here."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Does that sound realistic?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, uh, on the weekends?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, okay. I just wanted to let you know, I'm a little bit concerned about your level of drinking. We know that excessive drinking can make problems worse or can actually cause health problems at times, and I was just wondering if you thought about the connection between your drinking and things like the anxiety and the insomnia that you came in with today?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, I guess I haven't really thought much of it. Um, you know, I don't really think I drink that much in the first place-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-so I have a hard time believing that it's causing my anxiety."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "In fact, on the nights when I don't drink, I-I have a harder time going to sleep."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, you're not alone, a lot of people think that drinking helps them sleep better, and in reality, drinking might make you fall asleep faster, but it has what's called this rebound effect, and this rebound effect means that you wake up, may, might wake up in the middle of the night or early in the morning and have a hard time falling back asleep."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I, yeah, I guess I do have abo-about 2:00 AM, I tend to wake up on the nights I drink too much."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. Well, I just wanted to just show you this little chart here. For your age as a male, you're drinking more than those at a low-risk level. Um, the low-risk level for men under 65 is no more than 14 drinks a week and no more than four a day. And, in this case, a drink is considered 12 ounces of beer, 5 ounces of wine, or an ounce and a half of distilled spirits. And you're right, you're not drinking as much as some people out there. The way you answered our questions here, you're actually falling in the high-risk category, the risky or hazardous category, category two."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Jeez, no. I didn't think I was that bad."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That's why it's helpful to look at this and give some perspective. On a scale of 1-10, what is your readiness to change, 1 being I don't want to change at all, and 10 is I really want to change?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't know. I mean, this is all news to me. I've, I don't want to do anything to put myself at risk and I've always thought of myself as a pretty healthy guy. I guess I'd put myself right in the middle of the five."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, that's great. That's halfway there. What kept you from just giving it a one or two, something lower?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, you know I'm training for the marathon, and that's why I'm coming in, is because I need to be able to get my sleep back on track, but I also don't think of myself as a hazardous drinker, and I'm certainly not an alcoholic. So, that's-that's why the middle-ground, five."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. Okay. Well, that's a good place to start. So, I heard you say your health is important, and you're getting ready to run a marathon, so you wanna be able to do what you can to make that successful. And you also were a little bit surprised that you fell into this risky or hazardous category."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So, based on all that information, what are you willing to think about doing to change right now?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I-I think the natural thing would be to cut back a little on my drinking."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. So, what would that look like for you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm, um, you know, I-I guess drinking no more than maybe three or four times a week, and-and on the weekends, which is when I would drink the most, cup back to no more than five or six beers."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, okay. Well, sometimes when people aren't ready to make changes like this, it helps if they write down their goals, it gives them a chance to see them in black and white. If you were to look at this little form here and figure out where you want to go with your drinking, what would you put down as your goal?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, doing the math, I guess no more than 18 drinks a week."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So that's an improvement. So you're headed in the right direction. I do wanna let you know that with 18 drinks a week, you're still falling above this low-level risk category, and that it would be my recommendation that at some point you would fall below into this 14 or less a week. But it's an improvement, and it's a great place to start, and I really commend you for your willingness to take a look at this and try to make some improvements."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Thanks."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So I'm hoping that in your appointment next month, we can touch base on this and see how it's going."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Sure."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Good."
+  }
+]

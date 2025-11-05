@@ -1,0 +1,1262 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Barbara Roberts?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes. Morning."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hello, there."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Hello."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "My name's Dr. Betty. I'm one of the new GPs in the practice. First of all, what would you like me to call you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, you can call me Barbara. That'll be fine. Thank you."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, that's fine. Okay. So, Barbara, I'm seeing you today, um, but I think it's usually Dr. Brown that sees you, is that right?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes, Dr. Brown is my doctor."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. What is it that's brought you to see me today?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I've come about my tummy problem. I've got terrible trouble with my stomach and, uh, Dr. Brown just doesn't seem to be able to get to the bottom of it. And I thought perhaps, uh, I'd come and see you to see if you could help."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. Okay. Can you tell me a bit more about your tummy problems?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, well, I-I have this terrible discomfort nearly all the time. Um, it very often feels bloated. I, um, uh, I swing between being constipated and having diarrhea. Um, I have sort of cramping feelings sometimes, and other times it stabs. It's a real stabbing feeling. Um, I often have the urge to go to the toilet and, um, and I pass very smelly wind."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. So, quite a few symptoms there-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "- and some of them sound-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "- quite troublesome to you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. And how long has this been going on?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I, uh, I've traced it back to a holiday I had in Egypt about four years ago. I had, um, a horrible bout of sickness and diarrhea, and, uh, and I don't think my stomach's ever been really right since then."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. Okay. Okay. So you think it began about four years ago after this holiday?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes. Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. And what's- what sorts of treatments have you tried for-for this before?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, uh, Dr. Brown gave me some muscle relaxants at the beginning."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, but I've been to the health shop and-and they've been really helpful. They've given me lots of different, um, tablets and medicines-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- for different things. Um, no, oh, and Immodium."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I have Immodium in my handbag all the time, just in case. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. So, these different tablets that you've got from the-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "- the herbal shop-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "- how are you taking them?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, well, different tablets, you know, I don't have the same problem every day-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- so I'll take some tablets for certain, uh, symptoms, and-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- other tablets for other things."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, am I- am I right in thinking you perhaps decide on a day-to-day basis-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "- what you're gonna take-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "- depending on what your stomach's doing?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Okay. And what about tests? Have you had any tests for these problems?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes, uh, I had, uh, in the early days, I had a gastros-gas-- What are they called?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "A gastroscopy."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That's it. Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You got the tube down-down from the top?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, and at the same time I had a barium enema."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That was very uncomfortable."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, but, um, no, I've tried-- Well, you-- I don't think he's tried enough tests because he said after that, that they didn't find anything-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and he-he's-he's just not sent me for anymore. That's it now-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- as far as he's concerned. Sent me back to the doctor."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. It sounds as though you're-you're not happy with that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, you know, I think that actually, the NHS are running out of money, aren't they? And he's-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- decided that I've had enough tests."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And, um, you know, if you go on the Internet-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- there's loads of tests that he could have sent me for."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, if I had a bit more money, I'd go private."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I just don't think he's got to the bottom of it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. So you feel as though actually, enough hasn't been done in the way of-of tests?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, he's not. There's loads more he could do. I'm sure."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. Okay. It sounds like you-you've had these problems now for about four years."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You've-you've got a lot of various symptoms in your stomach."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, you've tried a lot of tablets. Some prescribed, some herbal remedies-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "- and you've had some investigations, but you're not entirely happy that-that you haven't been investigated thoroughly enough."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Is that- is that about-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'd say so, yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "- if I got the story right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. And can I ask you, Barbara, how-how is all of this affecting you day-to-day? How's-how's it affecting your life?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, well, it's had quite-quite a big impact. Um, I mean, the first thing, the biggest thing, I suppose, is that I-I went from being full-time to part-time at work."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I just couldn't sit all day comfortably."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, and so I went part-time, but in the end, I, uh, about a year ago, I stopped work altogether."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I miss that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I miss the girls. We used to, uh, we used to go out at least once a week."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "To the pictures or for a drink. That's one thing."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sounds as though that's something you quite enjoyed."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, so I-- Yes. Yes, we used to have a laugh."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I used to go to Swing and Shape. I used to go to an exercise class-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- that was, um, I miss the exercise, actually. That was, um, once a week, but you know, the thing was I wasn't comfortable, never felt quite right doing all this exercise. I was always worried I was gonna be taken short or-- So I stopped that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, then-- Well, my husband and I used to go out for meals."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That's another thing we don't do anymore now."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, mm. Yeah, it's quite a few things, really."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, it does- it does sound as though over the last few years your life has really changed-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "- quite a lot because of these symptoms."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It sounds- it sounds like you're doing the review of the things that you used to do."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, what is it you'd spend your average day doing now?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I potter around the house-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- um, I spend perhaps a little bit too much time watching. I've got a bit hooked on daytime television, I have to say."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, they draw you in, don't they?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "They certainly do."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I read a bit-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- the old magazines, but, uh, generally, I'm at home."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Okay. And have there been any times over the last four years that you've noticed any significant changes in your symptoms? For example, have there been any times when things have been better for you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, well, last year, um, my son got married-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- and I-I have to say I was worried that, um, that I wouldn't be able to cope with it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That I-I wouldn't be feeling well enough, but surprisingly enough, um, I was in good form, and I think it was about three weeks in the summer, getting ready for it-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- and the whole hoo-ha of the wedding."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "But I was in good- in really good form for that. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That was a good time."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. And how were you tummy symptoms then?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I hardly noticed them."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, it, uh, it seemed to, uh, clear up."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Which was good."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. That's interesting."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And are there any times when your-your tummy symptoms bother you more? Seem particularly bad?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, well, it's- I'm-I'm having a bit of a bad patch at the moment."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's particularly, um, uncomfortable. Um, I have to say I do notice it when my husband's away. He-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- he travels with his job, and he-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- can be away a couple of times a month."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, and that's not-- It-it's very often not good then, I have to say."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. So you notice it's a bit worse when your husband's not around? Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm. Maybe I'm thinking about it a bit more, I don't know, when he's not there."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. I know you've been seeing Dr. Brown about this for the last few years."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What is it that he's said that he thinks might be wrong with you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, he's-he thinks it's all in my head."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know, he's- he says it's stress."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And what do you think?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I mean, it can't all be in my head. I get too much physical pain-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- for it to be in my head. I mean, it's real. It's-it's real pain."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And have you had any thoughts yourself about what you think might be causing it?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I mean, I-I did think that perhaps it was an infection that hadn't cleared up-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- in the early stages, but, um, I think, um, I-I mean, sometimes I think it's IBS. A friend of mines has got that and it sounds similar, and then-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- other times I'll think, \"I wonder if it's an ulcer.\""
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, on a really bad day, I start to think it might be cancer."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, my mother-in-law- my mother-in-law died of cancer last year and she had a, um, a growth that-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- the-the doctor didn't investigate."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "But by the time they'd found it, it was the size of a football-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh, dear."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- and it was- it was too late to operate then."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So, you know, when I go to bed at night now, um, I just feel to make sure there's nothing different going on."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And, uh, yeah, I worry about that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So you're- you-you're kind of prodding, having a feel at night?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "To see if you can feel anything?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I just want to make sure there's nothing changing down there, you know?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So just to-to make sure that I've got the-the story straight, you've-you've seen Dr. Brown for a couple of years."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You've-you've tried a variety of medications-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "- some prescribed, some-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "- from the-the herbal shop. None of them really made a great deal of difference. You've had some investigations-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "- but you perhaps feel you've not had enough investigations. And at times, you worry that this could be something quite serious like a-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "- a cancer. Is that-- Have I got the-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "- story right?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'd say so."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Barbara, what was it that you were hoping that I'd do for you today?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I thought, you know, you're a new doctor here-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- and you've just finished your medical training. I wondered whether, you know, with new eyes and a new way of looking at-at the problem-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- um, you-you probably know about different tests, new tests, that my doctor doesn't know about, you know, new developments."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So perhaps you could send me for some different tests."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. Right. So you were hoping that I'd send you for more tests?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I think there's-there's got to be something that a test might-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- might reveal."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. Okay. Well, I think, Barbara, having-having heard your story, and heard about the symptoms, I'm not sure that actually sending you for more tests at this point would be the most useful thing that we could do for you. And the reason for that is because you've-you've had some of the main investigations in the last couple of years, and-and they've not shown anything. And your symptoms haven't really changed that much. So it's very unlikely that if we were to send you for more tests now that-that they'd show anything different than what we already know. So a bit-- I think it would be a waste of time for you to go for more tests."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So-so like, do you think it's all in my head then? You're gonna be like Dr. Brown. You think I'm imagining all of this?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh, no. I think that you clearly have pain, and clearly you have lots of physical symptoms, and they're clearly getting in the way of-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-your life and causing you a lot-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-of disability."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I guess- I guess the way I think about these things is that they're not necessarily either all in the mind or all in the body."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sometimes these things can go together. Uh, I guess I'm thinking about how you told me that last year, when your son got married, uh, and you were very busy-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "- and quite happy, that somehow your symptoms seemed less."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And, uh, when your husband's away, which is something you don't like very much, sometimes, somehow, your symptoms then will seem greater. So, I guess what I'm wondering, Barbara, is if there might be some kind of a link with you between how you're feeling in your mind, and what's going on in your life, and-and how much your symptoms trouble you. Do you think that's a possibility?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I can't see that my mind can be causing this amount of pain."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm. I'm not saying that the pain's in your mind. Um, I guess what I'm saying is that sometimes the way that we feel, and the way that our lives are going, can impact how we notice our symptoms. Given that we've tried medication for you, and we've tried investigations, and we've drawn a blank really, with those, none of those have really helped you-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "- I guess I'm wondering whether now it would be a good idea to try a different approach to your problems."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "What-what sort of approach?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, I guess, thinking a little bit about those other areas of your life, um, uh, I'm thinking about the fact that over the last four years, your life's really changed. It seems to have really shrunk down."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And it sounds as though you're not doing lots of the things that you used to do. That you-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "- used to get pleasure out of. Is that right?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I just can't do them."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I can't- I can't do them anymore."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. And I guess I wonder-- Uh, it sounds as though you've-you've dropped doing those things because you felt you couldn't do them, but I wonder if, in a funny way, what's happened is the fact that you're not doing those pleasurable things now, has kind of fed into you feeling-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "- unhappy with the way that-that your life is at the moment. And-and I guess I wonder whether that can then make your symptoms worse for you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, I don't know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, I guess what I'd be wondering is whether one of the approaches we need to be using now is thinking about what you do with your life, and what you do with your day, and maybe trying to bring back some of those pleasurable things, you know, even if it's just meeting up-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "- with your-your female friends once a week, and whether actually doing those sorts of things might generally-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "- improve your quality of life. I'm also thinking about the tablets that you're taking."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And the fact that you-you seem to be taking quite a lot of them, and I'm wondering whether it's worth, though, sitting and looking at them and-and maybe trying to rationalize them a little bit, and really decide which are helping you, which are doing nothing, and which may actually be making some of your symptoms worse, I guess."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Hmm. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What would you think about trying that slightly different approach for say-say two or three months, just to see whether or not it makes any difference?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, two or three months is a long time if there is something going on. I mean, that's what happened to my mother-in-law, you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "They-they left her and-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- didn't spot it and\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, I guess if we- if we did decide to-to work together like this-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "- in this new approach, I'd be seeing you regularly. We can keep an eye on your symptoms, and if they change, then we can investigate as appropriate. But if they stay the same, then, you know, we can be-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "- pretty clear that there's nothing new happening that-that we're missing."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "How would that sound?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So, uh, what are you saying then? That I should come back and see you?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I think that would be a good idea. I think we've only just begun to talk about it-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "- and I think perhaps you need to have a bit of time to think about it and then perhaps come back. Perhaps if you're booked in for a double slot next week, and that would give us a good chunk of time to think about this new approach."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And perhaps if you could also bring your-your tablets in or-or make a list of them, we can look at what you're taking and perhaps go from there. How would that sound, Barbara?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay. Well, uh, to make an appointment for next week."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And come and see you again-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- and talk about it a bit more?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yes. I think so."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I think that would be a good- a good start."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "All right. And I'll make a list of the tablets that I'm taking."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I won't bring all the bottles down."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. All right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay. All right. I'll do that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, shall I see you again next week?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'll make an appointment for next week. Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. All right. Thank you, Barbara."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay. Thank you."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Bye-bye."
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hello, again, Mr. Green. It's really nice to see you again. If you remember last week, we looked at your results here and you've got impaired glucose tolerance and you were a bit worried about type two diabetes, your blood pressure and your cholesterol are up a bit too. So today, we're meeting up to talk through some of the things that you could do for yourself that might improve the situation. And as you know, there's all sorts of things can affect your health. So can we just have a bit of a general chat, but how are you getting on?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I suppose you're gonna give me a row and tell me it's all self-inflicted and I've got to change my ways and give up the things I enjoy."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Actually, I'm not going to do that because you're the boss. It's up to you what you want to do with you about your own health."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "The doc said I've got to take pills for the rest of my life."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You don't seem too happy about that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I feel fine, but the-the doc said it could save my life."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, there's a lot of things you can do yourself that will improve the situation as well. So what we can do today is wee up some of those things, smoking, diet, exercise, weight, loss, all those kinds of things. So we're just gonna start and see how you feel as we go."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay, what should I do first?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, it's very much up to you, you're the boss of your own life. Where would you like to start?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Where do you think I should start?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, I could give you my opinion. Um, and I can give you lots of information, but I think you know the score pretty well. And I think you'd know what I would say."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, uh, you tell me, stop smoking and lose weight and take more exercise, wouldn\u2019t you?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Absolutely. Spot on. So stopping smoking would have a huge impact, that would have a big impact very early on. Losing weight would also have a big impact because that would help with your blood pressure, your cholesterol, and also lower your diabetes risk. So what-what'd you think about those things? Uh,"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, I loved to lose weight but it's so hard giving up the things you enjoy."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It\u2019s really tough. It's hard to know where to start, isn't it?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I really should do. Or shouldn't I,"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "How important is it for you then to lose weight?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I'd like to see my children settled and my grandchildren growing up and I should,suppose I should be an example to them."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So can it be in there for your-your family's important to you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes. I want to be there for them, but not a burden to them."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. So w-where do you think you can start with that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, I've been thinking about them a lot lately, and I want to be there for them. So have to do what I need to, to improve my health."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What's kind of the first thing you might think about doing?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know, to start with, I could cut down on my drinking. Um, that's adding to my weight and to my blood pressure, isn't it?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. That would be a really good place to start, mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "In fact, I think I'll try and cut out the booze altogether. My wife says I drink too much at the weekends."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So I think it should be really supportive of that then."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And I suppose I could cut out the crisps and pies at works."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So what would you do to make sure you didn't get hungry at work?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'm gonna start having soup at lunchtime. I suppose a big bowl of soup would be far better than two pies."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Well, a big bowl of vegetable soup. You could probably count that as one or maybe even two of your five a day. So it'd be a really good place to start. Anything else you could think about doing?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, there's one, one thing uh, I've done already, I've stopped adding salt to my food. The doc said that would help with my blood pressure."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, that's good. That's probably benefited you already. And the other thing you might not be aware of is that salt intake is linked to loss of calcium from our bones, which makes the bones more fragile. So reducing your salt intake will really help with that too."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I didn't know that. Um, it's good to know. I'll tell my wife, um, she's still very fond of her salt and her mother had osteoporosis."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So well, maybe you can help her as well and that would be good. Well, I think you've got off to a really great start, Mr. Green. You're very well aware of what you-you need to do, and you've obviously thought about it and got some good plans in place. So you're going to reduce your-your alcohol intake, you've already started by reducing your salt intake. Um, perhaps when we meet up next time we could talk a little bit about smoking and exercise as well, when you're ready for that. So how do you feel now?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I feel if I go ahead and do as I say with cutting down on the pies, the crisps, um, and cutting out the booze, I feel I'm making a start but let's take it a step at a time and see how it goes. But, uh, the next day when we look at it, the figures might be a lot better."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That's great. So should we meet up at the same time next week then?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes, that\u2019s fine with me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That\u2019s great. All the very best then."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Thanks. You too."
+  }
+]

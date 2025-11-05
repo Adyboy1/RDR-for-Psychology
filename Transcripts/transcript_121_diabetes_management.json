@@ -1,0 +1,2394 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh, welcome. And, uh\u2014"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Thank you."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I'd say my name is Mark and I work here at Green Prescriptions. And-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I know a little bit about you from the referral letter from the doctor."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "From my GP?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "From your GP, yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "But before we get to anything, I'll probably want to just ask you a little bit about what's led you to come here today and get a bit of an idea about what's been going on for you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "What's led me to come here?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "My GP."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And what did he have to say?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, um, you know, I had my sort of, uh, checkup."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And it revealed that apparently, I might have diabetes 2. Well, that's what he says."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I-I think that I feel perfectly well. I-I'm, you know-- I understand people with diabetes are a little bit plumper than I am."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "But, um, that's really why I'm here. I'm on his command, almost."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right, so he kinda gave you a directive?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, he did. He says he's going to put me on some sort of program if it gets worse."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "But as I say, I-I feel absolutely fine now."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So it kind of came a bit of a surprise, you feeling okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You go for this checkup with the doctor. And he says, \"You've got Type II diabetes.\""
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm, I'm very surprised."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm. Came out of the blue for you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes. I think it did."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And you said you kind of don't fit that kinda Type II diabetes look. That you kinda have had this idea-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-you've been-been overweight with it."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That's what I understand."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know, and I'm not overweight."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I-I sort of look after myself to a limited extent in that way. Um, but I'm a busy person, I suppose I burn off the calories. And-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't know, really."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "My lifestyle\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm. So it doesn't quite fit in your head, Type II diabetes and-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-your lifestyle?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, not at all."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Comes as a big surprise. And what was your reaction when he told you that at the time?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I-I thought he must be joking. To be honest. I thought-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-you know, why you are-- Look around you."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm, mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "um, I just felt that, um-- I mean, I don't think he was wasting my time because why would he do that?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "He's got a lot to do."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um-- Absolutely right."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "He's got a job to do. And obviously, the tests have come through. And I have got these signs of diabetes 2."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right? Um, I just think that-- Well, I just don't feel like it, Mark."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So how are you feel in your head-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I feel absolutely fine."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-and what the tests say kind of like don't join up."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Well, physically, I feel absolutely fine."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'm-I'm-- I didn't see anything wrong with me at all."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean, I get around, I sleep pretty well-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I sort of you know-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "- I'm-I'm compos mentis. So I don't\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. What's the problem? Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "What is the problem?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And how did this happen is probably kind of what you're also thinking. Well, how did this--?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, uh, yes. I mean-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-I must admit, I haven't done too much research. I've been a bit busy."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, but he-he was saying something about, I don't know, family or whatever. I don't know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And I don't know if it's hereditary."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I think he said something about it being hereditary."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So he mentioned, it might be a family thing. And so you-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-maybe got from your parents or something of the sort."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, it could be-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-because, um, my mother mentioned-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-that, uh, my father had diabetes-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-diabetes 2. And if I think about it, um, his brother-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-uh, I haven't seen him for years."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "But he might well have it because he is-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-a pretty cuddly guy. You know-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "He's pretty big."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So he fits the picture-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, yes, the stereotype,-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-when you think about what he-he-- Yeah, he's stereotypical."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I guess."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "A little bit bigger, perhaps doesn't look after himself that well, and he fits that foot"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, yeah. I mean, as far as I know, I hadn't seen him for-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-I don't know how many years."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm. So you got this knowledge as a witness there's some family history of diabetes in the past?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Apparently so. Yes, apparently so."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Doctor mentioned that as being a factor."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm, I mean, it is hereditary, is it?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That's certainly true. Yes. We know that people who've had parents or have been in the past, there is a hereditary factor or genetic factor in-involved."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "A genetic factor. And so, does that mean that if you've got, um, if you've got a history of this within your family-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-if it's a gene-- you are more likely than not to get it?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Correct. Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Also, it's\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "But it's not inevitable."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right. Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Because its genes or the-the-the-the hereditary factor is not the only factor that causes it or is involved in it happening to you. So there's other factors that come into play."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'm sure you're going to tell me what they are."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, you've-you've mentioned some of the things you know, and one of those is hereditary factors. You mentioned that the doctor mentioned that. And what else do you know or have you heard? You say you haven't had a lot of time to do the research. What else? Other things you've."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "To be frank, Mark, I honestly don't know. I mean, I honestly don't know what causes it because I've never had any reason. It came upon me from the GP and it took me back."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, the hereditary thing I thought, well, maybe that's the explanation."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That makes a bit of sense."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And why go any further, it's there?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Can't help it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "They live pretty long lives, they did, all right."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "They managed with it."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Relatives relatively went into their 70s."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. I don't know if it'd be helpful for you if you'd like to know a little bit more about some of the factors involved in time Type II diabetes."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "If that would help."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "If there's something that you think that-- Yes. Yes, of course."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, I'll perhaps share with you what I know from working with other people and some of the things I've experienced in working with people."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And see what you make of it. See if it fits a little bit more with where you're at. We know that there is a strong family factor or hereditary factor, so that's one aspect. So also it tends to happen a little bit later in life, rather than something you might get when you're a teenager, this type of diabetes. So-so it's a later onset. It takes a bit of time for it to develop maybe. And the main reason I think, um, the main aspect of it is that it, have you heard about insulin."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I've heard of it yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So that's a hormone or a chemical, it allows you to utilize sugar in your body."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. And Type II diabetes typically people have a resistance or a resistance to insulin in their cells, in their fat cells or their muscle cells or liver cells. They can't use insulin. And so sugar builds up in your system."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Are you saying that they-they like they can't digest insulin or is that?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You need insulin in your cells, individual cells in muscle or in fat or wherever to, um, use up excess sugar or to utilize sugar."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, I see. So-so it's like a-it's like a balance."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That's right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So insulin you-you."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Kind of, as your."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You have yourself draws bar."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yap."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Or something, and then what balances that out in the body is the insulin taking off the excess."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Or-or digesting? Should I say the excessive sugars?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That's a good way to think."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Is that what happened?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Exactly. And what's happening in Type II diabetes is your-your fat cells and liver cells and muscle cells are resistant to insulin. It's almost like they're saying we can't use that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Why?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And if-- Well, there's a number of-- We're not entirely sure, there's a lot of research still going on as to how this happens and how that could be modified. But what we do know is that, um, one of the key things in managing it is to try and modify or modulate, control the amount of sugar that are in your system."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right. Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. So there's a couple of things that we know that people with Type II diabetes have to look after and have to think about if they want to control the amount of sugar that's in their system, which is the main issue that's causing some of the health problems that people have with Type II diabetes. Too much sugar, and if it's not able to be utilized in the blood cell, in the fat cells, or liver cells, and the muscle cells stays in your bloodstream. And that can cause problems with your circulation. So too high blood sugar and too low a blood sugar can be a problem. So sugar is the main concern in Type II- Type II diabetes.And you mentioned earlier on, a couple of things that the doctor-- You've mentioned some signs that he was kind of a little bit concerned about. Well, what things did you notice over the-over the last month or so?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You mean, personally?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I didn't know. I mean, the thing is you see that-- I mean, I did think about this a little bit and I thought, well, over time, if things happen slowly, you don't really notice."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "As you get older."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean, I don't-I don't leap over five bar gates like I used to, you know, um, as opposed to, uh, running with the backs now, I tend to spend more time, you know, with my old mates in the bar."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "At the rugby club and-and-and the such like, yeah. And, um, the fish I'm hooking, I'm not after the kings anymore, I go for the snapper now, it's a bit easier, you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "A slightly more sedate lifestyle."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, absolutely. You just do."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You just do. Um, so you're less demanding, I guess, on your-on your body, you realize, and you don't really want to do these things anyway. You know, you let the youngsters get home."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Been there, done that. So you don't really notice. So I'm coming back to this diagnosis I had from my GP and him saying, \"You've got diabetes 2,\" well, I should feel like that, shouldn't I?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. It should feel like there's something really wrong with you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I mean."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What's-how have you been feeling over the last month? So, you say you're very busy you're doing a lot of work."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I mean I'm a busy person. All right? I uh, my work uh, I work in insurance, so I'm always hopping from one place to another place."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I haven't noticed."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mh-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I really haven't noticed how, um, okay I get a bit--I suppose I get a bit out of breath sometimes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "If I rush too much that-that's true. Um, I suppose, um, I don't go upstairs two at a time anymore, I use one at a time."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So a little bit sort of energy is not quite there sometimes? The vitality."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, certainly the energy I have is-is not what I-what I had. I mean I do need to, you know, I'm busy but I do need to sit down, um, uh, I do need to sit down and relax with a cup of coffee, you know, and, uh, things."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, Mh-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, more than I would normally."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "But that would be, that would be about it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mh-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, is it getting worse? I don't know. I-I-I suppose. What worse? Is it-is it increasing? Well, to say, I don't really notice it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You haven't noticed it. So it's a progressive, you know, you've just seen this, as-as you got older, things have slowed down. You know those activities you used to do, but that's kind of like what happens."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah. Um, at least, that's what I think. I mean I don't know if you're telling me that I should be more active or my GP is saying I should be more active."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mh-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, as I say, uh, you know I-I don't do any regular form of exercise, I have to say, not anymore."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "But maybe I-maybe I don't know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm, a bit of a mystery there."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean I've got uh, well I-I mean I've got a great lifestyle. I mean if it's very-it-it's very good. I mean I've got all my mates in down at the rugby club. And I've got uh, you know even in the summer when that's a bit damn. I used to coach rugby and I coached cricket when I finished playing. So-so I've got the-the guys in the cricket club, um, you know, for the-for the, uh, for the summer evenings. And, uh, and then, uh, the-then, of course, we've got the fishing, and that's all of us combined. We're a big gang, really."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Really? So what I'm hearing is there's actually a lot of aspects in your life which are really good."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, I think my life yeah. My life is great."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "From your perspective, things are going well?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "My life is great, and then you turn around and say, \"Hey you've got-- you-you're ill, you're sick."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. It doesn't fit."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And um, no I'm not. But you see, he said to me that he's gonna put me on some sort of, uh, a daily monitoring of, is it sugar levels?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mh-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And I'm gonna have to take regular pills."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well frankly, the only pills I take are sort of paracetamols."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. When you get uh, a headache."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "For a bit of the head in the morning, you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So the idea of having to test-test your blood sugar and take medications is kinda like off--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Come on, you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And you know that's a bit too-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, life is too short."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Too much."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know it's the truth."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean you know\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And you're here today and that's probably something in you you've thought well I'll follow this through, you know I'll-I'll come along and see what-see what they've got to say. And I'm just wondering for this session, for the time we have today, there's a number of things we could talk about. You mentioned a couple of things about your lifestyle and, um, medication is one thing you've been told by the doctor you might need to do that. And a number of things that we could talk about today. Which-which area would you think would be useful for you to focus on?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well there is-there is something that you sort of prompted me to think about, and, um, I split up-- My wife and I, we split up several years ago now. And, um, you know we've been married for many many years."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And um, I think she used to look after me because she used to do the cooking and-and-and stuff like that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And I have to say that I'm not the best cook in the world."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mh-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, and-and being on the run all the time and you know once I get back home, it's, you know, it's time to go down to the rugby club or whatever it might be, uh, we're out with the mates. And, uh, I-I do I suppose my food is not as healthy perhaps as it used to be when she was around. She's moved down to Hamilton to live with her mother, if you've met her mother. Anyway, but, um."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So then, since you've been on your own since you've separated, divorced and you've noticed that the things you eat and how you eat has changed."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I mean mates and their wives are pretty cool about it sometimes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Because, you know, they'll invite me for dinner and so on."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And, yeah, yeah, yeah. I guess, you know, that's when you, well, or whatever reason, you split up in life."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You start looking at the home life of somebody else, you're thinking, \"Hmm, I use d to have this.\""
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm. Yeah, yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And you think, \" This is nice food, \" isn't it? and you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. And your-- part of your wife used to do a lot of that for you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, she would do all the cooking. Yeah, yeah,"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean, I never bothered to boil an egg in the water, you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And so she would kinda look after what you ate and healthy things that you had, spread in front of you and off you go."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Totally. I mean, I was just in charge of the wine, you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. And now you have to think about what you might eat and sometimes you don't eat the best."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well I-- This is what I'm saying. Maybe I'm not thinking about it. Maybe that's the thing."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Maybe I'm just\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know, because it-- you know this-- the pizza shop's just on the road."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And then there's-- I mean, okay, I confess that lunchtime, occasionally, it's uh, I'm hungry and McDonald's is very convenient"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-or Kentucky Fried or whatever."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Very appealing, isn't it?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know, it's very easy. and then, um, then you think to yourself, well-- I mean, I do think of myself that maybe I should have a few vegetables around here or whatever. But then you go out into the supermarkets, you know, and you can pick up, uh, your- one of your TV dinners."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm, Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So you bring those in and you open them up and put them in the microwave and there's vegetables there."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah they look pretty good on the plate, don't they?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, it looks- it looks fine, you know, et cetera. I mean, so that will happen occasionally if I've got a night in. But cooking-wise, no, I haven't cooked anything, um, other than boil the water for the kettle for a cup o coffee."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-for ages."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "They're food choices in what you eat and what's in your diet it's not what-something you actually you've actually been aware of or had to think about in the past."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I do miss her breakfast. I have to say, we used to have get a nice breakfast."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So one thing that you noticed is diet and the eating patterns and-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-when you eat. That's one aspect. What other aspects do you think you've-- you would be--?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I used to be quite a heavy smoker, right? I mean, I'd smoke a pack in a half a day. And I knew that wasn't doing me any good."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean the thing is when you're a-- I mean, I've always smoked. So, but when you're young and you're a sportsman, you know\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You kinda juggle those two things and kinda--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, the two things they balance out, you know and everybody else is"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You still run and have a cigarette?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know, you pass a cigarette down the backline almost, don't you? You know, just before the game gets\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm. Hmm. Yeah, part of the culture."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, part of the of the whole thing. And it's changed a bit now, because in my day when we were playing, of course, it was a very much more of a social game, which was spent-spent in the rugby club."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That's why you played and it was a big buddy-buddy thing."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That was rugby and cricket was the same really."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, but now\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "But over the years, you've actually reduced your smoking or you've stopped altogether or at times?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well I-I, yeah. I was getting a bit sort of-- I was getting a bit, you know, a bit wheezy and I thought, \"I'll cut this out.\""
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "But I enjoy smoking. I really do enjoy it. So I cut it down to I suppose it's about 10 a day now."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so you meant to reduce."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You were noticing that it's having an impact on your breathing and health wasn't so good."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "When you related that to your smoking, so you managed to reduce your smoking."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah. I sort of\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So you've made our decision to do that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "it-it-it's-- you know, she will, \"Why don't you give up? You've gone so far, why don't you just stop?\" But I don't want to."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's-it's-- I-I enjoy it, um\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, and it's hard to get to stop something you enjoy, isn't it?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, yeah. I mean, you know, the thing is that you get to, you know, you've got to-- when you get down to that, you, uh, you have to regulate sort of-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know, you have to be quite strong-willed about, I suppose, in a way."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So you say, \"Okay, well, you don't have a cigarette unless you have a cup of coffee. [laughs]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Of course, that's a double-edged sword a bit, because then I found I was drinking more coffee, you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "But they go together so well. And sugar in the coffee?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, yeah, yeah. I have two sugars. A couple of sugar in coffee. Yeah, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So we cut that down as I say."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "But the problem goes that coffee, we're up to 8 or so, 10 cups of coffee a day now."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You're drinking more coffee. So what I've heard you say so far is, if I can just start right back from the beginning and you used to come in and sais, \"I went to the doctor.\" You went for-- it sounds like you went for just a checkup."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, you know, there's a friend of mine, one of the guys down the rugby club, he said- he said, \"I'm going for my annual, you know-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "MIT."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-warranty of fitness, sort of thing, you know. And I thought, now that's an idea, not been to one of those."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Got to check out, why not?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So I'm 55, and you read in the papers, you know, it's that at 55 you will-- you know, heart disease is more prevalent"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and all these sorts of things that you get around this middle-age time. So I thought, \"Well, I'll go and have one.\" And frankly, when I went along, I was very confident. I thought, you know, the doctor is going to saying, \"Hmm, I wish I was as healthy as you,\" sort of thing."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, but unfortunately, uh, he-he came up with this. And it's the only thing I think he really came up with. I think-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So everything else looked pretty good?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "My cholesterol is quite good, not too bad."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Cholesterol good, your weight is good."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah-yeah. Not too bad."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, you are smoking, but you've managed to reduce that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, yeah, I've cut it down, yeah. I mean, that's been three years, mind."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And anything else, you know, you go ticking down the list. The tire is good, oil good."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Absolutely."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So we're looking good."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And then we come to this-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And ah, hang on."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-too much sugar in the tank, or something. I don't know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, there's something wrong with the, uh, with this bit."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And it doesn't quite fit with how you see your own lifestyle."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Because you've-- it sounds like what you've been doing, you've made some conscious effort to be aware of some of those things you might think are important."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean, yeah. I mean, you know, the thing is, you see, the thing is, and I mean, and probably you've-- I think you've heard this before, but people, they turn around, oh, uh, you know, doom and gloom prophets, you shouldn't drink."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You shouldn't smoke."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And then I think to myself, \"Well, maybe I shouldn't socialize.\" And then after that, \"Well, maybe I shouldn't be alive.\""
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So like a domino effect, and they'll all be just sitting-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know. I mean, what-what-what's going on here? This is- this is- this is so many people's lives."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And um, I suppose, you know, if it came down to it, then, and somebody said, \"Well, you can solve this problem by taking a pill once a day, um, you know, it will keep it down, and there will be no problems,\" Then I-I could go with that. But what I don't want to do, um, the doctor was saying, or insinuating, that I'd have to change my lifestyle."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "A bit broad kind of like you've gotta change everything."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. It was um, and I-I said, well, no. I'm sorry. [coughs] I'm not going to change my lifestyle. I've got to where I am. I'm reasonably happy. Okay, I wish I wasn't separated. Okay, I wish my kids were-were still around, um, you know. One of them is off now in, um, in-- back in Europe playing rugby in France."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. And your thought was, yeah, right, I hear that, but actually, I don't want to make all these big changes in my life."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, I don't want to, because I don't feel that I need to."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Feel like you need to. Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean, it's you know, why?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I can't argue with a medical professional, Mark, because I know nothing, you know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "The test, is the test, and experience, yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So, I mean, what-what-what-what suggestions would you have? I mean, what-what sort of-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I don't know. I think it's up to you where we start, and that's the question I've got in my mind. You've mentioned a couple of things that you've already made some effort, or been conscious of. You've mentioned the diet, you've mentioned your smoking, those are two quite important aspects that we often talk about here in how people work."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Is smoking related to diabetes then?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It can have an impact, yes. So smoking, um, affects your blood system, so it hardens the arteries, um, and over time, it can have a significant impact on the healing of wounds. So people with Type II diabetes, often, if they get a cut, or a bruise, or something, it takes a long time to heal. Smoking reduces the amount of oxygen in your system, so that can further, you know, limit the time it takes your body to heal."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So we know that smoking and Type II diabetes together-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Don't help."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-isn't a good combination."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Is it okay if you have one without the other? I'm sorry, it's a silly question. [laughs]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, the question is, I suppose, that I have for you is, where would you think, for you, would be a good place to start? If you were gonna make any changes, even small changes at the beginning, rather than just thinking, oh, I got to change everything, which it sounds like you're not prepared to, you know, do a whole lifestyle change, and I don't think that's what we're talking about here. Where would you feel most comfortable to start if you were gonna make any changes at all?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Where would I start? Well, I-- What if about if I cut down on sugar in the coffee? If we could have long blacks, no milk, and no sugar."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Hmm, that might be a start."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I think I could- I think I could probably handle that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hm. What we also find is that people make these little changes, small changes, and that starts to kind of well, it makes them-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Something of a rollover effect."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-rollover, the domino effect starts to happen, and they start looking at other aspects."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Domino effect, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So rather than thinking, \"oh, my God, I have to change all these things. I've gotta stop smoking, I've gotta exercise more, I've gotta, you know, start eating more fruit and vegetables,\" you might start with these small changes, and then-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean, how much exercise should I do a week?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, I-I'm reluctant to give a prescription for that because I think it's really up to you. And I think it depends on how things go, as to how much you need to do."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You mentioned earlier on, the doctors talking about you monitoring your blood sugar."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So on how-- It depends on how-how that goes. Let's say, if you started doing that and you do some more exercise, you start to have longer blacks, rather than short blacks with lots of sugar. And you get down the sugar and you find your blood sugar starts to come down, then we're heading in the right direction."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay, so\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So it's really, I suppose, up to how things go for you, and you get that feedback. And if that's going in the right direction, you carry on doing and do some more of that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So, a-are we saying then that-that, really all I need to do, for this moment, is I can forget about everything, but cut out the sugar, uh, in the coffee and the milk-- I don't know, but you might as well, you know, milk without sugar is silly. But, um, if we do that, is that where we start?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I think where we start is where you feel comfortable starting."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I mean that's something that's not difficult to do."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Apples for breakfast."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You start off at breakfast and get yourself an apple, a bit-a bit of apple and-and so on. Um\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So what I'm hearing you're kind of saying is, that there's-- You're now starting to think of some very useful little starting points."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Maybe."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Not huge changes, but some little things you could do."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And it's kind of dawning on you there may be some possibilities here for making some changes. Let me ask you this. Um, let's say you put some of these things in place and you start to make some of these small changes."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, where do you see that taking you in the next set of three, four, five years? You know, where do you want to be in three to four years' time? What would be your ideal picture?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, you know, and this is difficult because I don't feel unhealthy now."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "No."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So, I suppose it would be fun to-- Maybe I should join a club or two, that's what I'm thinking because I'll be with mates."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah? You like the social aspect?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I love the social aspect of it, and, um, there's-there's-- I know there's a bar in this club as well. I-- Don't-don't misunderstand me, I don't drink-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "No, no, I get that. I get that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-till-- You know, I'm not an alcoholic or anything like that, I\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So part of that whole keeping fit and exercise stuff is actually the social side of it, isn't it?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So yeah, so to get that balance, and maybe that's what I'm actually missing in life, and maybe this is, um-- I mean yes I do get up in the morning sometimes, and I suppose I do feel a bit\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know? Even after a decent night's sleep, you know?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Haven't quite that-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And you need-- I'm getting this cup of coffee and maybe I'm\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And the coffee helps a little bit because it perks you up?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And that gets me going. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And the sugar in it helps too."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, the sugar gives me the boost, I suppose. I-it's fantastic."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So what I'm hearing is that your life, your work, your routines are-- Sometimes you're driving or you've got to keep awake, get up in the morning sometimes and you haven't quite got that buzz or the energy. You need a shot, and then throughout the day you might need just more shots to keep that energy up."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Hmm. If I give up sugar in my coffee, give up the milk, black coffees, right?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "if I find some social form of exercise, like squash."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And an activity which has got a starting to finish and it's something you do for a slot."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And then there's maybe some social aspects to it as well."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, and then\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You can see some benefits and some enjoyment that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And then, you know, give this, say, six months, I don't know what period it would be, then go back to the GP and say, \"Test me again.\""
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That sounds like a great plan."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And so maybe that would, uh\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, sounds like a good idea."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Maybe it's an idea. I mean\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I think anything you do, it has to be something you've decided. You know, just start where you want to start. You've mentioned some really good ideas about possibly getting a little bit more exercise into your life, doing something like squash or something of that nature. You've mentioned some really good ideas about reducing the amount of sugar you-you-you're-you're intaking during the day, and coffee is a good place to start. Having an apple for breakfast, I think you mentioned that, a bit of fruit."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, like my wife used to. Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Those are some really good ideas and good starting points. So thinking about it like that, what-- Where are you now? What's your-- What-what-- Where-where is your thinking now?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, you see, I mean, I'm thinking, \"Actually it might not be a bad idea this,\" because [chuckles] it would mean I could socialize harder, couldn't I? No, no I'm just joking. Uh, but, um, yeah, I mean, why not? Why not? Why not? It might be fun, it's a new path."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What's to lose? What's to gain?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, it would appear that there is something to gain, and-- I mean, I-- What do I lose? I don't know until I do it. But I'm thinking that if I do it and I do what I'm enjoying doing, I won't miss what I'm not doing. Does that make sense?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It does make sense, yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, yeah I don't mind. I-- It's not a\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So when you look at it, there's probably more to gain from making these changes than there is to lose."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'll talk to Billy about, um-- Billy is, um, he's the gym bloke."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'll have a word with him because I'm due down the club tonight."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Really."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So you've got to work these things on your mind. You know, the-- And workout where's the place to start."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I think that you say where-where you're at now, where you're going, where\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and-and-and this is what I've got to do. I think I'm in a rut. I think that's where I've\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You've been stuck?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'm-I'm just-- I'm-I'm satisfiedly sort of contented, uh, sitting in this- in this rut and, um, that my doctor has actually di-diagnosed me with diabetes 2-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-which he says can be managed, and you seem to be insinuating that it can be managed."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Indeed, yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, maybe this is a blessing, actually-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So rather than--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-because I think to myself, \"Well, if someday, I am diagnosed with diabetes, I'd just carry on and-\""
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Carrying on."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "\"-sitting in the corner of the bar, and chat, and talk and probably get fat.\" I don't know, and make it worse. And, yeah, maybe, maybe, maybe, maybe."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So it's been a bit of a-a bit of a shock, but now you kinda reflect on it."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, that's cool."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Maybe this is the-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That's really cool."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-bit of a shake that I needed, you know, just sort of remind me. I might feel okay. I might-- From my perspective, your perspective, you're thinking, \"Well, what's the problem? Everything's fine.\""
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "But now you seem to be thinking looking and thinking, \"Maybe things weren't, or aren't, as good as I thought they were.\""
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I mean, I think you're quite right. I think you just\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Things could be better?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't know, you become sedentary, don't you? No, it seems that-- No, actually, this is quite exciting. It quite [unintelligible 00:31:28]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, I sense that. I sense that in you that you're--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I think to myself, I think, \"Oh,\" I think go\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Quite invigorated with the idea of--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I mean, this is- this is- this is cool, it's like an old challenge again."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Making some of these changes. Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "This is good. And, um\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You're up for the challenge?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I think I am. I mean, I never thought about it, but when I think about it now it's, \"What am I doing here?\" Why am I like this? Why am I just happy contented to drift?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So think about when you were-- This-this is an interesting question to see what you think. You were- you were a coach. You-- Maybe you'll be a coach again."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What would you say if you were talking to yourself, if you like, you know, if you were the coach saying, \"Right--\""
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, so if I was obs- if I was sort of-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, what-what would you be saying?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-observing as it were?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Watching myself, what would I say? I-I-- Well, I would say, you know, are you happy?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That-- Are you contented with that performance of you and your team?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And, I suppose, our own personalized a little bit like that, there's lots of different aspects that need to be tweaked."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Modified and looked at, to get the best out of ourselves, to get the best out of the opportunities we have."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I think you're- I think you're right. I think, um-- And again, you put them together and it's-it's-it's becoming-- It's-it's a sort of a-an individual team job, isn't it really?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That, okay, do a bit of this and do a bit of that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Some good things I'm- some things I'm good at and there are some other aspects we think, \"Well--\""
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, but I don't have to give up anything really, do I?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It's not about giving up your personality or-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-changing who you are fundamentally."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No it's not. It's not."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It's just tweaking things. Just fine-tuning a few areas and being a bit more aw-aware of one aspect of your life a bit more, like the food choices or whatever. Well, Mike, I-I've really enjoyed listening to your perspective, and your story a little bit, and it's helped me a lot to get an idea about where you're coming from, and a little bit about who you are, and what's happened in your past. And-and we've also talked a bit about what's going to happen next. And you've come up with some great ideas. What I hear you saying is that, you know, before all this, before you met the GP, things are going fine.Well, as you would of-- As, you know, as you'd seen it, you were just doing your thing, and getting on working, and being busy, and being successful, and then suddenly this diagnosis, this doctor tells you that you've got a problem."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It comes along to me and talk today a bit about how you felt about that. Initially, it can be quite a bit of a-bit of a shock. It didn't quite fit with how you saw things."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "True, true."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And as we've been talking, I'm hearing you're saying that maybe if you look back to where you were before you went to the doctor, things weren't quite that right, maybe. Things weren't as good as you thought they were."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Now that I think about it- now that I think about it, maybe."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Maybe they were."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And what I also hear you saying, it's possibly the-- It's now possibly more possible, in your mind, that you could make some of these changes, rather than bring broad-brush, you know, huge changes to your lifestyles. It's not about changing who you are, it's not changing huge facets of your life, but maybe small steps that need to be taken."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, you see\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What you're kind of thinking about what those might."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm. When your life comes to a halt-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-your family splits up, or whatever, and you don't have anymore, I-I think you stop caring really. Uh, y-you know, you stop caring about yourself"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Because everything is just f-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Nobody there too."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Nobody there, [crosstalk] it's true and so,-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-you know,-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mhm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-you don't care."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So now it's time-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So that's maybe [crosstalk]"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-to think about looking after yourself a bit more."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Maybe, a bit selfish but maybe why not?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Why not?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Why not? Yeah, that's a good idea."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. So, we've run out of time but I also want to ask you a final question, where to from here, what's next?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh right, well, wha-what we talked about. Now, you know, uh, okay, uh, coffee. Right? No sugar."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You'll start with that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'll start with that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I'm gonna, um, I'll be talking to Bill, uh-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "The gym."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-about the gym but-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-I like the idea of, actually again doing squash-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-or something else-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and I'm gonna go down to the rugby club and I'll- I know that will be accepted. I'll offer my services again because-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-it was reasonably successful."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And, uh\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And you also mentioned you'll perhaps go and- back and see the doctor and just give him a bit of an update as to-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, [crosstalk] oh, well, okay, yeah I didn't- yeah, I'll go back and say-- Well, look, I'd-I'd rather not go back to the doctor and say, \"I'm gonna do this, this, this-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-this and this."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mhm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "This is between you and me."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yep."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "All right?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It's fine."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "But this is what I'm gonna do. All right? And like I said, I'm gonna make the inquiries, I will start there-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sure."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-I will give up, uh, I'll give up the V drinks,-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mhm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-I think, um, look for some better wine. [laughter] Um, and-and I-I'd take an interest really."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You are gonna make a start?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'll take an interest really and-and, uh, but it is quite exciting, Mark."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It is. Well, just to help you, because there's probably a lot of other questions you might have, other questions that might come up after this session."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-before we go, I'd like to just-just give you a lot of- some information that might help-help you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Not too much."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Not too much, just some stuff that might just give you a little bit of background information on-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-some of the things that have-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Just give me a bit of background, really."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-around type- around Type II diabetes and some,-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh, yeah, and what it is-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "[unintelligible 00:36:53] some of that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-because I don't really know. Yeah, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, and I'd like to us- for us to meet again, so to catch up with you and make an appointment before you leave. Just to see how things are going and-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-see what sort of little changes you've managed to make. I'd be really [unintelligible 00:37:07]-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Wha-what are we talking about, sort of few months down the line?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It's really up to you. Probably a little bit sooner would be good."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "What, in about a month's time?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That'd be great."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, okay, I'm up for that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "How does that sound?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'm up for that. Yeah, now-now that's putting me, um, that's very gently putting my head on the block"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Because you don't know the timeline?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and I don't mind that because, um, yeah, that's cool."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mhm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah. I'll see you in a month."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No worries."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Excellent, excellent. Thanks, Mike. [croostalk]"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And I appreciate it. Thank you."
+  }
+]

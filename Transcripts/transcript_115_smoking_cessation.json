@@ -1,0 +1,190 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so why don't you have a rinse, David. How are you feeling?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Good. Here, take a look, see what you think. And that feeling-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-and the color's okay? You know, there is quite a lot of staining so, um, I'm just wondering about, um, some concerns about smoking."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Oh."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Possibly-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Gonna get that again."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-coffee, tea. Yeah, you've heard this before, I'm sure."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I do all the above, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. So, you know, the smoking is going to be related not just to some of the other negative consequences. You know, physically, it affects dental caries, dental cavities-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-um, healing-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-in your mouth."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay. Sure."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I've heard it all. I-- but I just want to get my teeth fixed."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yes, and I really want to be helpful. I really want to-- you know, my commitment is to your oral health, so um, there are lots of medications out there, David, that actually take away a lot of the cravings. They're-- they make quitting so much easier."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I did a pill thing, so I did try it. So like, I did try try it. I just did the pills and they didn't work."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm. Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It was a waste and it caused more side effects"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": ".No, it-- but David, it's not a waste. Research shows that people take on average about seven tries before they quit smoking, so think of it as you're one step closer to quitting, so--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Or seven lectures along the road."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, I don't think I'm giving you a lecture, that's certainly not what I meant. I--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No. No, I just feel that way. I get really-- I get very defensive about when they bring-- cause I get it from my family doc, from my cardiologist, everybody. I'm like, I'm not a complete fool. I am for smoking, but\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, there's-there's a reason that [crosstalk] people are concerned."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-but it's not easy to quit."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "No. But as I said, these medications-- so you've tried the medication, you've been willing once."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Then, can I write you a prescription for the medication? Can we talk about how you could use it? Because this is something that-that's very important. Not just for your overall physical health, for your oral health--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I guess I got to really want to and-- things I've tried usually caused me more problems than they helped."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Oh no, the smoking's going to cause you more problems than the-- than anything else. I can promise you that, David."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "The side effects from the medications are nothing compared to what can happen from the smoking."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Like, that's the, I think, thing to really consider."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay. Well, can I go now?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I'm-- okay, but you know--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I-I-I know it, I know- I know, doc, what you're trying to-- but I just don't want to get into that right now."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Well thanks for listening, and honestly, I- I am really worried about the smoking, so--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I um--"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I appreciate your care."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I'm here to help, okay?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So--"
+  }
+]

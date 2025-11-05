@@ -1,0 +1,242 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, where you said you'd like to start, Sal, is talking about your asthma and specifically about your dog and how one is affecting the other."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm. Um, yeah, my asthma has just been out of control lately and my doctor says that might be connected to Oscar."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm. So, what- can you let me know or-or what do you know about your asthma and the things that affected or might make it worse?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I've got allergy testing. It's just, uh, the dust makes it bad. I thought the smoking was the main thing-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-that's cut down. Um, and then they said the drinking might contribute to it, too. So, I got a lot of different things I'm working on. So that's what I know."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "The drinking, the smoking and the dust that I got, the, um, the scratch test for."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And-and-and that's what I know, and that I take the medicine for it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. And that your pet has never been mentioned as a concern?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, I've had it for-for 12 years and now it's a concern. I don't understand."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm. Yeah. And I-I can see that you've already worked hard to make some changes. You've almost quit smoking."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You're just down to your last couple of cigarettes-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-and you're not even smoking those in the house."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, your house is totally smoke-free."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes, just that work with the [unintelligible 00:01:24]."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, okay. And you have also thought about cutting back on alcohol."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-and-and I think you mentioned done-done a little bit towards that."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm. I'm a little I'm a couple of down. I used to drink four at night, now I'm down to three at least."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh-huh."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So now almost like that's not good enough, like now you have to, now it's the dog and now-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm, what's next, yeah, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-what's next. Right. Okay. So, I mean, there is certainly a lot of evidence that pets in the home and the dander from their fur can make asthma worse."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-but I wonder what are your experiences with Oscar, you know, when he's in the house or-or maybe sleeping near you or you're around him, what happens with your asthma symptoms?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, we keep them clean, like he's cleaned. So, all the dander doesn't really make sense, but I have been noticing that sometimes when he comes on the bed or just beside, I wheeze a little bit, but I think it has to do with, um, the hair, the, in my lungs cleaning itself up from the smoking."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So, I don't know if it's that-that's where I'm confused. I don't know how this could be happening."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm. So, it doesn't make total sense to you that-that it's all Oscar's fault and that-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm, Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That's that the only solution."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "But-but the wheezing is something that I've definitely noticed a little bit."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I guess I also wonder whether, regardless of-of if your asthma symptoms are connected to Oscar, that may be part of you feels like it's worth it because he's been-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-such a big part of your life for so long."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm, Mm-hmm. I just want some medicine and I want to keep Oscar and I wanna feel better about myself because I'm making all these changes in my life and it honestly feels like my-my nose is just above the water."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hmm. Yeah. And-and in the end, you know, whatever you- whatever you do, about Oscar, about your asthma, about all the other things that we talked about on that agenda-setting worksheet, I mean, you are in the driver's seat solid. It really is your choice."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm. Yeah, no, that feels good. That I, you know, at least it is my choice. I just feel like just about, I'm not feeling happy about just all these different things that are coming up. Um, and I'm kind of sad about things."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And I don't know, I don't know what to do."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "There's a lot of decisions and a lot of change with your wife, with the new baby."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And now thinking about, looking after your health and wanting to be healthy for your wife and your baby."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm. I want- I want John Carlos to grow up with Oscar. So he has his friend when he's young, too. And, um, I just, it's a lot of stress and a lot of things you-you gotta think about then, um, I'm not feeling good about it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm, so what-what would need to happen or how would you know, when you- when or if you ever did have to make a decision about whether to keep Oscar with you or not?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Man, uh, how would I know? I don't know. I think if my asthma got really bad and the medicine- she gave me the strongest medicine and it wasn't working."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That would be the way right now 'cause I can't see, I don't know how I'm going to give this dog up."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah and I get the feeling that it's something that you wanna think about that this is a really big decision-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-and it's not one that you're gonna make in a hurry."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, no. It's something I got to just sit there and-and kind of, um, put the pros and the cons on the table about, but-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-something's going on."
+  }
+]

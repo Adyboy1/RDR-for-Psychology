@@ -1,0 +1,242 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So Tom, this infection is been pretty painful for you but we have antibiotics. If you take it faithfully for 10 days, I'm sure that your infection will be gone. Can you do that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Definitely."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And do you mind if we talk about a screening form that you filled out earlier today on drug use?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Let's take a look. It says that on occasion you use, uh, drugs other than medical reasons. Which drugs do you use?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I do some meth."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Snort it, smoke it?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Snort it, always snort it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Don't inject it?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Use any other drugs?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Just, you know, some alcohol."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And, uh, um, you do this how often?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Meth?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, two, three times a month."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So you're an occasional meth user. You don't use very often?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Only snort it?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, as I think you know, Methamphetamine use is associated with some health risks. And the amount that you're using it-it puts you in a category that we consider a risky user. And that contrasts with someone who it says addicted, um, someone who's a heavy user but it's not in a healthy category because people who use Methamphetamine tend to run to a number of consequences. And actually one of them is, um, sexually transmitted diseases. Do you suppose that your STD might be associated with your Methamphetamine use?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, it could be because, uh, I was high when I had unprotected sex and I would not do that if I were not high."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So you're normally very careful and you use protection when you have sex?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Definitely, yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And it seems to you that methamphetamine may have clouded your judgment?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Anything else happening with Methamphetamine in your life? Is it affecting you in any way?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, I mean, no. I mean, like I said, I only do it in clubs, you know, with my friends, uh, two or three times a month at-at the most. Um, uh, I don't think it's really having other impacts. But I'm-I'm concerned about this one. I never expected to get gonorrhea."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, you know, I'm concerned bout it too and I'd actually recommend that you stop using Methamphetamine altogether. And, um, there-there are a lot of reasons for this but that's-that's would be my recommendation."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I-I understand but it's I think that would be a hard thing for me to do. You know, I mean, I know I should but, I mean, that's like my whole social life. You know, I mean, all my friends go to these clubs. That's where- that's where I see them. You know, that's my sex life basically and, uh, meth is just- it's just a part of it. You know, I mean, everyone is doing it there. You know, so it's while I would like to stop it's-it's kind of hard to think about doing that right away."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So you recognize Methamphetamine has some problems associated with it and you also on the balance see that a lot of your social life and your sex life involves Methamphetamine, it would be difficult to quit using?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, I don't think it would be easy but I'm not saying that I'm not willing to try."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, if you were to, um, consider how ready you are to stop using Methamphetamine completely-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-with zero being not ready at all-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "-and 10 being ready, where would you put yourself?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, three."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Why not a one or a two?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean, this has been really uncomfortable, you know, gonorrhea is a really bad experience. And, uM, I know I don't think the same, you know, when I'm- when I'm on it. And, uh, I mean, what I have is bad enough, I could easily get AIDS. I could get HIV the same way. So that scares me a lot. That's why it's higher than a one or two."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Are there any other concerns that you have about Methamphetamine?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I do just snort it but you don't know what it's cut with, you know, there could be something, you know. It could be really bad, um, if it was cut with something dangerous or something. I mean, I-I worry about that sometimes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm, so when I was first talking to you, I thought that you'd have a very, um, really not much interest in not stoping using Methamphetamine but it sounds like you have a number of reasons why you really would like to stop using Methamphetamine. And that is, um, that it might be cut with something else, um, you could get another ST- STD including HIV."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Um, what do you think would make it easier for you to cut down or quit using Methamphetamine?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Something else to do on weekends, you know, different social life."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "How could you get a different social life?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's the hard thing, I mean, almost everybody I know uses it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Is there anyone in your life who doesn't use methamphetamine?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "My sister."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Does she-- Have you talked to her about your meth use?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I haven't really talked to her about it. I think she knows it I do it sometimes. I mean, we're pretty close. I think I could talk to her about it, and I think she would probably help."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So on the one hand, it would be difficult to quit using Methamphetamine because there are so many positives that you get from using it. But on the other, there are reasons why you want to quit using methamphetamine."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And there's some things that you might be able to do that would make it easier to not use methamphetamine including talking to your sister and getting some support."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, great. I recommend that you not use Methamphetamine at all but what you do is up to you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I could see you again in a month. Would that work out for you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, sure."
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, I finished the exam. I have some good news and I have some not-so-good news. Looks like you don't have any cavities, so that's the good news."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That's great."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "However, I'm pretty concerned about something I'm noticing in your mouth. Actually, if you look up here, the roof of your mouth, I'm noticing a lot of irritation that's really consistent with tobacco use. And you had said on your form that you're not a tobacco user, so I'm just wondering what's going on."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't smoke cigarettes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Well, as I said, there's a lot of irritation, in particular, like I was mentioning, up here in the roof of your mouth, it's turned really definitely white-colored and there's little red spots. And you probably didn't notice because we don't spend a lot of time looking at the roof of our mouth, but you're really damaging this tissue in your mouth, which can really cause some severe problems in terms of your oral health. It's called nicotinic stomatitis. And this is something we don't see in any patients who don't use tobacco. So, maybe you're not smoking cigarettes, are you smoking a pipe or cigars? Or is there something else that could be contributing to this? Because I don't know what else might be causing it."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, the only thing-- I've never smoked cigarettes ever, um, but, um, when, um, when I go out with my friends, um, we like to go to, you know, we like to go out to lounges."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And, um, you know, sometimes they're those- those, uh, nice young men that gift you different sorts of things. And we got some of those mini cigars that are Swisher sweets, they come in peach and-and grape and-and, you know, that's the only time that really, you know, I've ever really used anything that-that's got tobacco in it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, so I think that's a pretty common misconception, because they're fruit-flavored, people think they're okay. Those are really bad for you. Did you know that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Really? Bad? But they're just little, mini, little, cute little girly cigars."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. They're still cigars and they're still tobacco and so they still cause lung cancer, oral cancer, emphysema, all those same kinds of things that you would see with cigarette, so it's really important."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I only use them just to relax. I mean, it's not like it's something that I would smoke 20 or 30 cigarettes a day, I mean, I only do it when we go out."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh. Well, that's, I mean, at least you're not doing that, so that's good, but it's still causing a lot of problems. And as I said, I can see that the evidence in the roof of your mouth, you're causing some serious damage, and this needs to stop. Have you thought about quitting?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I didn't really know I'd started."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What do you mean?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I didn't really think that it was anything more than just like social drinking, just something that I do in a social setting when me and my friends go out to the bars."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So you're gonna quit then?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, maybe."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What do you mean, maybe? I just told you how bad it is for you. It's messing up your mouth, you're putting yourself at risk for all these other diseases. This is really important. You need to quit."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, it's something that I'll have to think about."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What's there to think about? [chuckles] You said it's not that something you do all that often, and there's all these negative side effects, there's all these risks that you're putting yourself in."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, it's just something that I do to relax, and I don't do it that often. And so I probably could cut back."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, well, that's a good start, but cutting back isn't going to do it. If you actually quit the smoking, you can reverse all the damage you've done in your mouth, and you can stop yourself from- from being at risk for these other diseases. But as long as you're continuing to use these cigars you're really putting yourself in a lot of danger."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I don't believe that they are cigars. And what I do believe is that it's a choice and it's my right, and it's something that I choose to do. And so I will think about cutting back, but I'm not at a point where I'm ready to do that. And I'm not really sure that I even believe that what you're telling me is real."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You're choosing to really damage your mouth and actually, it can cause problems with your teeth too. I don't know if you notice your teeth might be getting yellower than they were before. That's another side effect. There are a lot of really negative things that go along with any tobacco use, whether it's cigarettes, cigars, dip, chew, snuffs, snus, hookah, any of it. This is a really important decision that you're making and you said it's your choice, but you're really choosing to make yourself sick and potentially die."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, it's something that I'll think about."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Well, I appreciate you thinking about it. I hope you'll think about it really hard. You know, this is something that I'm gonna continue to ask you about because it's something that really needs to change."
+  }
+]

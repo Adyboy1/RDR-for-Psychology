@@ -1,0 +1,222 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Before you go, do you mind if I take a look at the questionnaire you filled out before the visit?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Thanks. I want you to know that whenever patients and I talk about alcohol and drugs, my role is to share information and learn from what they want to do, if anything. Does that make sense?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Great. So, you wrote here that you've used alcohol in the last year on at least eight days?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. Somewhere around eight days. I'm not sure."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. How would you describe your drinking?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I really only drink at parties. I don't drink at home or anything."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. What kind of alcohol do you drink at parties?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, liquor, whenever people are mixing, um, vodka, sometimes beer, but I don't like beer very much. Um, the drinks at parties are usually like vodka and orange juice or gin and tonics."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "How much do you think you usually drink at a party?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You mean the whole time I'm there?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, probably four or five drinks."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Speaker 1: Okay. You checked the box here that drinking helps you feel relaxed, feel better about yourself or fit in?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. It makes me feel relaxed."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And you also checked that sometimes you forget things when you drink."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What kind of things do you forget?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I forget how many drinks I've had like when a friend asks me or I forget whose house I'm at."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sometimes you forget where you're at."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Here's the part where I share information. The safest level of drinking for teenagers is zero drinks. That's because we know a number of negative things are more likely to happen when adolescents drink. We know alcohol can harm how the brain develops as an adolescent and teens who drink are more likely to hurt themselves by accident. Sexual assault is another thing more likely to happen and so are sexually transmitted diseases. I'm curious, do you think your drinking has anything to do what the possibility of having an STD?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, yeah. I was drinking the last time I had sex. Um, the guy had been drinking too, and we didn't use a condom."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Do you remember giving consent when you had sex?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. We've had sex before and we've used a condom before."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "How do you think drinking alcohol affected using a condom this time?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, we just didn't stop to put one on. We weren't thinking that way."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sounds like drinking changes how you think in those moments?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I would've definitely told him to put on a condom if I was sober."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "There's something else I wanna share. When people forget where they are or how many drinks they've had, that's a sign of heavy drinking. And when people keep drinking despite experiencing negative consequences, that can be a sign of what we call alcohol use disorder."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, that's not me. I don't need help from anyone."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "I'm curious. What do you like about drinking alcohol?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, well, it's fun. I like drinking when my friends are drinking too. Um, I laugh more. It's just fun."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. And what about your drinking do you not like?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I don't like forgetting where I'm at sometimes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Anything else?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I really don't want any STDs."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. So, on one hand, you like the feeling of being relaxed and having fun when you're drinking and on the other hand, you don't like forgetting where you are or forgetting how many drinks you've had and you don't like putting yourself at risk for STDs?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, when you think about what you like and not like about your drinking, where do you wanna go from here? What would you like to change about your drinking?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I definitely don't want to drink too much again."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "How ready are you to not drink too much? If I asked you to pick a number on a scale of 0 to 10, and 10 being totally ready, what number would you pick?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, a nine."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Very ready to stop drinking too much. Why do you think you picked such a high number like nine rather than a lower number like a six or a seven?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I really don't want any STDs and I don't like wondering whether I have one or not."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. What plan could you come up with to make sure you achieve that goal?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, well, I wanna count my drinks so I don't have more than two and I want to stop drinking once I start feeling drunk."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Great. Who could help you reach this goal?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I have this friend who thinks I drink too much. She would probably be willing to make me promise not to have more than two drinks at a party."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. And how about unprotected sex? It sounds like you don't want to experience that again."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'm going to talk with him and I'm gonna make him promise that we always use a condom and that we don't have sex drunk."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. So, you're very motivated to change your drinking and you have a plan to keep from drinking more than two drinks at parties and keep from having unprotected sex. I would like to share how it's working for you. What do you think about coming back in six weeks or so?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Great. Thanks for talking with me and I look forward to seeing you again soon."
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So you're sick of this?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I-I just-- I can't shoplift anymore. You know, I got- I got caught again. And uh, you know, I-I got suspended, I got back to school, so I'm-I'm uh-- I'm gonna mess up my whole life here, unless I can stop this."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, it's bad. My friends and I, we just-- I mean, it's fun and uh-- so I don't know what to do, but I- but I gotta change."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I want it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So, it sounds like you're ready. You're ready to give this up."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "But, maybe the path to doing that isn't so clear."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Right. I don't know what I'm gonna do, I got some friends. These guys are-- they're bad news, but they're my friends."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And, uh, and it's fun."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "And it's fun."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "You know?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Nothing-nothing much else going on that's as fun as this. We go in, we steal these CDs. It was working out fine, but\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Uh-huh."
+  }
+]

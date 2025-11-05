@@ -1,0 +1,62 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "What else has brought you here?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "They found a little bag of weed."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's not a lot though."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's not like I was gonna sell it or anything. It's like\u2014"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Just enough for your own use?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, whatever, you know. It's California, no one cares."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah. Yeah. Yeah."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "How long is this gonna take?"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yeah, we-- You know, we have about 15 to 20 minutes to talk today, total. Um-um, which certainly it's just the first of-of some sessions that we'll have together over the next six months. It'd be a natural question you'd wanna know how much time this will take, of course. Um, what else would you like me to know about you and your perspective that you think will help me work with you over this time?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I just wanna get whatever I need to get done, done."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. You're more focused on what you need to do to get this behind you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": ".Okay, mm-hmm. Well, I'm wondering then if it's okay with you and-and I have a form that we can use if you'd like, um, just to put out some different ideas on an agenda that we could share as we're working together so that I-I can support you to be successful in getting this behind you. Would-would this feel like a natural time to-to move towards figuring out where we might go together?"
+  }
+]

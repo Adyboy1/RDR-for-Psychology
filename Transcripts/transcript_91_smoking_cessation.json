@@ -1,0 +1,318 @@
+[
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Hi, Jean. I'm Dr. Selby. Nice to meet you."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Good morning, doctor."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "How can I help you today?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, doctor, I-I made an appointment with you finally, because I was diagnosed over three months ago with a pulmonary disease, COPD."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "And although I didn't call right away. I really need some help in quitting smoking."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "So I thought, well, this is my first step. So, uh, it's time to do something."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "It's time to do something, okay. So you've been diagnosed by-"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "A respirologist."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "A respirologist diagnosed that, and-and how are you feeling right now?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'm- I'm really scared, uh, 'cause I don't feel well."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I haven't felt well for a while. I'm getting coughing fits even when I'm on the telephone with customers."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "All right. So it sounds like you've been smoking for such a long time and then this diagnosis was given to you, uh, and now that's really causing you to be afraid and frightened."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Mm-hmm. I-I don't know what I'm going to do about it."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay, okay. Now, have you thought about when you wanted to quit by?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I'm giving myself six months, six months and-and, uh, that seems like a long time away, but I have a feeling I'm going to fail at this point in time. I don't even have 50%, uh, faith in myself."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So what I'm hearing you say is that, although you want to quit smoking in the next six months, you're feeling a bit, um, under-confident that you'll actually be able to do this and you're-you're worried about failing."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I don't know what to do. I've tried to quit smoking. I've had, uh, I've taken pills, I've taken the patch."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I've gone through therapy. Uh, nothing's helped. I finally- I went to the doctor. I was actually in the hospital. They took me to the hospital for a week. That's the longest I quit."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right. So you've been able to quit smoking, but only when you were in the hospital."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I had no choice, I had no choice. And then the next day I was back to smoking again what I smoked."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Let me just step back a little bit and ask you a question so that I can better understand where the difficulty that you're having with is. Uh, could you tell me what is good about smoking for you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, it's part of my life. It's, uh, I started smoking when I was 13, 14 at home. My parents smoked. All of their friends smoked. It was on television. Everybody looked so grand."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Uh, smoking and all dressed up and-and fancy clothes and maybe having a drink in their hands and having a nice meal, um, I didn't really think about it. It's just an extension of me, I guess. It's-it's good for my nerves."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I mean, I feel like it is. I know when I've got that package in my pocket, or I know if there- if I'm going through some stress, I say, \"Oh, well, I'll have a cigarette and think this out.\""
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sure. So, Jean, I want to make sure that I've understood what you've told me of what you find good about smoking. So it helps you calm down. It gives you something to do. It's been part of your image. You know, you feel sophisticated. You feel like a movie style. In fact, the way you talk about it, it seems like that's what it makes you feel like. Is that right?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "That's right."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Is there anything I missed?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I enjoy it. It just- it relaxes me. It's great after a meal, um, for me-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-we all just do it as a little group of people, uh, my family."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Right."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "The people I work with, we go out in the courtyard-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Sure."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-have a cigarette and talk. That's how you make friends. A lot of people, um, we're like a little group now, we're all- a little bunch of us."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So it's hard for you to quit smoking when everybody else around you is smoking. And it's so easy to go out and take a break and have a cigarette."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I-I never thought of it that way, but probably you're right."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You've told me what is good about smoking for you. Uh, can you tell me what is not so good about smoking for you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, it's bad for my health and it's scaring me 'cause I don't feel well."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I haven't felt well for a while. I'm getting coughing fits even when I'm on the telephone with customers."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Is there anything else that's not good about smoking for you?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, it's expensive, really got expensive, and I smoked 30, 40, sometimes 50 cigarettes a day. And I'm starting to buy different makeup 'cause I'm starting to really age, starting to get lines in my face and wrinkles and my skin is getting really clogged up and I'm spending a fortune on cosmetics."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So let me make sure I've understood this piece as well. So the not good things or the not so good things about smoking for you are the effects on your health, effects on your physical appearance and how you'll look and-and-and the amount of investment that you're making in makeup and getting your nails done, et cetera. And then the cost of smoking."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So-so let me ask you this, given everything going on in your life right now on a scale of 1 to 10, where 10 is the most important thing to do, and 1 would be the least important thing to do, how important is it for you to quit smoking?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "It's for me, for my health, and for the money and everything I've said, I would say it's 10 or- out of 10 that I should quit smoking."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Definitely most important."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yes. A hundred percent, one of the most important things."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Let me ask another question and follow up to that. Again, given everything going on, where 10 is the most confident you've ever felt about anything and 1 is the least confident, how confident are you that you will be able to quit?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Um, I, I'd say 35 or 40% competent."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "35-40%. Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah. I'd like to say more, but, um-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. Now, help me understand why you said 40 and not something like 10 or zero because you mentioned that you don't even want to quit."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Well, I'm- I guess I'm still a fighter, and I-I-I- it's starting to- I'm starting to realize it and I do feel pretty good that I came to see you. I-I- it was a step and a couple of people who care about me actually, uh, gave me a pat on the back that I came to see you. So-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-this was a big step. So I guess, yes. Um, it wouldn't have been as high maybe last week."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So you said 30 to 40%. What would it take to build that confidence to about 45%?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Maybe if I could come to see you again, or maybe some ideas were suggested, maybe if there was a group or something. I-I don't know, but I-I need some help."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "So if you got help, that would help you say that you went from 40% to 45%."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "I-I think so because I feel a little better that I just came to see you today."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Discussing things helps me. I always feel better when I get things out."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. So Jean, I really want to congratulate you on taking this very important first step towards addressing this problem that you've had for such a long time, but as the first small step, I wonder whether you'd be open to actually just monitoring your smoking for the next week. And the reason why I say that- because as you were mentioning to me, smoking is so automatic for you that sometimes writing it down helps make every cigarette a conscious act. And I noticed that you were saying to me, you feel a loss of control over these cigarettes. And sometimes just being mindful and writing something down will help you get some control over what you're doing. And that's often the first small step. What are your thoughts about that?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "In other words, think about it more, don't- don't just do it automatically."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "That's correct. And writing it down helps that process."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Yeah, yeah. I think so because, um, when I get the urge, I could maybe fight it and, um, maybe wait till the next urge-"
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Mm-hmm."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "-and maybe mark that down that, uh, I didn't go right away when something went wrong. Um, yes, I-I can try that."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Okay. And I can give you a little card that can help you keep track of it. And if you can bring that back to the next appointment, it could be something we could discuss. Okay. Anything else?"
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "No, that gives me something to work towards until I see you next week."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "Excellent. Well, thank you so much for coming in today."
+  },
+  {
+    "interlocutor": "client",
+    "utterance_text": "Thank you for seeing me, doctor."
+  },
+  {
+    "interlocutor": "therapist",
+    "utterance_text": "You're welcome."
+  }
+]
