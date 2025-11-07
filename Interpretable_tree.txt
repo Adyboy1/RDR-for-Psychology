@@ -1,0 +1,33 @@
+                           IF: Depression with onset alcoholism                           
+
+    THEN: Client suffers from depression and has excessive alcohol intake as byproduct    
+
+                                            /\                                            
+
+
+                    IF: Client has ADHD                                       IF: Patient is stressed                   
+
+            THEN: Alcoholism as a result of ADHD            THEN: Client is stressed and uses alcohol/substances as coping mechanism
+
+                             /\                                                          /\                             
+
+
+ IF: Client drinks during pregnancy                                                                                                             
+
+ THEN: Alcoholism during pregnancy                                                                                                              
+
+                 /\                                                                                                                             
+
+
+IF: Client drinks alot, no other pertinent issues                                                                                                                                            
+
+THEN: Client has Alcohol Use Disorder                                                                                                                                            
+
+         /\                                                                                                                                                     
+
+
+IF: Client is stressed and uses substances as a coping mechanism                                                                                                                                                      
+
+THEN: Risky alcohol use with co-occurring Tobacco use disorder                                                                                                                                                      
+
+
