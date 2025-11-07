@@ -14,7 +14,7 @@ logging.basicConfig(level=logging.INFO, format='[%(levelname)s] %(message)s')
 
 # --- Constants ---
 # Updated model name as requested
-MODEL_NAME = 'gemini-1.5-pro' 
+MODEL_NAME = 'gemini-2.5-flash' 
 SYSTEM_INSTRUCTION = """
 You are a medical data analyst. Your task is to evaluate a condition based on a patient's transcript.
 Respond with only the single word 'TRUE' if the condition is met, and only 'FALSE' if it is not.
@@ -68,6 +68,29 @@ def llm_check_condition(transcript_json_path: str, condition_string: str) -> boo
     # 3b. Formulate the precise prompt
     prompt = f"""{SYSTEM_INSTRUCTION}
 
-Here is the patient transcript in JSON format:
-```json
-{transcript_content}
+    Here is the patient transcript in JSON format:
+    json
+    {transcript_content}
+    Evaluate the following condition against the transcript: Condition: {condition_string} <--- THIS IS THE LINE """
+
+    try:
+    # Send the prompt to the generative model
+        response = model.generate_content(prompt)
+        
+        # Clean the model's output (e.g., " TRUE ", "TRUE.")
+        text_response = response.text.strip().upper().replace(".", "")
+        
+        logging.info(f"LLM Check: (Condition: '{condition_string}') -> (Response: '{text_response}')")
+    
+        if text_response == 'TRUE':
+            return True
+        elif text_response == 'FALSE':
+            return False
+        else:
+            # The model didn't give a clear answer
+            logging.warning(f"LLM gave non-boolean answer: '{response.text}'")
+            return False # Fail safe
+
+    except Exception as e:
+        logging.error(f"LLM API call failed: {e}")
+        return False # Fail safe
