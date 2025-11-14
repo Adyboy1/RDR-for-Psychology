@@ -1,0 +1,2 @@
+1)Change the prompt--> the "differences" given by LLM arent great
+2)Enforce constraint on manual input. If the user wants to disregard the list of differences provided, they can enter anything manually

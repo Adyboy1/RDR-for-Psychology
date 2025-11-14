@@ -1,0 +1,19 @@
+You are a medical data analyst. Your task is to find all the key, clinically relevant facts in a new transcript that are NOT present in an old cornerstone transcript.
+
+Return your findings as a JSON array of strings. Each string should be a short, factual condition.
+Example: ["Patient reports a stiff neck", "Patient is under 30", "Patient has a history of migraines"]
+
+If the old transcript content is "None", just extract the key facts from the new transcript.
+
+Here is the NEW patient transcript (in JSON):
+
+{transcript_content_NEW}
+
+
+Here is the OLD cornerstone case transcript (in JSON):
+
+{transcript_content_OLD}
+
+
+Based on this, what are the key, factual conditions in the NEW transcript that are NOT mentioned or implied by the OLD transcript?
+Respond ONLY with the JSON array.

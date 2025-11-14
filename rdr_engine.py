@@ -1,6 +1,6 @@
 # rdr_engine.py
-# This file contains the main RDR model, now with persistence and
-# interactive revision.
+# This file contains the main RDR model.
+# It now stores file paths as cornerstone data.
 
 import sys
 import os
@@ -9,17 +9,13 @@ import logging
 from typing import Optional, List, Tuple
 
 # --- IMPORT FROM THE API FILE ---
-from llm_api import llm_check_condition
+from llm_api import llm_check_condition, llm_get_differentiating_conditions
 
 # --- 1. Configuration ---
-
-# Set up basic logging
 logging.basicConfig(level=logging.INFO, format='[%(levelname)s] %(message)s')
-
-# --- Constants ---
 TREE_STORAGE_FILE = "rdr_tree.pkl"
 
-# --- 2. Class Definitions (Unchanged) ---
+# --- 2. Class Definitions ---
 
 class Rule:
     """Represents: rule ::= if conditions then conclusions"""
@@ -31,7 +27,8 @@ class Vertex:
     """Represents: vertex ::= rule data"""
     def __init__(self, rule: Rule, data: List[str]):
         self.rule = rule
-        self.data = data
+        # data is a List of cornerstone case *file paths*
+        self.data: List[str] = data 
 
 class Node:
     """Represents: node ::= vertex tree tree"""
@@ -40,12 +37,9 @@ class Node:
         self.left: Optional[Node] = None
         self.right: Optional[Node] = None
 
-# --- 3. The RDR Engine (Modified) ---
+# --- 3. The RDR Engine ---
 
 class RDREngine:
-    """
-    Controls the 'interpret' and 'revise' modes for the RDR tree.
-    """
     def __init__(self):
         self.root: Optional[Node] = None
 
@@ -63,16 +57,13 @@ class RDREngine:
         while current_node:
             last_tried_node = current_node
             
-            # Here is the API call for each node's condition
             condition = current_node.vertex.rule.conditions
             is_true = llm_check_condition(transcript_json_path, condition)
 
             if is_true:
-                # Rule is TRUE: store this node and go RIGHT (to check exceptions)
                 last_true_node = current_node
                 current_node = current_node.right
             else:
-                # Rule is FALSE: go LEFT (to check alternatives)
                 current_node = current_node.left
 
         logging.info("--- Interpretation complete ---")
@@ -81,14 +72,11 @@ class RDREngine:
     def revise(self, transcript_json_path: str):
         """
         Runs the Revise mode interactively.
-        The summary is now asked for *inside* this function, if needed.
         """
         logging.info(f"--- REVIEWING '{transcript_json_path}' ---")
         
-        # 1. Run interpret (unchanged)
         (n1, n2) = self.interpret(transcript_json_path)
 
-        # 2. Get the conclusion (unchanged)
         if n2:
             current_conclusion = n2.vertex.rule.conclusions
             logging.info(f"\nSystem's conclusion was: '{current_conclusion}'")
@@ -96,54 +84,79 @@ class RDREngine:
             current_conclusion = "No conclusion found (empty tree)."
             logging.info(f"\nSystem's conclusion was: {current_conclusion}")
 
-        # 3. INTERACTIVE REVISION (unchanged)
         while True:
-            answer = input("   Do you agree with this conclusion? (y/n): ").strip().lower()
+            answer = input("    Do you agree with this conclusion? (y/n): ").strip().lower()
             if answer in ('y', 'n'):
                 break
             logging.warning("Please enter 'y' or 'n'.")
         
         clinician_agrees = (answer == 'y')
 
-        # 4. Handle the human's decision
         if clinician_agrees:
             logging.info("Clinician AGREES. No revision needed.")
             if n2:
-                summary_answer = input("   Add a 1-line summary to this rule's data? (y/n): ").strip().lower()
-                if summary_answer == 'y':
-                    summary_of_x = input("      Enter 1-line summary: ").strip()
-                    if summary_of_x:
-                        n2.vertex.data.append(summary_of_x)
-                        logging.info(f"Updated cornerstone data for node: '{n2.vertex.rule.conditions}'")
+                # Ask to append this file path to the node's data
+                file_answer = input(f"    Add '{transcript_json_path}' to this rule's data? (y/n): ").strip().lower()
+                if file_answer == 'y':
+                    n2.vertex.data.append(transcript_json_path)
+                    logging.info(f"Appended file path to node: '{n2.vertex.rule.conditions}'")
             return # --- End of function ---
 
-        # 5. "FALSE" branch: Execute revise section
+        # --- "FALSE" branch: Execute NEW revise section ---
         logging.info("Clinician DISAGREES. Starting revision...")
         
         print("\nPlease provide details for the new rule:")
-        new_concl = input("   What is the CORRECT conclusion? > ")
+        new_concl = input("    What is the CORRECT conclusion? > ")
         
-        if n2:
-            logging.info(f"\n   The failing rule was for cases like: {n2.vertex.data}")
+        # Get cornerstone FILE PATH for comparison
+        path_OLD: Optional[str] = None
+        if n2 and n2.vertex.data:
+            path_OLD = n2.vertex.data[0] # Compare against first cornerstone file path
+            logging.info(f"\n    Comparing against old case file (s1): '{path_OLD}'")
+        else:
+            logging.info(f"\n    (Creating new root rule, no old case file to compare against.)")
 
-        # This follows your prompt: "Let s2 be a summary of x."
-        summary_of_x = ""
-        while not summary_of_x:
-            summary_of_x = input("   Enter the 1-line cornerstone summary (s2) for this new rule: ").strip()
-            if not summary_of_x:
-                logging.warning("Cornerstone summary cannot be empty.")
+        # --- NEW: Call LLM for differentiating conditions ---
+        conditions_list = llm_get_differentiating_conditions(transcript_json_path, path_OLD)
         
-        logging.info(f"   This new case (s2) is summarized as: '{summary_of_x}'")
-        new_cond = input(f"   What condition is TRUE for this new case (s2) but FALSE for the old ones (s1)? > ")
+        new_cond = ""
+        if not conditions_list:
+            logging.warning("LLM could not find differences. Reverting to manual input.")
+            while not new_cond:
+                new_cond = input("    Please enter the new condition manually: ").strip()
+        else:
+            # --- NEW: Constrained input from list ---
+            print("\n    The LLM found these potential conditions:")
+            for i, cond in enumerate(conditions_list):
+                print(f"      {i+1}. {cond}")
+            
+            while True:
+                try:
+                    choice_str = input(f"    Select a condition by number (1-{len(conditions_list)}) or 'm' for manual input: ")
+                    if choice_str.lower() == 'm':
+                        while not new_cond:
+                            new_cond = input("    Please enter the new condition manually: ").strip()
+                        break
+                        
+                    choice_num = int(choice_str)
+                    if 1 <= choice_num <= len(conditions_list):
+                        new_cond = conditions_list[choice_num - 1]
+                        logging.info(f"Selected condition: '{new_cond}'")
+                        break
+                    else:
+                        logging.warning(f"Invalid number. Please enter a number between 1 and {len(conditions_list)}.")
+                except ValueError:
+                    logging.warning("Invalid input. Please enter a number or 'm'.")
 
         # 6. Form new rule and node
+        # The new node's cornerstone data is this transcript's file path
         new_rule = Rule(new_cond, new_concl)
-        # Store the summary as the new cornerstone case
-        new_vertex = Vertex(new_rule, [summary_of_x]) # This line now works
+        new_vertex = Vertex(new_rule, [transcript_json_path]) 
         new_node = Node(new_vertex)
         logging.info(f"\nCreated new node with rule: if '{new_cond}' then '{new_concl}'")
+        logging.info(f"Set cornerstone case for new node to: '{transcript_json_path}'")
 
-        # 7. Add new node to the tree (unchanged)
+        # 7. Add new node to the tree
         if self.root is None:
             self.root = new_node
             logging.info("Set new node as ROOT of the tree.")
@@ -157,10 +170,6 @@ class RDREngine:
 # --- 4. Persistence Functions ---
 
 def load_tree() -> RDREngine:
-    """
-    Loads the RDR engine object from the pickle file.
-    If no file is found, returns a new, empty engine.
-    """
     if os.path.exists(TREE_STORAGE_FILE):
         try:
             with open(TREE_STORAGE_FILE, "rb") as f:
@@ -174,7 +183,6 @@ def load_tree() -> RDREngine:
     return RDREngine()
 
 def save_tree(engine: RDREngine):
-    """Saves the entire RDR engine object to the pickle file."""
     try:
         with open(TREE_STORAGE_FILE, "wb") as f:
             pickle.dump(engine, f)
@@ -185,13 +193,12 @@ def save_tree(engine: RDREngine):
 # --- 5. Main Interactive Loop ---
 
 def main():
-    # Load the engine from the file (or create a new one)
     engine = load_tree() 
     
     try:
         while True:
             print("\n" + "="*70)
-            print("RDR Interactive Mode")
+            print("RDR Interactive Mode (LLM-Guided, File-Based)")
             print("Enter 'q' or 'quit' at any time to exit.")
             print("="*70)
 
@@ -204,14 +211,11 @@ def main():
             if not os.path.exists(transcript_file):
                 logging.error(f"File not found: {transcript_file}. Please try again.")
                 continue
-                
-            # --- CHANGE 4: Section 2 (Get cornerstone summary) is REMOVED ---
-
-            # 3. Run the review process
-            # --- CHANGE 5: 'summary' is no longer passed ---
+            
+            # 2. Run the review process
             engine.revise(transcript_file) 
             
-            # 4. Save the tree *after* every revision
+            # 3. Save the tree *after* every revision
             save_tree(engine)
 
     except KeyboardInterrupt:

@@ -1,0 +1,6 @@
+You are a medical data analyst. Your task is to evaluate a condition based on a patient's transcript.
+Respond with only the single word 'TRUE' if the condition is met, and only 'FALSE' if it is not.
+
+Here is the patient transcript in JSON format:
+```json
+{transcript_content}

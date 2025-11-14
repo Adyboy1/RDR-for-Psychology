@@ -1,33 +1,12 @@
-                           IF: Depression with onset alcoholism                           
+                   IF: Client dislikes the amount of alcohol she drinks                   
 
-    THEN: Client suffers from depression and has excessive alcohol intake as byproduct    
+                                     THEN: Alcoholic                                      
 
                                             /\                                            
 
 
-                    IF: Client has ADHD                                       IF: Patient is stressed                   
+                                                            IF: Client is currently unsure about changing their drinking habits and needs time to think.
 
-            THEN: Alcoholism as a result of ADHD            THEN: Client is stressed and uses alcohol/substances as coping mechanism
-
-                             /\                                                          /\                             
-
-
- IF: Client drinks during pregnancy                                                                                                             
-
- THEN: Alcoholism during pregnancy                                                                                                              
-
-                 /\                                                                                                                             
-
-
-IF: Client drinks alot, no other pertinent issues                                                                                                                                            
-
-THEN: Client has Alcohol Use Disorder                                                                                                                                            
-
-         /\                                                                                                                                                     
-
-
-IF: Client is stressed and uses substances as a coping mechanism                                                                                                                                                      
-
-THEN: Risky alcohol use with co-occurring Tobacco use disorder                                                                                                                                                      
+                                                                             THEN: recovering alcoholic                 
 
 
