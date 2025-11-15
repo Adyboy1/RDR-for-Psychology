@@ -1,21 +1,18 @@
-IF: [
-  "Client's total alcohol consumption is a significant number of drinks per week."
-]
+RDR Tree (from rdr_tree.pkl)
+(False = Left, True = Right)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                 IF: Client's total alcohol consumption is a significant number of drinks per week.                                                 
 
-                     THEN: Patient is alcoholic but willing to change                     
+                                                                  THEN: Patient is alcoholic but willing to change                                                                  
 
-                                            /\                                            
+                                                                                         /\                                                                                         
 
 
-IF: [
-  "Patient desires her friends to be accepting of her.",
-  "Patient sometimes consumes alcohol to appear to be drinking and to avoid social pressure.",
-  "Patient asked for advice on how to encourage friends to stop drinking."
-]IF: [
-  "Client does not consider his drinking to be a problem.",
-  "Client would consider changing drinking habits if he were to experience a negative health consequence, such as becoming sick."
-]
+  IF: Patient desires her friends to be accepting of her. AND Patient sometimes consumes     IF: Client does not consider his drinking to be a problem. AND Client would consider   
+   alcohol to appear to be drinking and to avoid social pressure. AND Patient asked for    changing drinking habits if he were to experience a negative health consequence, such as 
+                   advice on how to encourage friends to stop drinking.                                                         becoming sick.                                      
 
-THEN: Client is going through an identity crisis and is overwhelmedTHEN: Patient is alcoholic but needs some active consequence to take place before starting to drink
+           THEN: Client is going through an identity crisis and is overwhelmed                THEN: Patient is alcoholic but needs some active consequence to take place before     
+                                                                                                                              starting to drink                                     
 
 
