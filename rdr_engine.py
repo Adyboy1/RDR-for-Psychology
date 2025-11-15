@@ -6,6 +6,7 @@ import sys
 import os
 import pickle
 import logging
+import json  # <-- ADDED IMPORT
 from typing import Optional, List, Tuple
 
 # --- IMPORT FROM THE API FILE ---
@@ -20,6 +21,7 @@ TREE_STORAGE_FILE = "rdr_tree.pkl"
 class Rule:
     """Represents: rule ::= if conditions then conclusions"""
     def __init__(self, conditions: str, conclusions: str):
+        # 'conditions' is now a string representation of a JSON array
         self.conditions = conditions
         self.conclusions = conclusions
 
@@ -58,6 +60,7 @@ class RDREngine:
             last_tried_node = current_node
             
             condition = current_node.vertex.rule.conditions
+            # llm_check_condition now receives a JSON array string
             is_true = llm_check_condition(transcript_json_path, condition)
 
             if is_true:
@@ -119,11 +122,25 @@ class RDREngine:
         # --- NEW: Call LLM for differentiating conditions ---
         conditions_list = llm_get_differentiating_conditions(transcript_json_path, path_OLD)
         
-        new_cond = ""
+        # --- [MODIFIED SECTION START] ---
+        
+        selected_conditions: List[str] = []
+        
         if not conditions_list:
             logging.warning("LLM could not find differences. Reverting to manual input.")
-            while not new_cond:
-                new_cond = input("    Please enter the new condition manually: ").strip()
+            while True:
+                manual_cond = input("    Enter a required condition (or press Enter when done): ").strip()
+                if not manual_cond:
+                    if not selected_conditions:
+                        logging.warning("Please add at least one condition.")
+                    else:
+                        break # Done
+                else:
+                    if manual_cond not in selected_conditions:
+                        selected_conditions.append(manual_cond)
+                        logging.info(f"Added condition: '{manual_cond}'")
+                    else:
+                        logging.warning("Condition already added.")
         else:
             # --- NEW: Constrained input from list ---
             print("\n    The LLM found these potential conditions:")
@@ -132,28 +149,61 @@ class RDREngine:
             
             while True:
                 try:
-                    choice_str = input(f"    Select a condition by number (1-{len(conditions_list)}) or 'm' for manual input: ")
-                    if choice_str.lower() == 'm':
-                        while not new_cond:
-                            new_cond = input("    Please enter the new condition manually: ").strip()
-                        break
+                    print("\n    Current conditions:", json.dumps(selected_conditions))
+                    choice_str = input(f"    Select condition(s) by number (e.g., '1, 3'), 'm' (manual), or 'd' (done): ").strip().lower()
+                    
+                    if choice_str == 'd':
+                        if not selected_conditions:
+                            logging.warning("No conditions selected. Please select at least one.")
+                        else:
+                            break # Done
+                    
+                    elif choice_str == 'm':
+                        manual_cond = input("      Enter manual condition: ").strip()
+                        if manual_cond:
+                            if manual_cond not in selected_conditions:
+                                selected_conditions.append(manual_cond)
+                                logging.info(f"Added manual condition: '{manual_cond}'")
+                            else:
+                                logging.warning("Condition already added.")
+                        else:
+                            logging.warning("Empty condition ignored.")
+                    
+                    elif choice_str: # Not 'd' or 'm', so must be numbers
+                        chosen_indices = [int(i.strip()) - 1 for i in choice_str.split(',')]
+                        temp_add_list = []
                         
-                    choice_num = int(choice_str)
-                    if 1 <= choice_num <= len(conditions_list):
-                        new_cond = conditions_list[choice_num - 1]
-                        logging.info(f"Selected condition: '{new_cond}'")
-                        break
-                    else:
-                        logging.warning(f"Invalid number. Please enter a number between 1 and {len(conditions_list)}.")
+                        for idx in chosen_indices:
+                            if not (0 <= idx < len(conditions_list)):
+                                logging.warning(f"Invalid number: {idx + 1}. It will be ignored.")
+                            else:
+                                temp_add_list.append(conditions_list[idx])
+                        
+                        for cond in temp_add_list:
+                            if cond not in selected_conditions:
+                                selected_conditions.append(cond)
+                                logging.info(f"Selected condition: '{cond}'")
+                            else:
+                                logging.warning(f"Condition '{cond}' already selected.")
+                                
                 except ValueError:
-                    logging.warning("Invalid input. Please enter a number or 'm'.")
+                    logging.warning("Invalid input. Please enter numbers (e.g., '1, 3'), 'm', or 'd'.")
+        
+        logging.info(f"Final set of {len(selected_conditions)} conditions selected.")
+
+        # --- [MODIFIED SECTION END] ---
 
         # 6. Form new rule and node
         # The new node's cornerstone data is this transcript's file path
-        new_rule = Rule(new_cond, new_concl)
+        
+        # Convert the list of conditions into a single JSON string
+        new_cond_string = json.dumps(selected_conditions, indent=2)
+
+        new_rule = Rule(new_cond_string, new_concl)
         new_vertex = Vertex(new_rule, [transcript_json_path]) 
         new_node = Node(new_vertex)
-        logging.info(f"\nCreated new node with rule: if '{new_cond}' then '{new_concl}'")
+        
+        logging.info(f"\nCreated new node with rule: if {new_cond_string} then '{new_concl}'")
         logging.info(f"Set cornerstone case for new node to: '{transcript_json_path}'")
 
         # 7. Add new node to the tree

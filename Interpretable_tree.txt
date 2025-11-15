@@ -1,12 +1,21 @@
-                   IF: Client dislikes the amount of alcohol she drinks                   
+IF: [
+  "Client's total alcohol consumption is a significant number of drinks per week."
+]
 
-                                     THEN: Alcoholic                                      
+                     THEN: Patient is alcoholic but willing to change                     
 
                                             /\                                            
 
 
-                                                            IF: Client is currently unsure about changing their drinking habits and needs time to think.
+IF: [
+  "Patient desires her friends to be accepting of her.",
+  "Patient sometimes consumes alcohol to appear to be drinking and to avoid social pressure.",
+  "Patient asked for advice on how to encourage friends to stop drinking."
+]IF: [
+  "Client does not consider his drinking to be a problem.",
+  "Client would consider changing drinking habits if he were to experience a negative health consequence, such as becoming sick."
+]
 
-                                                                             THEN: recovering alcoholic                 
+THEN: Client is going through an identity crisis and is overwhelmedTHEN: Patient is alcoholic but needs some active consequence to take place before starting to drink
 
 
