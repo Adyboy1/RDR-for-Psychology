@@ -1,148 +1,107 @@
 # llm_api.py
-# This file uses the Google Gemini API to check RDR conditions
-# and find differentiating conditions.
-
 import google.generativeai as genai
 import os
 import json
 import logging
-from typing import Optional
+from typing import Optional, List
 
-# --- 1. Configuration ---
+# --- Configuration ---
 logging.basicConfig(level=logging.INFO, format='[%(levelname)s] %(message)s')
-
-# --- Constants ---
 MODEL_NAME = 'gemini-2.5-flash'
+
+# Prompt Files
 CHECK_PROMPT_FILE = 'prompt_template.txt'
 DIFF_PROMPT_FILE = 'prompt_differentiate.txt'
+SUMMARY_PROMPT_FILE = 'prompt_summary.txt' # New
+MERGE_PROMPT_FILE = 'prompt_merge.txt'     # New
 
-# --- 2. Setup: Get API Key and load model ---
+# --- Setup ---
 try:
     api_key = os.environ["API_KEY"]
     genai.configure(api_key=api_key)
-except KeyError:
-    logging.error("API_KEY environment variable not set.")
-    raise EnvironmentError("API_KEY environment variable not set.")
-
-try:
     model = genai.GenerativeModel(MODEL_NAME)
-    logging.info(f"Gemini model '{MODEL_NAME}' loaded successfully.")
 except Exception as e:
-    logging.error(f"Could not load Gemini model: {e}")
-    raise
+    raise EnvironmentError(f"Setup failed: {e}")
 
-# --- 3. Load Prompt Templates ---
-try:
-    with open(CHECK_PROMPT_FILE, "r") as f:
-        CHECK_PROMPT_TEMPLATE = f.read()
-    logging.info(f"Loaded check prompt from {CHECK_PROMPT_FILE}")
-    
-    with open(DIFF_PROMPT_FILE, "r") as f:
-        DIFF_PROMPT_TEMPLATE = f.read()
-    logging.info(f"Loaded differentiate prompt from {DIFF_PROMPT_FILE}")
-        
-except FileNotFoundError as e:
-    logging.error(f"Could not find prompt file: {e.filename}.")
-    raise
-except Exception as e:
-    logging.error(f"Error reading prompt file: {e}")
-    raise
+# --- Load Prompts ---
+def load_prompt(filename):
+    try:
+        with open(filename, "r") as f:
+            return f.read()
+    except Exception as e:
+        logging.error(f"Error loading {filename}: {e}")
+        return ""
 
-# --- 4. Main API Functions ---
+CHECK_TEMPLATE = load_prompt(CHECK_PROMPT_FILE)
+DIFF_TEMPLATE = load_prompt(DIFF_PROMPT_FILE)
+SUMMARY_TEMPLATE = load_prompt(SUMMARY_PROMPT_FILE)
+MERGE_TEMPLATE = load_prompt(MERGE_PROMPT_FILE)
 
-def llm_check_condition(transcript_json_path: str, condition_string: str) -> bool:
+# --- Core Functions ---
+
+def llm_generate_summary(transcript_path: str) -> str:
     """
-    (Function 1)
-    Reads a JSON transcript, sends it to the Gemini API with a condition,
-    and returns True or False.
+    Reads raw JSON transcript and generates a Clinical Prototype Summary.
     """
     try:
-        with open(transcript_json_path, "r") as f:
-            transcript_data = json.load(f)
-        transcript_content = json.dumps(transcript_data, indent=2)
+        with open(transcript_path, "r") as f:
+            raw_data = json.load(f)
+        raw_text = json.dumps(raw_data, indent=2)
+        
+        prompt = SUMMARY_TEMPLATE.format(transcript_content=raw_text)
+        response = model.generate_content(prompt)
+        return response.text.strip()
     except Exception as e:
-        logging.error(f"llm_api(check): Error reading file {transcript_json_path}: {e}")
-        return False
+        logging.error(f"Summary generation failed: {e}")
+        return ""
 
-    # Formulate the prompt
-    prompt = CHECK_PROMPT_TEMPLATE.format(
-        transcript_content=transcript_content,
+def llm_check_condition(summary_text: str, condition_string: str) -> bool:
+    """
+    Checks if a SUMMARY satisfies a condition.
+    """
+    prompt = CHECK_TEMPLATE.format(
+        summary_content=summary_text, 
         condition_string=condition_string
     )
-
     try:
         response = model.generate_content(prompt)
-        text_response = response.text.strip().upper().replace(".", "")
-        logging.info(f"LLM Check: (Condition: '{condition_string}') -> (Response: '{text_response}')")
-    
-        if text_response == 'TRUE':
-            return True
-        elif text_response == 'FALSE':
-            return False
-        else:
-            logging.warning(f"LLM(check) gave non-boolean answer: '{response.text}'")
-            return False
-    except Exception as e:
-        logging.error(f"LLM(check) API call failed: {e}")
+        logging.info(f"LLM Check: '{condition_string}' -> {response.text.strip().upper()}")
+        return 'TRUE' in response.text.strip().upper()
+    except Exception:
         return False
 
-def llm_get_differentiating_conditions(transcript_json_path_NEW: str, transcript_json_path_OLD: Optional[str]) -> list[str]:
+def llm_merge_summaries(old_summary: str, new_summary: str) -> str:
     """
-    (Function 2 - UPDATED)
-    Compares a new transcript against an old transcript file and returns a
-    list of differentiating conditions.
+    Merges a new patient profile into an existing consolidated group profile.
     """
-    # 1. Load the NEW transcript (mandatory)
-    try:
-        with open(transcript_json_path_NEW, "r") as f:
-            transcript_data_NEW = json.load(f)
-        transcript_content_NEW = json.dumps(transcript_data_NEW, indent=2)
-    except Exception as e:
-        logging.error(f"llm_api(diff): Error reading NEW file {transcript_json_path_NEW}: {e}")
-        return [] # Return empty list on failure
-
-    # 2. Load the OLD transcript (optional)
-    transcript_content_OLD = "None" # Default string for the prompt
-    if transcript_json_path_OLD:
-        try:
-            with open(transcript_json_path_OLD, "r") as f:
-                transcript_data_OLD = json.load(f)
-            transcript_content_OLD = json.dumps(transcript_data_OLD, indent=2)
-            logging.info(f"Comparing against old transcript: {transcript_json_path_OLD}")
-        except FileNotFoundError:
-            logging.warning(f"llm_api(diff): Old transcript file not found: {transcript_json_path_OLD}. Comparing against 'None'.")
-        except Exception as e:
-            logging.warning(f"llm_api(diff): Error reading OLD file {transcript_json_path_OLD}: {e}. Comparing against 'None'.")
-
-    # 3. Formulate the prompt
-    prompt = DIFF_PROMPT_TEMPLATE.format(
-        transcript_content_NEW=transcript_content_NEW,
-        transcript_content_OLD=transcript_content_OLD
+    prompt = MERGE_TEMPLATE.format(
+        old_summary=old_summary,
+        new_summary=new_summary
     )
-    
-    logging.info("Calling LLM to find differentiating conditions...")
-
-    # 4. Call API and parse response
     try:
         response = model.generate_content(prompt)
-        response_text = response.text.strip()
-        if response_text.startswith("```json"):
-            response_text = response_text[7:-3].strip()
-        elif response_text.startswith("`"):
-            response_text = response_text[1:-1].strip()
-
-        conditions_list = json.loads(response_text)
-        
-        if isinstance(conditions_list, list):
-            logging.info(f"LLM(diff) found {len(conditions_list)} conditions.")
-            return conditions_list
-        else:
-            logging.warning(f"LLM(diff) did not return a list. Got: {type(conditions_list)}")
-            return []
-
-    except json.JSONDecodeError:
-        logging.warning(f"LLM(diff) gave invalid JSON: '{response.text}'")
-        return []
+        return response.text.strip()
     except Exception as e:
-        logging.error(f"LLM(diff) API call failed: {e}")
+        logging.error(f"Merge failed: {e}")
+        return old_summary # Fallback: keep old summary
+
+def llm_get_differentiating_conditions(new_summary: str, ref_summary: str) -> List[str]:
+    """
+    Compares NEW summary vs REFERENCE summary to find differences.
+    """
+    prompt = DIFF_TEMPLATE.format(
+        summary_new=new_summary,
+        summary_ref=ref_summary if ref_summary else "None"
+    )
+    
+    try:
+        response = model.generate_content(prompt)
+        text = response.text.strip()
+        # Clean markdown code blocks if present
+        if text.startswith("```"):
+            text = text.split("\n", 1)[1].rsplit("\n", 1)[0]
+        
+        return json.loads(text)
+    except Exception as e:
+        logging.error(f"Diff extraction failed: {e}")
         return []

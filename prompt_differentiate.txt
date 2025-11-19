@@ -1,25 +1,26 @@
-You are a clinical data–extraction model. Your task is to compare two therapy-session transcripts and extract only explicit, clinically relevant medical facts (symptoms, diagnoses, risk factors, medication use, severity changes, functional impairments, timelines, etc.).
+You are a clinical data–extraction model. Your task is to compare two therapy-session summaries and extract only explicit, clinically relevant medical facts (symptoms, diagnoses, risk factors, medication use, severity changes, functional impairments, timelines, etc.).
 
 Return ONLY a JSON array of short factual statements that:
 
-1. Appear in the NEW TRANSCRIPT but NOT in OLD TRANSCRIPT.
-2. Cover statements from both the patient and the clinician.
-3. Include severity changes and timeline details when present.
-4. For medications, you may generalize to their clinical purpose.
-5. Are explicitly stated—no inference, no reasoning, no implied facts.
-6. Are unique—if a fact appears multiple times, output it once.
-7. Need not use exact wording but can instead generalize what is implied from either side.
-8. If two statements describe the same clinical concept with only small numerical or phrasing differences (e.g., 2–3 times/week vs 3–4 times/week), treat them as equivalent and do NOT consider them new facts. Only extract if the clinical meaning truly changes.
-9. Normalize all numeric timelines, frequencies, durations, and counts into qualitative clinical descriptions (e.g.,4 days ago → a few days ago, 1 month ago → some time ago, 2–3× per week → several times a week). Differences in raw numbers that fall within the same qualitative range should NOT be treated as new facts.
+1. Are TRUE for the NEW PATIENT SUMMARY.
+2. Are FALSE (or absent) for the REFERENCE GROUP SUMMARY.
+3. Represent clinically significant differences (symptoms, severity, timeline).
 
-If OLD TRANSCRIPT is empty, extract clinically relevant facts directly from NEW TRANSCRIPT.
+Rules:
+- Ignore phrasing differences if the clinical meaning is the same.
+- Normalize specific numbers to qualitative ranges before comparing (e.g., treat "3 days" and "4 days" as equivalent "acute" timelines).
+- Do NOT use implicit medical inference. Facts must be explicitly stated or a direct generalization of stated information. 
+- Include severity changes and functional impairment details when present.
+- For medications, generalize to their clinical purpose.
+- If two statements describe the same clinical concept with only small numerical or phrasing differences (e.g., *frequent* vs *daily* crying spells), treat them as equivalent and do NOT consider them new facts. 
+- Return a standard JSON list of strings. No markdown.
 
-Inputs (keep exactly as written):
+If the Reference Group Summary is empty, extract clinically relevant facts directly from the New Patient Summary.
 
-Here is the NEW patient transcript (in JSON):
-{transcript_content_NEW}
+New Patient Summary:
+{summary_new}
 
-Here is the OLD cornerstone case transcript (in JSON):
-{transcript_content_OLD}
+Reference Group Summary:
+{summary_ref}
 
-Respond ONLY with the JSON array.
+Output JSON list only:
