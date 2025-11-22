@@ -10,10 +10,15 @@ logging.basicConfig(level=logging.INFO, format='[%(levelname)s] %(message)s')
 MODEL_NAME = 'gemini-2.5-flash'
 
 # Prompt Files
-CHECK_PROMPT_FILE = 'prompt_template.txt'
-DIFF_PROMPT_FILE = 'prompt_differentiate.txt'
-SUMMARY_PROMPT_FILE = 'prompt_summary.txt' # New
-MERGE_PROMPT_FILE = 'prompt_merge.txt'     # New
+CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
+# Go up one level to PSYCHOLOGY_RDR, then into data/prompts
+PROMPTS_DIR = os.path.join(CURRENT_DIR, '..','prompts')
+
+# Define full paths for prompt files
+CHECK_PROMPT_FILE = os.path.join(PROMPTS_DIR, 'prompt_template.txt')
+DIFF_PROMPT_FILE = os.path.join(PROMPTS_DIR, 'prompt_differentiate.txt')
+SUMMARY_PROMPT_FILE = os.path.join(PROMPTS_DIR, 'prompt_summary.txt')
+MERGE_PROMPT_FILE = os.path.join(PROMPTS_DIR, 'prompt_merge.txt')
 
 # --- Setup ---
 try:

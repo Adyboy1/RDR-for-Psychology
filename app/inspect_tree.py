@@ -1,10 +1,25 @@
+import sys
 import pickle
 import json
+import os
 import textwrap  # <-- ADDED for multi-line wrapping
-from rdr_engine import RDREngine, Node, Rule, Vertex
 
-TREE_STORAGE_FILE = "rdr_tree.pkl"
-OUTPUT_FILE = "Interpretable_tree.txt"
+current_dir = os.path.dirname(os.path.abspath(__file__))
+sys.path.append(current_dir)
+
+try:
+    from rdr_engine import RDREngine, Node, Rule, Vertex
+except ImportError:
+    from app.rdr_engine import RDREngine, Node, Rule, Vertex
+
+    
+# --- PATH CONFIGURATION ---
+CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
+STORAGE_DIR = os.path.join(CURRENT_DIR, '..', 'storage')
+OUTPUT_DIR = os.path.join(CURRENT_DIR, '..','storage')
+
+TREE_STORAGE_FILE = os.path.join(STORAGE_DIR, "rdr_tree_summary.pkl")
+OUTPUT_FILE = os.path.join(OUTPUT_DIR, "Interpretable_tree.txt")
 
 # Colors for branches in terminal output (text file will not include colors)
 RED = "\033[31m"

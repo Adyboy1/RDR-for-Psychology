@@ -1,0 +1,26 @@
+RDR Tree (from /mnt/c/VS code workspaces/Psychology RDR/app/../storage/rdr_tree_summary.pkl)
+(False = Left, True = Right)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                    IF: Client has a pattern of alcohol consumption exceeding health guidelines.                                                    
+
+                                                                  THEN: Patient is alcoholic but willing to change                                                                  
+
+                                                                                          \                                                                                         
+
+
+                                                                                             IF: Client initially did not acknowledge his alcohol consumption as problematic. AND   
+                                                                                            Client indicated that experiencing a negative health consequence would be a meaningful  
+                                                                                                                            motivator for change.                                   
+
+                                                                                                  THEN: Patient is alcoholic, requires a significant event to stop drinkking        
+
+                                                                                                                                      /                                             
+
+
+                                                                                            IF: Is well-informed about the ill effects                                              
+                                                                                                            of alcohol                                                              
+
+                                                                                            THEN: Patient needs a small trigger event                                               
+                                                                                                         to stop drinking                                                           
+
+

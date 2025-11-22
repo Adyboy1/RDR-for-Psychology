@@ -7,15 +7,30 @@ import json
 from typing import Optional, List, Tuple
 
 # Import updated API functions
-from llm_api import (
-    llm_check_condition, 
-    llm_get_differentiating_conditions, 
-    llm_generate_summary, 
-    llm_merge_summaries
-)
+current_dir = os.path.dirname(os.path.abspath(__file__))
+sys.path.append(current_dir)
 
+# Now you can just import directly
+try:
+    from llm_api import (
+        llm_check_condition, 
+        llm_get_differentiating_conditions, 
+        llm_generate_summary, 
+        llm_merge_summaries
+    )
+except ImportError:
+    # Fallback if running from root
+    from app.llm_api import (
+        llm_check_condition, 
+        llm_get_differentiating_conditions, 
+        llm_generate_summary, 
+        llm_merge_summaries
+    )
 logging.basicConfig(level=logging.INFO, format='[%(levelname)s] %(message)s')
-TREE_STORAGE_FILE = "rdr_tree_summary.pkl" # Changed filename to avoid conflict with old pickle
+#Path configuration
+CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
+STORAGE_DIR = os.path.join(CURRENT_DIR, '..','storage')
+TREE_STORAGE_FILE = os.path.join(STORAGE_DIR, "rdr_tree_summary.pkl")
 
 class Rule:
     def __init__(self, conditions: str, conclusions: str):
