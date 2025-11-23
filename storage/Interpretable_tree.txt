@@ -23,4 +23,31 @@ RDR Tree (from /mnt/c/VS code workspaces/Psychology RDR/app/../storage/rdr_tree_
                                                                                             THEN: Patient needs a small trigger event                                               
                                                                                                          to stop drinking                                                           
 
+                                                                                                                \                                                                  
+
+
+                                                                                                               IF: Patient exhibits                                             
+                                                                                                                   significant                                                  
+                                                                                                               cognitive dissonance                                             
+                                                                                                               between maintaining                                              
+                                                                                                                her past identity                                               
+                                                                                                               and recognizing the                                              
+                                                                                                               necessity of change                                              
+                                                                                                                for her child. AND                                              
+                                                                                                                Patient struggles                                               
+                                                                                                                  with emotional                                                
+                                                                                                                regulation in the                                               
+                                                                                                               face of conflicting                                              
+                                                                                                               internal desires and                                             
+                                                                                                                 external social                                                
+                                                                                                                pressures, leading                                              
+                                                                                                                    to actions                                                  
+                                                                                                                contradicting her                                               
+                                                                                                                protective intent                                               
+                                                                                                                  for her baby.                                                 
+
+                                                                                                                  THEN: Requires                                                
+                                                                                                                medication to cope                                              
+                                                                                                                  with addiciton                                                
+
 

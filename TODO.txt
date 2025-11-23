@@ -2,4 +2,4 @@
 (Done) 2) update the summary of the last true node with the new transcript even if user agrees
 3) after the list of differences is given and user input is taken, take the clauses and recheck somehow???
 (Done) 4) give the user the option to add nunace to an option from the list of differences, the check with the last true node for consistency
-5) UI time
+5) (fix the tree image rendering)UI time
